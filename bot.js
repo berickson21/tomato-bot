@@ -1,6 +1,6 @@
 var Discord = require('discord.io');
 var logger = require('winston');
-var auth = require('./auth.json');
+require('dotenv').config()
 // Configure logger settings
 logger.remove(logger.transports.Console);
 logger.add(new logger.transports.Console, {
@@ -9,7 +9,7 @@ logger.add(new logger.transports.Console, {
 logger.level = 'debug';
 // Initialize Discord Bot
 var bot = new Discord.Client({
-   token: auth.token,
+   token: process.env.BOT_TOKEN,
    autorun: true
 });
 bot.on('ready', function (evt) {
@@ -25,25 +25,29 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         var cmd = args[0];
        
         args = args.splice(1);
+        var message = "";
         switch(cmd.toLowerCase()) {
             // %hi
             case 'hi':
-                bot.sendMessage({
-                    to: channelID,
-                    message: 'Hi!'
-                });
+                message = "Hi!"
             break;
-            
             // %build
             case 'build':
-                const message = getBuild(args[0], args[1])
-                
-                bot.sendMessage({
-                    to: channelID,
-                    message: message
-                })
-            // Just add any case commands if you want to..
-         }
+                message = getBuild(args[0], args[1])
+                break;
+            // %hesright
+            case 'hesright':
+                message = user === "Viykin" ? '<:hesright:473885793341931531>' : "Viykin's right."
+                break;
+            // %ship
+            case 'ship':
+                message = `?ship ${args[0]}`
+                break;
+         };
+         bot.sendMessage({
+            to: channelID,
+            message: message
+        })
      }
 });
 
@@ -51,7 +55,9 @@ function getBuild(nation, type) {
     switch (nation.toLowerCase()) {
         case "us":
         case "usa":
+        case "usn":
         case "america":
+        case "murica":
             switch (type.toLowerCase()) {
                 case "dd":
                 case "destroyer":
@@ -65,11 +71,15 @@ function getBuild(nation, type) {
                 case "bb":
                 case "battleship":
                     return "USA battleship placeholder"
+                case "cv":
+                case "carrier":
+                    return "no u"
                 default:
                     return "I didn't understand that ship type!"
             }    
         case "japan":
         case "japanese":
+        case "ijn":
         case "jp":
             switch (type.toLowerCase()) {
                 case "dd":
@@ -84,6 +94,9 @@ function getBuild(nation, type) {
                 case "bb":
                 case "battleship":
                     return "Japanese battleship placeholder"
+                case "cv":
+                case "carrier":
+                    return "no u"
                 default:
                     return "I didn't understand that ship type!"
             }    
@@ -108,6 +121,7 @@ function getBuild(nation, type) {
             }    
         case "russian":
         case "soviet":
+        case "vmf":
         case "ru":
             switch (type.toLowerCase()) {
                 case "dd":
@@ -127,6 +141,8 @@ function getBuild(nation, type) {
             }
         case "french":
         case "fr":
+        case "mn":
+        case "baguette":
             switch (type.toLowerCase()) {
                 case "dd":
                 case "destroyer":
@@ -164,6 +180,7 @@ function getBuild(nation, type) {
             }      
         case "italian":
         case "it":
+        case "mm":
             switch (type.toLowerCase()) {
                 case "dd":
                 case "destroyer":

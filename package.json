@@ -5,14 +5,18 @@
   "main": "bot.js",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "dotenv": "^8.1.0",
     "eslint": "^6.4.0",
     "fs-jetpack": "^2.2.2",
     "lodash": "^4.17.15",
     "winston": "^3.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Blake Erickson",
   "license": "MIT",
