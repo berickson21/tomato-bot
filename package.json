@@ -4,7 +4,7 @@
   "description": "Helper bot for the Adopt a Tomato Discord server.",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "eslint": "^6.4.0",
     "fs-jetpack": "^2.2.2",
     "lodash": "^4.17.15",
@@ -15,5 +15,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Blake Erickson",
-  "license": "ISC"
+  "license": "MIT"
 }
