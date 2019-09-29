@@ -4,14 +4,12 @@
   "description": "Helper bot for the Adopt a Tomato Discord server.",
   "main": "bot.js",
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
     "dotenv": "^8.1.0",
-    "eslint": "^6.4.0",
-    "fs-jetpack": "^2.2.2",
-    "lodash": "^4.17.15",
-    "winston": "^3.2.1"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
+    "eslint": "^6.4.0",
     "nodemon": "^1.19.2"
   },
   "scripts": {
