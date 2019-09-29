@@ -9,9 +9,9 @@ const bot = new Discord.Client();
 require('dotenv').config()
 // Initialize Discord Bot
 bot.on("ready", () => {
-    // This event will run if the bot starts, and logs in, successfully.
+    // This event will run if the bot starts and logs in successfully.
     console.log(`Tomato-bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels`);
-    bot.user.setActivity(`Serving ${bot.guilds.size} servers`);
+    bot.user.setActivity(`with fire`);
 });
 bot.on("guildCreate", guild => {
     // This event triggers when the bot joins a guild (server).
@@ -24,18 +24,16 @@ bot.on("guildDelete", guild => {
     bot.user.setActivity(`Serving ${bot.guilds.size} servers`);
 });
 bot.on("message", async message => {
-    // Ignore any message that does not start with the % prefix or sent by another bot
-    if (message.content.charAt(0) !== process.env.PREFIX || message.author.bot) return;
-    // Splits the message content into an array of words.
-    const args = message.content.slice(process.env.PREFIX.length).trim().split(/ +/g);
-    // Separates the command from the rest of the words
-    const command = args.shift().toLowerCase();
-    // Don't worry about it...
-    const powerUser = message.author.id === process.env.POWER_USER ? true : false
     // Construct a response
-    const response = prepareResponse(message, command, args, powerUser)
+    const response = prepareResponse(message)
     // Send the response
-    message.channel.send(response);
+    if (response) {
+        try {
+            await message.channel.send(response);
+        } catch (err) {
+            console.error(err)
+        }
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
