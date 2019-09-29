@@ -6,12 +6,12 @@ const {
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-require('dotenv').config()
+require("dotenv").config();
 // Initialize Discord Bot
 bot.on("ready", () => {
     // This event will run if the bot starts and logs in successfully.
     console.log(`Tomato-bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels`);
-    bot.user.setActivity(`with fire`);
+    bot.user.setActivity("with fire");
 });
 bot.on("guildCreate", guild => {
     // This event triggers when the bot joins a guild (server).
@@ -25,13 +25,13 @@ bot.on("guildDelete", guild => {
 });
 bot.on("message", async message => {
     // Construct a response
-    const response = prepareResponse(message)
+    const response = prepareResponse(message);
     // Send the response
     if (response) {
         try {
             await message.channel.send(response);
         } catch (err) {
-            console.error(err)
+            console.error(err);
         }
     }
 });
