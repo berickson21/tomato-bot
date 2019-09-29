@@ -6,14 +6,7 @@ const {
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-var logger = require('winston');
 require('dotenv').config()
-// Configure logger settings
-logger.remove(logger.transports.Console);
-logger.add(new logger.transports.Console, {
-    colorize: true
-});
-logger.level = 'debug';
 // Initialize Discord Bot
 bot.on("ready", () => {
     // This event will run if the bot starts, and logs in, successfully.
