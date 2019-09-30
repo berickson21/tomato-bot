@@ -1,0 +1,51 @@
+{
+  "usn": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "ijn": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "vmf": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "kms": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "mm": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "mn": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  },
+  "pa": {
+    "dd": "Destroyer",
+    "cl": "Light Cruiser",
+    "ca": "Heavy Cruiser",
+    "bb": "Battleship",
+    "cv": "Aircraft Carrier"
+  }
+}
