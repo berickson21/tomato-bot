@@ -11,7 +11,7 @@ require("dotenv").config();
 bot.on("ready", () => {
     // This event will run if the bot starts and logs in successfully.
     console.log(`Tomato-bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels`);
-    bot.user.setActivity("with fire");
+    bot.user.setActivity("the long game");
 });
 bot.on("guildCreate", guild => {
     // This event triggers when the bot joins a guild (server).
