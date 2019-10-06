@@ -1,51 +1,56 @@
 {
-  "usn": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "ijn": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "vmf": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "kms": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "mm": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "mn": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
-  },
-  "pa": {
-    "dd": "Destroyer",
-    "cl": "Light Cruiser",
-    "ca": "Heavy Cruiser",
-    "bb": "Battleship",
-    "cv": "Aircraft Carrier"
+  "nations": {
+    "usn": {
+      "aliases": ["usn", "usa", "us", "american", "murica", "freedom"],
+      "dd": [{ "name": "Gearing", "skills": ["Soon\u2122"] }],
+      "cl": [{ "name": "Worcestershire", "skills": ["Soon\u2122"] }],
+      "ca": [{ "name": "Des Moines", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Montana", "skills": ["Soon\u2122"] }],
+      "cv": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "ijn": {
+      "aliases": ["ijn", "japan", "japanese", "waifu"],
+      "dd": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "cv": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "vmf": {
+      "aliases": ["vmf", "soviet", "russian", "balans"],
+      "dd": [
+        { "name": "Khabarovsk", "skills": ["Soon\u2122"] },
+        { "name": "Grozovoi", "skills": ["Soon\u2122"] }
+      ],
+      "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "km": {
+      "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
+      "dd": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "cv": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "mn": {
+      "aliases": ["mn", "marine nationale", "french", "france", "baguette"],
+      "dd": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "pa": {
+      "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
+      "dd": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "rm": {
+      "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
+      "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    },
+    "rn": {
+      "aliases": ["rn", "royal navy", "british", "uk", "limey"],
+      "dd": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "cl": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
+      "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
+    }
   }
 }
