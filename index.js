@@ -27,7 +27,7 @@ bot.on("guildDelete", guild => {
 });
 bot.on("message", async message => {
   // Construct a response
-  const response = prepareResponse(message);
+  const response = await prepareResponse(message);
   // Send the response
   if (response) {
     try {
