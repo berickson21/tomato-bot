@@ -1,6 +1,6 @@
 {
   "usn": {
-    "aliases": ["usn", "usa", "us", "american", "murica", "freedom"],
+    "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
     "dd": [{ "name": "Gearing", "skills": ["pt", "ls", "si", "ce"] }],
     "cl": [{ "name": "Worcestershire", "skills": ["Soon\u2122"] }],
     "ca": [{ "name": "Des Moines", "skills": ["Soon\u2122"] }],
@@ -18,7 +18,10 @@
     "aliases": ["vmf", "soviet", "russian", "balans"],
     "dd": [
       { "name": "Khabarovsk", "skills": ["Soon\u2122"] },
-      { "name": "Grozovoi", "skills": ["Soon\u2122"] }
+      {
+        "name": "Grozovoi",
+        "skills": ["pt", "ls", "si", "aft", "ifhe", "ar", "se"]
+      }
     ],
     "ca": [{ "name": "Standard", "skills": ["Soon\u2122"] }],
     "bb": [{ "name": "Standard", "skills": ["Soon\u2122"] }]
