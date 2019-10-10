@@ -1,0 +1,129 @@
+{
+  "nations": {
+    "usn": {
+      "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
+      "dd": ["gearing"],
+      "cl": ["worcester"],
+      "ca": ["des_moines"],
+      "bb": ["montana"],
+      "cv": ["midway"]
+    },
+    "ijn": {
+      "aliases": ["ijn", "japan", "japanese", "waifu"],
+      "dd": ["shimakaze", "harugumo"],
+      "ca": ["zao"],
+      "bb": ["yamato"],
+      "cv": ["hakuryu"]
+    },
+    "vmf": {
+      "aliases": ["vmf", "soviet", "russian", "balans"],
+      "dd": ["khabarovsk", "grozovoi"],
+      "ca": ["moskva"],
+      "bb": ["kremlin"]
+    },
+    "km": {
+      "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
+      "dd": ["z-52"],
+      "ca": ["hindenburg"],
+      "bb": ["grosser_kurfurst"]
+    },
+    "mn": {
+      "aliases": ["mn", "marine nationale", "french", "france", "baguette"],
+      "dd": ["kleber"],
+      "ca": ["henri"],
+      "bb": ["republique"]
+    },
+    "pa": {
+      "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
+      "dd": ["yueyang"]
+    },
+    "rm": {
+      "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
+      "ca": ["venezia"]
+    },
+    "rn": {
+      "aliases": ["rn", "royal navy", "british", "uk", "limey"],
+      "dd": ["daring"],
+      "cl": ["minotaur"],
+      "bb": ["conqueror"],
+      "cv": ["audacious"]
+    }
+  },
+  "skillMap": {
+    "bft": 1,
+    "bos": 2,
+    "em": 3,
+    "tae": 4,
+    "ha": 5,
+    "v": 7,
+    "de": 8,
+    "aft": 9,
+    "aa": 10,
+    "ieb": 11,
+    "ce": 12,
+    "joat": 13,
+    "fp": 14,
+    "ss": 15,
+    "ie": 16,
+    "si": 17,
+    "pm": 18,
+    "ifa": 19,
+    "ls": 20,
+    "el": 21,
+    "ar": 23,
+    "ta": 24,
+    "se": 25,
+    "ms": 26,
+    "maaf": 27,
+    "pt": 28,
+    "as": 29,
+    "sse": 30,
+    "dcf": 31,
+    "lg": 32,
+    "ifhe": 33,
+    "rl": 34
+  },
+  "ships": {
+    "gearing": "gearing",
+    "worcester": "worcester",
+    "des_moines": "dm",
+    "montana": "tank",
+    "missouri": "tank",
+    "midway": "soon",
+    "salem": "soon",
+    "shimakaze": "soon",
+    "harugumo": "soon",
+    "zao": "zao",
+    "yamato": "tank",
+    "hakuryu": "soon",
+    "khabarovsk": "soon",
+    "grozovoi": "groz",
+    "moskva": "tank",
+    "stalingrad": "tank",
+    "kremlin": "tank",
+    "z-52": "z-52",
+    "hindenburg": "tank",
+    "grosser_kurfurst": "secondaries",
+    "kleber": "soon",
+    "henri": "henri",
+    "republique": "tank",
+    "yueyang": "soon",
+    "venezia": "soon",
+    "daring": "soon",
+    "minotaur": "soon",
+    "conqueror": "soon",
+    "audacious": "soon"
+  },
+  "builds": {
+    "tank": ["pt", "ar", "si", "ce", "fp", "bos", "em"],
+    "secondaries": ["pt", "ar", "si", "aft", "ms", "fp", "el"],
+    "gearing": ["pt", "ls", "si", "ce", "ar", "se", "tae"],
+    "henri": ["pt", "ar", "si", "ce", "ifhe", "em", "joat", "el"],
+    "zao": ["pt", "ar", "si", "ce", "em", "rl", "joat", "el"],
+    "groz": ["pt", "ar", "si", "aft", "se", "pm", "em"],
+    "z-52": ["pt", "ls", "si", "ce", "tae", "se", "bft"],
+    "dm": ["pt", "ar", "si", "ce", "rl", "joat", "pm"],
+    "worcester": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
+    "soon": ["Soon\u2122"]
+  }
+}
