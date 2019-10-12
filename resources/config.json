@@ -2,40 +2,40 @@
   "nations": {
     "usn": {
       "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
-      "dd": ["gearing"],
-      "cl": ["worcester"],
-      "ca": ["des_moines"],
-      "bb": ["montana"],
+      "dd": ["Gearing"],
+      "cl": ["Worcester"],
+      "ca": ["Des Moines"],
+      "bb": ["Montana"],
       "cv": ["midway"]
     },
     "ijn": {
       "aliases": ["ijn", "japan", "japanese", "waifu"],
-      "dd": ["shimakaze", "harugumo"],
-      "ca": ["zao"],
-      "bb": ["yamato"],
+      "dd": ["Shimakaze", "Harugumo"],
+      "ca": ["Zao"],
+      "bb": ["Yamato"],
       "cv": ["hakuryu"]
     },
     "vmf": {
       "aliases": ["vmf", "soviet", "russian", "balans"],
-      "dd": ["khabarovsk", "grozovoi"],
-      "ca": ["moskva"],
-      "bb": ["kremlin"]
+      "dd": ["Khabarovsk", "Grozovoi"],
+      "ca": ["Moskva"],
+      "bb": ["Kremlin"]
     },
     "km": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
-      "dd": ["z-52"],
-      "ca": ["hindenburg"],
-      "bb": ["grosser_kurfurst"]
+      "dd": ["Z-52"],
+      "ca": ["Hindenburg"],
+      "bb": ["Grosser Kurfurst"]
     },
     "mn": {
       "aliases": ["mn", "marine nationale", "french", "france", "baguette"],
-      "dd": ["kleber"],
-      "ca": ["henri"],
-      "bb": ["republique"]
+      "dd": ["Kleber"],
+      "ca": ["Henri IV"],
+      "bb": ["Republique"]
     },
     "pa": {
       "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
-      "dd": ["yueyang"]
+      "dd": ["Yueyang"]
     },
     "rm": {
       "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
@@ -43,46 +43,47 @@
     },
     "rn": {
       "aliases": ["rn", "royal navy", "british", "uk", "limey"],
-      "dd": ["daring"],
-      "cl": ["minotaur"],
-      "ca": ["goliath"],
-      "bb": ["conqueror"],
-      "cv": ["audacious"]
+      "dd": ["Daring"],
+      "cl": ["Minotaur"],
+      "ca": ["Goliath"],
+      "bb": ["Conqueror"],
+      "cv": ["Audacious"]
     }
   },
   "builds": {
-    "yamato": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
-    "montana": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "gk": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
-    "repub": ["pm", "ar", "si", "ce", "em", "fp", "bos"],
-    "kremlin": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "bourgogne": ["el", "ar", "si", "ce", "em", "fp", "bos"],
-    "thunderer": ["el", "ar", "si", "ce", "em", "fp", "bos"],
-    "ohio": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "conqueror": ["el", "ar", "bos", "ce", "em", "fp", "si"],
-    "dm": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
-    "zao": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
-    "hindenburg": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
-    "minotaur": ["pt", "ar", "si", "ce", "joat", "tae", "maa"],
-    "worcester": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
-    "henri": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
-    "salem": ["pt", "em", "de", "ce", "ar", "se", "si"],
-    "stalingrad": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
-    "yoshino": ["pt", "em", "si", "ce", "ifhe", "ar", "de"],
-    "smolensk": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"],
-    "colbert": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"],
-    "shimakaze": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
-    "gearing": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
-    "khabarovsk": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
-    "z-52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
-    "harugumo": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
-    "grozovoi": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
-    "yueyang": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
-    "daring": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
-    "kleber": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
-    "somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
-    "goliath": ["Soon\u2122"],
-    "audacious": ["Soon\u2122"]
+    "Yamato": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "Montana": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "Grosser Kurfurst": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
+    "Republique": ["pm", "ar", "si", "ce", "em", "fp", "bos"],
+    "Kremlin": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "Bourgogne": ["el", "ar", "si", "ce", "em", "fp", "bos"],
+    "Thunderer": ["el", "ar", "si", "ce", "em", "fp", "bos"],
+    "Ohio": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "Conqueror": ["el", "ar", "bos", "ce", "em", "fp", "si"],
+    "Des Moines": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
+    "Zao": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
+    "Hindenburg": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
+    "Minotaur": ["pt", "ar", "si", "ce", "joat", "tae", "maa"],
+    "Worcester": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
+    "Henri IV": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
+    "Salem": ["pt", "em", "de", "ce", "ar", "se", "si"],
+    "Moskva": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "Stalingrad": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "Yoshino": ["pt", "em", "si", "ce", "ifhe", "ar", "de"],
+    "Smolensk": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"],
+    "Colbert": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"],
+    "Shimakaze": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
+    "Gearing": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
+    "Khabarovsk": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
+    "Z-52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "Harugumo": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
+    "Grozovoi": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
+    "Yueyang": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
+    "Daring": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
+    "Kleber": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
+    "Somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
+    "Goliath": ["soon"],
+    "Audacious": ["soon"]
   },
   "skillMap": {
     "bft": 1,
@@ -117,5 +118,8 @@
     "lg": 32,
     "ifhe": 33,
     "rl": 34
+  },
+  "whitelist": {
+    "soon": "Soon\u2122"
   }
 }
