@@ -81,7 +81,8 @@
     "daring": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
     "kleber": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
     "somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
-    "goliath": ["Soon\u2122"]
+    "goliath": ["Soon\u2122"],
+    "audacious": ["Soon\u2122"]
   },
   "skillMap": {
     "bft": 1,
