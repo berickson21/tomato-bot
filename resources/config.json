@@ -6,14 +6,14 @@
       "cl": ["Worcester"],
       "ca": ["Des Moines"],
       "bb": ["Montana"],
-      "cv": ["midway"]
+      "cv": ["Midway"]
     },
     "ijn": {
-      "aliases": ["ijn", "japan", "japanese", "waifu"],
+      "aliases": ["ijn", "japan", "japanese", "waifu", "weeb"],
       "dd": ["Shimakaze", "Harugumo"],
       "ca": ["Zao"],
       "bb": ["Yamato"],
-      "cv": ["hakuryu"]
+      "cv": ["Hakuryu"]
     },
     "vmf": {
       "aliases": ["vmf", "soviet", "russian", "balans"],
@@ -39,7 +39,7 @@
     },
     "rm": {
       "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
-      "ca": ["venezia"]
+      "ca": ["Venezia"]
     },
     "rn": {
       "aliases": ["rn", "royal navy", "british", "uk", "limey"],
@@ -82,8 +82,11 @@
     "Daring": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
     "Kleber": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
     "Somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
+    "Venezia": ["soon"],
     "Goliath": ["soon"],
-    "Audacious": ["soon"]
+    "Midway": ["dodge"],
+    "Hakuryu": ["dodge"],
+    "Audacious": ["dodge"]
   },
   "skillMap": {
     "bft": 1,
@@ -120,6 +123,7 @@
     "rl": 34
   },
   "whitelist": {
-    "soon": "Soon\u2122"
+    "soon": "Soon\u2122",
+    "dodge": "Just dodge\u2122"
   }
 }
