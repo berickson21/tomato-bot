@@ -84,9 +84,9 @@
     "Somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
     "Venezia": ["soon"],
     "Goliath": ["soon"],
-    "Midway": ["dodge"],
-    "Hakuryu": ["dodge"],
-    "Audacious": ["dodge"]
+    "Midway": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "Hakuryu": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "Audacious": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"]
   },
   "skillMap": {
     "bft": 1,
