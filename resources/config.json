@@ -23,7 +23,7 @@
     },
     "km": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
-      "dd": ["Z-52"],
+      "dd": ["Z52"],
       "ca": ["Hindenburg"],
       "bb": ["Grosser Kurfurst"]
     },
@@ -75,7 +75,7 @@
     "Shimakaze": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
     "Gearing": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
     "Khabarovsk": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
-    "Z-52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "Z52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
     "Harugumo": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
     "Grozovoi": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
     "Yueyang": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
