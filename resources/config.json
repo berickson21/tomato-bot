@@ -23,7 +23,7 @@
     },
     "km": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
-      "dd": ["Z 52"],
+      "dd": ["Z-52"],
       "ca": ["Hindenburg"],
       "bb": ["Grosser Kurfurst"]
     },
@@ -75,7 +75,7 @@
     "Shimakaze": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
     "Gearing": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
     "Khabarovsk": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
-    "Z 52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "Z-52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
     "Harugumo": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
     "Grozovoi": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
     "Yueyang": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
@@ -86,7 +86,8 @@
     "Goliath": ["soon"],
     "Midway": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
     "Hakuryu": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
-    "Audacious": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"]
+    "Audacious": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"],
+    "Balansboat": ["gitgud"]
   },
   "skillMap": {
     "bft": 1,
@@ -124,6 +125,7 @@
   },
   "whitelist": {
     "soon": "Soon\u2122",
-    "dodge": "Just dodge\u2122"
+    "dodge": "Just dodge\u2122",
+    "gitgud": "<:gitgud:397935317497413633>"
   }
 }
