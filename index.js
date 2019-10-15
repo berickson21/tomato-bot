@@ -12,7 +12,7 @@ bot.on("ready", () => {
   console.log(
     `Tomato-bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels`
   );
-  bot.user.setActivity("the long game");
+  bot.user.setActivity("with Viykin's sanity");
 });
 
 // This event triggers when the bot joins a guild (server).
@@ -33,15 +33,17 @@ bot.on("guildDelete", guild => {
 bot.on("message", async message => {
   // Construct a response
   const response = prepareResponse(message);
-
   // Send the response
   if (response) {
     try {
-      await message.channel.send(response);
+      response.forEach(msg => {
+        console.log(msg);
+        message.channel.send(msg);
+      });
     } catch (err) {
       console.error(err);
     }
   }
 });
 
-bot.login(process.env.BOT_TOKEN);
+bot.login(process.env.DEBUG_TOKEN);

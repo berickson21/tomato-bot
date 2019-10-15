@@ -1,0 +1,1663 @@
+{
+  "3553572848": {
+    "tier": 7,
+    "name": "California",
+    "nation": "usa",
+    "ship_id": 3553572848,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB707_5adb831f57bb58011aec94abb7e54ede1cd75c46df3cd092550c165981c6a797.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3764336432": {
+    "tier": 6,
+    "name": "Prinz Eitel Friedrich",
+    "nation": "germany",
+    "ship_id": 3764336432,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB506_d8b0ba60b21183cd8af7d0071bdca57687cf1890e822219a828cabb59572e0a8.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4179572176": {
+    "tier": 10,
+    "name": "Kremlin",
+    "nation": "ussr",
+    "ship_id": 4179572176,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB110_a1be11ad68f17faf4282c7e80221255b52c34d1454e70cb53a32f1b79b23fc3f.png"
+    },
+    "type": "Battleship",
+    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "3764336336": {
+    "tier": 6,
+    "name": "Mutsu",
+    "nation": "japan",
+    "ship_id": 3764336336,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB506_f7afee3eeaab2267520c0e70725e9d89ea6acf2b9507b7116620abb1d518f0af.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3761190608": {
+    "tier": 9,
+    "name": "Musashi",
+    "nation": "japan",
+    "ship_id": 3761190608,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB509_51ef2df4e97193eec7ae82a5a4068f4a3618e7494343100c29966675264fc93e.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3762239440": {
+    "tier": 8,
+    "name": "Vanguard",
+    "nation": "uk",
+    "ship_id": 3762239440,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB508_b605ebb9aad4f08ef0e7aa42da0379d18ead80e94458146efb8dc5b0a4fb4af7.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3751753168": {
+    "tier": 8,
+    "name": "Lenin",
+    "nation": "ussr",
+    "ship_id": 3751753168,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB518_03952270b37c005edd521e04e59bfd489c052a9ee68824716d01f158c71f72a9.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3762239184": {
+    "tier": 8,
+    "name": "Kii",
+    "nation": "japan",
+    "ship_id": 3762239184,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB508_469caa40a5c2e0cf689eb4fbecd0505c0770622ad22c926a9ef66d97cba05931.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4277090288": {
+    "tier": 10,
+    "name": "Montana",
+    "nation": "usa",
+    "ship_id": 4277090288,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB017_b51c4665351b2b42f323ce938b73fc6b9f221f170bc0596eefbda0d437026597.png"
+    },
+    "type": "Battleship",
+    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "4283381456": {
+    "tier": 2,
+    "name": "Mikasa",
+    "nation": "japan",
+    "ship_id": 4283381456,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB011_d7d3fab61194d998b8ca4e0af8bfc2e624a03695f8a4e3154db5990951910779.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3751753552": {
+    "tier": 9,
+    "name": "Jean Bart",
+    "nation": "france",
+    "ship_id": 3751753552,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB518_e98a1b58fe899c6c0f69cc9973ed0e55c42e68de1eee1fc58ef2513f9fa36da3.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4292818896": {
+    "tier": 6,
+    "name": "Warspite",
+    "nation": "uk",
+    "ship_id": 4292818896,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB002_e7e5e1e1f977851df1b5ce9dfb5da95216ede42608e9abdb54afcfeadfda4f99.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3555670000": {
+    "tier": 5,
+    "name": "Texas",
+    "nation": "usa",
+    "ship_id": 3555670000,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB705_e629e475efaf1e29292b717f4d5b05b417d61aa78bd9b286a48f8cb8d8da0f2e.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4179572560": {
+    "tier": 10,
+    "name": "République",
+    "nation": "france",
+    "ship_id": 4179572560,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB110_9c674073cd4e0c582f6dcd59a24f36352306730731035e035e5e6e63a68f68f2.png"
+    },
+    "type": "Battleship",
+    "skills": ["pm", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "3760142320": {
+    "tier": 10,
+    "name": "Ohio",
+    "nation": "usa",
+    "ship_id": 3760142320,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB510_1d778bf39031b11b53821ac9e51ae088bd5105f8fd8853e78257fb89803214aa.png"
+    },
+    "type": "Battleship",
+    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "3552524272": {
+    "tier": 8,
+    "name": "Alabama ST",
+    "nation": "usa",
+    "ship_id": 3552524272,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB708_f1337d3f52a760c609ec07020ccbbb64619ade660243081590f4a119bfd0a945.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4286527184": {
+    "tier": 4,
+    "name": "Ishizuchi",
+    "nation": "japan",
+    "ship_id": 4286527184,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB008_1e5831aa5cd00c6c6808c4538edca19902e436a4b16247161a5c0ed46800e2b6.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4281284592": {
+    "tier": 4,
+    "name": "Arkansas Beta",
+    "nation": "usa",
+    "ship_id": 4281284592,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB013_fd0062a5f6f66b6d6ac6569219794df971d1463c8fc9f94a3de9592a44be383d.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4293866960": {
+    "tier": 4,
+    "name": "Imperator Nikolai I",
+    "nation": "ussr",
+    "ship_id": 4293866960,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB001_4579e7d96220de23d97a0f36ff8e1deb462fe30eefca7e225267fe84b3dbd10b.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3765384944": {
+    "tier": 5,
+    "name": "Giulio Cesare",
+    "nation": "italy",
+    "ship_id": 3765384944,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB505_e886c50dba9c6453eab1d69b9bafb409082034ee3a12bf2e519538436679bae1.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3763288048": {
+    "tier": 6,
+    "name": "W. Virginia 1941",
+    "nation": "usa",
+    "ship_id": 3763288048,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB507_06ebdd3d8e3613cb57a419708ae5f1e02a977f58b60f8956ae40012fe1f95c72.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4292818736": {
+    "tier": 8,
+    "name": "Tirpitz",
+    "nation": "germany",
+    "ship_id": 4292818736,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB002_e7b49ecef4ae0be8382c3ff3c77ad70beeb89bdb90e7dd7a6d82b194c5812260.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3450812144": {
+    "tier": 6,
+    "name": "Giunio Bruto",
+    "nation": "italy",
+    "ship_id": 3450812144,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB805_3135dc9429186c90ce0dd5aa84c3df5682ecfe2d9dd77d2e79fabd390b059921.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3763288016": {
+    "tier": 7,
+    "name": "Hood",
+    "nation": "uk",
+    "ship_id": 3763288016,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB507_e098ab5ebbaa15a51f4478426756ae0a6f54100e8fdb3046b3a128415d341e68.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3760141776": {
+    "tier": 10,
+    "name": "Slava",
+    "nation": "ussr",
+    "ship_id": 3760141776,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB510_3a61ded4a2a0b7775db68b22bc915d343c9190b28c9c15ae0683f6063a8c64db.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3742316496": {
+    "tier": 7,
+    "name": "Duke of York",
+    "nation": "uk",
+    "ship_id": 3742316496,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB527_1baf46c76e87e712a84fd1bb04b1042896373ae8fc4d03ad789f949d3cfff7f5.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3530504176": {
+    "tier": 9,
+    "name": "Georgia",
+    "nation": "usa",
+    "ship_id": 3530504176,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB729_d8c94ef3717e9af2fe127cb6520444cb7469243d935cd34c1473d991b50d19de.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3762239472": {
+    "tier": 8,
+    "name": "Alabama",
+    "nation": "usa",
+    "ship_id": 3762239472,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB508_69f709e9b4f7f819cdbebaee0817f988d5d2afc87de49d4cc79146b40d0e87f4.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4179572528": {
+    "tier": 10,
+    "name": "Großer Kurfürst",
+    "nation": "germany",
+    "ship_id": 4179572528,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB110_9b3dbcaf7d4508435c97bc3b30de24490dc70b24cf6e49794f0681db9ec86bfe.png"
+    },
+    "type": "Battleship",
+    "skills": ["pt", "ar", "si", "fp", "ce", "em", "bos"]
+  },
+  "3766433072": {
+    "tier": 5,
+    "name": "Viribus Unitis",
+    "nation": "europe",
+    "ship_id": 3766433072,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSB504_ecd3c4de540d2b616e3d8e82968e29c2357336293c5e183d539c75f15929fe8e.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3767482160": {
+    "tier": 3,
+    "name": "König Albert",
+    "nation": "germany",
+    "ship_id": 3767482160,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB503_b54f41d5fb3a82619bdcb8c655c378f41452c858b3ea124ea610ab857ad3f3cf.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3760142160": {
+    "tier": 10,
+    "name": "Bourgogne",
+    "nation": "france",
+    "ship_id": 3760142160,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB510_2ec82c44ef680c0cf483f973bdc8fedbb4157e8500eea1e7df4889b3a7bc7781.png"
+    },
+    "type": "Battleship",
+    "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "3761190896": {
+    "tier": 9,
+    "name": "Missouri",
+    "nation": "usa",
+    "ship_id": 3761190896,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB509_9b435c1100a6f5b7c3c188bffb12ee3243cd9394b7df9bf9dced5c8a003d0dd0.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "4276041424": {
+    "tier": 10,
+    "name": "Yamato",
+    "nation": "japan",
+    "ship_id": 4276041424,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB018_09d58fd0f34d6b2d24352c735c1abc10a2c483ffbcfd203f192238263b77c7ba.png"
+    },
+    "type": "Battleship",
+    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"]
+  },
+  "3764336464": {
+    "tier": 6,
+    "name": "Dunkerque",
+    "nation": "france",
+    "ship_id": 3764336464,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB506_6906e740759c67685cbb799de19eaea97793a41c1e632cb381237ee3c4592fa2.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3764336624": {
+    "tier": 6,
+    "name": "Arizona",
+    "nation": "usa",
+    "ship_id": 3764336624,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB506_453cedd653e813e75d7e76d15b45bf79c5fcd5aedf8bbcbba1fbdffcd8b27580.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3751753712": {
+    "tier": 8,
+    "name": "Massachusetts",
+    "nation": "usa",
+    "ship_id": 3751753712,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB518_2f9d62bd58e089b4190828ea78dd173b0c85959dac242ce1ea0c192c5fc9b8fe.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3762239312": {
+    "tier": 8,
+    "name": "Gascogne",
+    "nation": "france",
+    "ship_id": 3762239312,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB508_9dae06fe7e9eae2f1b88123fb8e9dd08a219fb9c43e8d60519a338501dc894f8.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3767482320": {
+    "tier": 3,
+    "name": "Dreadnought",
+    "nation": "uk",
+    "ship_id": 3767482320,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB503_f295a50d0bfe59256c0c8e9a704b0c159cb53f56c4bcfca3b3eba4630541a1e1.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3667867632": {
+    "tier": 8,
+    "name": "Massachusetts B",
+    "nation": "usa",
+    "ship_id": 3667867632,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB598_6cb6911be640259ad4e0f8685a59a523200fc08831b2aa17ccc307b4cec6cee9.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3765384656": {
+    "tier": 5,
+    "name": "Oktyabrskaya Revolutsiya",
+    "nation": "ussr",
+    "ship_id": 3765384656,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB505_6688f90b290439fdff02ff8dc734d98e36ef1f21ae1d04a9c1d7095970334e43.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3762239216": {
+    "tier": 8,
+    "name": "Roma",
+    "nation": "italy",
+    "ship_id": 3762239216,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB508_53c45c0e3ec38f1b909069d9b7402909b3551ff9d0a40da8f199beb1450c23e3.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3752802256": {
+    "tier": 7,
+    "name": "Nelson",
+    "nation": "uk",
+    "ship_id": 3752802256,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB517_9a17345d760bb6f7e1ac44f67f04e412098b784b8d9fbcebfd0713d6b1d21d65.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3763287760": {
+    "tier": 7,
+    "name": "Ashitaka",
+    "nation": "japan",
+    "ship_id": 3763287760,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB507_c640e33d5943ad652be03dcc03457a53312d3af4390c5cf39c1b0c3933ed9fc6.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3763287856": {
+    "tier": 7,
+    "name": "Scharnhorst",
+    "nation": "germany",
+    "ship_id": 3763287856,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB507_f73355091fc84cf4b698a3b9b6f0e60c14091a22503afe00b9533916f969533d.png"
+    },
+    "type": "Battleship",
+    "skills": ["Soon\u2122"]
+  },
+  "3760142288": {
+    "tier": 10,
+    "name": "Thunderer",
+    "nation": "uk",
+    "ship_id": 3760142288,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB510_1baf2a945cc5fad4b043ad329100f0be830090c78d9fde069e084c7bc38dbe0b.png"
+    },
+    "type": "Battleship",
+    "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"]
+  },
+  "4179572688": {
+    "tier": 10,
+    "name": "Conqueror",
+    "nation": "uk",
+    "ship_id": 4179572688,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB110_135ede5e893e5f2cf148f7a8d1b81fdc2bbb130a2855cc2c76c1c24fe9eef604.png"
+    },
+    "type": "Battleship",
+    "skills": ["el", "ar", "bos", "ce", "em", "fp", "si"]
+  },
+  "3760109552": {
+    "tier": 9,
+    "name": "Alaska",
+    "nation": "usa",
+    "ship_id": 3760109552,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC510_1c368c094c16e8fc1fed07afbc237cb7fde0cf956ce171dc419eabfbaedf4364.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3762205904": {
+    "tier": 8,
+    "name": "Irian",
+    "nation": "pan_asia",
+    "ship_id": 3762205904,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC508_0605d18babad08c2fdacbee009d61c6492033ac5d47d6d71cd38c59cf4e26ce2.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3655251408": {
+    "tier": 10,
+    "name": "Smolensk",
+    "nation": "ussr",
+    "ship_id": 3655251408,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC610_271b349db1bd8566a987804152ed2440f65754bc7170a1ba4cb72ce56bf8237b.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"]
+  },
+  "3765352144": {
+    "tier": 5,
+    "name": "Yahagi",
+    "nation": "japan",
+    "ship_id": 3765352144,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC505_f3444e89f551cae2620d8d24f4a80ff0b1713e631936fca70bb8fe01d57db7de.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3749623504": {
+    "tier": 10,
+    "name": "Yoshino",
+    "nation": "japan",
+    "ship_id": 3749623504,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC520_017e55976eb6658f2f5cb763e38bc3d80bae966336caecc66a5b0117054032b1.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ifhe", "ar", "de"]
+  },
+  "4179539920": {
+    "tier": 10,
+    "name": "Minotaur",
+    "nation": "uk",
+    "ship_id": 4179539920,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC110_616426f25b262f14ad40b63d1cf9264b236c37cb3a2b574dc197e5b81f10881d.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "si", "ce", "joat", "tae", "maa"]
+  },
+  "3756963280": {
+    "tier": 3,
+    "name": "Varyag",
+    "nation": "ussr",
+    "ship_id": 3756963280,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC513_4e3ce7c31b87f4d4f194cc1e9f65b8c47b61ff1a764baa25d296e0ebe36716cf.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3762206160": {
+    "tier": 8,
+    "name": "Mikhail Kutuzov",
+    "nation": "ussr",
+    "ship_id": 3762206160,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC508_361110fed389fa28390fabaa3c14f55236e6c345216aae49fbd41617e13ebc55.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3764303056": {
+    "tier": 6,
+    "name": "Huanghe",
+    "nation": "pan_asia",
+    "ship_id": 3764303056,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC506_b25a8e7a3e744f47f3ae216378f3dc038883737dd91cadb0f22a741668651a54.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3763255248": {
+    "tier": 7,
+    "name": "Belfast",
+    "nation": "uk",
+    "ship_id": 3763255248,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC507_2cfe2ef56e1d7f9aafd65abb3b42e2b5ba1f0527b0b0f7d62110fdb65c9484b4.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3767449584": {
+    "tier": 3,
+    "name": "Charleston",
+    "nation": "usa",
+    "ship_id": 3767449584,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC503_ae7dea4a0b3b95a0108d39ab1242a77a2e985907444c323da0b190714b84c74a.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3761157936": {
+    "tier": 9,
+    "name": "Siegfried",
+    "nation": "germany",
+    "ship_id": 3761157936,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC509_30f9ff5841ec1c8cdbfed55101217c2d08615ef9ee111868772f719f8c06e707.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3659445712": {
+    "tier": 6,
+    "name": "Admiral Makarov",
+    "nation": "ussr",
+    "ship_id": 3659445712,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC606_acaf2bf7566c6fefc4a83e85b1f9b67163e42a5fc14dc34da4449f7505de5eee.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3760109392": {
+    "tier": 10,
+    "name": "Colbert",
+    "nation": "france",
+    "ship_id": 3760109392,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC510_5ee9a0797f12dfcc05df9b68b53b854b75af21b7827cac1b16ef4765666124c5.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"]
+  },
+  "3765352400": {
+    "tier": 5,
+    "name": "Exeter",
+    "nation": "uk",
+    "ship_id": 3765352400,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC505_475aaceca4d71ac52e7734487b8975108ecdcd354f97a28187d8e2a7afb191ce.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4179539760": {
+    "tier": 10,
+    "name": "Hindenburg",
+    "nation": "germany",
+    "ship_id": 4179539760,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC110_4635332915d94f64dbdc1fda94f7f2f0bfd227355eab5406b16f5d2e81006c3d.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"]
+  },
+  "3760109008": {
+    "tier": 10,
+    "name": "Stalingrad",
+    "nation": "ussr",
+    "ship_id": 3760109008,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC510_61b2d5bfa3e70ca626254c18e1ef0ebf005fa57b216926f053e9af60ebfa026b.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"]
+  },
+  "4179539696": {
+    "tier": 10,
+    "name": "Venezia",
+    "nation": "italy",
+    "ship_id": 4179539696,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC110_e394d76a275b9434b48210aa7bec4662b0f8ea3b90873e8a359a20e6d6e53bc5.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3550394352": {
+    "tier": 10,
+    "name": "Salem",
+    "nation": "usa",
+    "ship_id": 3550394352,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC710_295243134f7325711607add114f258af9989cbd388a74b1cd834604f92644008.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "de", "ce", "ar", "se", "si"]
+  },
+  "3762206544": {
+    "tier": 8,
+    "name": "Bayard",
+    "nation": "france",
+    "ship_id": 3762206544,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC508_c97a4bb1cbcefbb654d54b623dae976b4cf9b2496f8a8813227e616e0fcc50ab.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3764303312": {
+    "tier": 6,
+    "name": "Molotov",
+    "nation": "ussr",
+    "ship_id": 3764303312,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC506_35f98188dc9d6615d7064ae96bb913ae7c4416d24bc5b9daf3369b22b0187622.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3764303664": {
+    "tier": 6,
+    "name": "Admiral Graf Spee",
+    "nation": "germany",
+    "ship_id": 3764303664,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC506_cd19a0c7ddbdcc99aef6f5cc2b0a27bbed9881faad07bed279305f04e6fa5bdd.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3445536592": {
+    "tier": 10,
+    "name": "Brennus",
+    "nation": "france",
+    "ship_id": 3445536592,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC810_80d6751b4a7232cb1c3c30c33baeffc7e8195a244d7e249298ee737cc12ee3e1.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3655251952": {
+    "tier": 10,
+    "name": "Puerto Rico",
+    "nation": "usa",
+    "ship_id": 3655251952,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC610_7b1e57f36e152fffef30f09831850ee95a27bc2d28047027708d5ad7f23589f7.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3553540080": {
+    "tier": 7,
+    "name": "Flint",
+    "nation": "usa",
+    "ship_id": 3553540080,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC707_9a53bf9f926e7f9199ed84b19e8ab76ac7dd0559502728123fa9908c7d8b0343.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3762206512": {
+    "tier": 8,
+    "name": "Prinz Eugen",
+    "nation": "germany",
+    "ship_id": 3762206512,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC508_f1aeb94a477976b1dc3a487804f06ef16688b53c9c3b6a796007e2f439815193.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3765351888": {
+    "tier": 5,
+    "name": "Krasny Krym",
+    "nation": "ussr",
+    "ship_id": 3765351888,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC505_fd72a15acaf34823a84fcf131ff6be508c7b0ee5390109fdd3e710dd6af8b455.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3764303696": {
+    "tier": 6,
+    "name": "De Grasse",
+    "nation": "france",
+    "ship_id": 3764303696,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC506_5a3b39c8b79ab063acd8125d7117e7e1a53e992e0640ccbf856d94cf336634b7.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3767449296": {
+    "tier": 3,
+    "name": "Katori",
+    "nation": "japan",
+    "ship_id": 3767449296,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC503_b03d3cbd04e63c4db90dfaf7eb16af76246530db3af68d6cacc61cc5ef983914.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3760109264": {
+    "tier": 9,
+    "name": "Azuma",
+    "nation": "japan",
+    "ship_id": 3760109264,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC510_886ef945c0c4bf7eb13c2bbe9fcec363931c50e65bd5bdbf7eda10fe2f8d94b3.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4184782672": {
+    "tier": 5,
+    "name": "Émile Bertin",
+    "nation": "france",
+    "ship_id": 4184782672,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC105_0a0171cb234f0eca0ed2c9bea7ca94e6273451ce9d4dff1c43695246f92d2349.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4179539792": {
+    "tier": 10,
+    "name": "Henri IV",
+    "nation": "france",
+    "ship_id": 4179539792,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC110_80d6751b4a7232cb1c3c30c33baeffc7e8195a244d7e249298ee737cc12ee3e1.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ar", "de", "ifhe"]
+  },
+  "3764303216": {
+    "tier": 6,
+    "name": "Perth",
+    "nation": "commonwealth",
+    "ship_id": 3764303216,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSC506_54f91c7a238b88fb88417e4ad3671f34f61be755a1e100363acb661b199a63d4.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4074682352": {
+    "tier": 10,
+    "name": "Worcester",
+    "nation": "usa",
+    "ship_id": 4074682352,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC210_9458d9cdb708b6e713ccd2e0ddc0b51381ddf3957c9c265f22e7af352ecac785.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"]
+  },
+  "3751720400": {
+    "tier": 7,
+    "name": "Lazo",
+    "nation": "ussr",
+    "ship_id": 3751720400,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC518_94fad851de7fbb94d01ed1915ebc0b1287cd5e2d947aef61d51aa6085b50ebc1.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3761157584": {
+    "tier": 9,
+    "name": "Kronshtadt",
+    "nation": "ussr",
+    "ship_id": 3761157584,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC509_0a7d064b3d3ff06ab395545519f271b541424cc542f35e9ea45ffb71ab61a64e.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3764303600": {
+    "tier": 6,
+    "name": "Duca d'Aosta",
+    "nation": "italy",
+    "ship_id": 3764303600,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC506_8f54e2f7c9084821c2f84bb70dd6191a3fb5afcfe2b3b8becab9546ad4b114e7.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4179539408": {
+    "tier": 10,
+    "name": "Moskva",
+    "nation": "ussr",
+    "ship_id": 4179539408,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC110_b0e51720e691e7e5e52ae2d5924e23224cbc0533d9f1080ac3c29f183a92fec3.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"]
+  },
+  "3763254608": {
+    "tier": 7,
+    "name": "Nueve de Julio",
+    "nation": "pan_america",
+    "ship_id": 3763254608,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PVSC507_823e3d410006ac4bf8c793d3f0675c60b9408bf146a78bba2934cdb6864307e5.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3762206704": {
+    "tier": 8,
+    "name": "Wichita",
+    "nation": "usa",
+    "ship_id": 3762206704,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC508_8cf65982bb9fa3c9dfe532a2d933b9c6df2149dab6f9d91d53d87753d0982b81.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3763255280": {
+    "tier": 7,
+    "name": "Indianapolis",
+    "nation": "usa",
+    "ship_id": 3763255280,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC507_c6e1a2b8f6831f2fd8363929e4345fc7621bfc19e02b5ea3d3bfea796ae25e64.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3768497968": {
+    "tier": 2,
+    "name": "Emden",
+    "nation": "germany",
+    "ship_id": 3768497968,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC502_0368049f8d9c4c52a7d92148e41e8a832b63a25fffe3fc9a363790cd69c22040.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4267620048": {
+    "tier": 4,
+    "name": "Iwaki Alpha",
+    "nation": "japan",
+    "ship_id": 4267620048,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC026_1ea7159a86da92fc638dfff8b0de17702ad8a301d8747a6ec5aec3ff5e3e344b.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4255037136": {
+    "tier": 8,
+    "name": "Atago",
+    "nation": "japan",
+    "ship_id": 4255037136,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC038_ad542cd733f22b5763df118848a9f5705fc9c5b240c99ea30806690cacb56ae6.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4273911792": {
+    "tier": 10,
+    "name": "Des Moines",
+    "nation": "usa",
+    "ship_id": 4273911792,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC020_6d8433ad54145db2092483c2e1a72af6be632ac638654dff0541c8f54f4106a7.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"]
+  },
+  "4259231440": {
+    "tier": 10,
+    "name": "Zaō",
+    "nation": "japan",
+    "ship_id": 4259231440,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC034_4ff33cd01dbf1be2998e56d24f0ebd229f96b0f45183925996660da926b0bb2b.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "em", "si", "ce", "ar", "el", "se", "de"]
+  },
+  "4290688720": {
+    "tier": 4,
+    "name": "Yūbari",
+    "nation": "japan",
+    "ship_id": 4290688720,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC004_6b130f0c0d7114d79c688d7d582a64145c5e3c017b2287b3e8ac8296ae1fb1e6.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4248745968": {
+    "tier": 5,
+    "name": "Marblehead",
+    "nation": "usa",
+    "ship_id": 4248745968,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC044_c352867beffd79fc91554872bd06796cdb5389feae42cac8b6ca39ca5f12df70.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4291737584": {
+    "tier": 2,
+    "name": "Albany",
+    "nation": "usa",
+    "ship_id": 4291737584,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC003_4380819e83afd2df986c9ce98ca3ea3b248b8ea2ba0c720350a7530842b024e4.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4288591856": {
+    "tier": 7,
+    "name": "Atlanta",
+    "nation": "usa",
+    "ship_id": 4288591856,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC006_e8351e2a51cd6e4546791ccf2e903498370d5d953836ccc11db81ec903646f7a.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "4291737040": {
+    "tier": 5,
+    "name": "Murmansk",
+    "nation": "ussr",
+    "ship_id": 4291737040,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC003_12de8888c5c05ba9479ad496193c841281284437bcb2acd42921d2d39ed5aca8.png"
+    },
+    "type": "Cruiser",
+    "skills": ["Soon\u2122"]
+  },
+  "3765319664": {
+    "tier": 5,
+    "name": "Hill",
+    "nation": "usa",
+    "ship_id": 3765319664,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD505_43fa2a0aad67510b333122193937f47f8e09b7418b82386426f8f91b44e370af.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3760076080": {
+    "tier": 9,
+    "name": "Friesland",
+    "nation": "europe",
+    "ship_id": 3760076080,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD510_590c7a4fc8b1c5ff9c1c5bea106c9e76d10dc5c27d1abd837368808d40fc0520.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3763222224": {
+    "tier": 7,
+    "name": "Yūdachi",
+    "nation": "japan",
+    "ship_id": 3763222224,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD507_926722d5c2a026d47a8860e099ce32268fb09533b0d881bb5f8bc2a47895abfd.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4179507024": {
+    "tier": 10,
+    "name": "Kléber",
+    "nation": "france",
+    "ship_id": 4179507024,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD110_e77e7fd8d8b7d39c587780f6a5ff5fd7ae56401f4d5d618d2878565fa031380e.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"]
+  },
+  "3764271056": {
+    "tier": 6,
+    "name": "Gallant",
+    "nation": "uk",
+    "ship_id": 3764271056,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSD506_e25a4de7802d06c90b5facc85ff7d753d3b43badc6a93fce41327562ee54d8e3.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4074649296": {
+    "tier": 10,
+    "name": "Harugumo",
+    "nation": "japan",
+    "ship_id": 4074649296,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD210_862f91814ff6ab4143a329542f73b93b5e4a4beefd9958a9585b8d1c1a85337b.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"]
+  },
+  "3768465392": {
+    "tier": 2,
+    "name": "Smith",
+    "nation": "usa",
+    "ship_id": 3768465392,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD502_20541d13622858429f4cd9b120288fdde32606c103463e78d1c7e3c5d3d4c3e5.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3767416784": {
+    "tier": 3,
+    "name": "Campbeltown",
+    "nation": "uk",
+    "ship_id": 3767416784,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSD503_796c17133979f3dba72e1d0d842eef1790cdce61172140a40d0f993ba2a97834.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3554555600": {
+    "tier": 6,
+    "name": "Shinonome",
+    "nation": "japan",
+    "ship_id": 3554555600,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD706_415338153df91de8614c59fb4227266483dffe85fc4c98f40285a942fa2c8371.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3551410160": {
+    "tier": 9,
+    "name": "Black",
+    "nation": "usa",
+    "ship_id": 3551410160,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD709_f7d89956ba9d7ecafb01b89729fa011f898faac2adb169cf573ec58e2c58755f.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3765319120": {
+    "tier": 5,
+    "name": "Okhotnik",
+    "nation": "ussr",
+    "ship_id": 3765319120,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD505_fb23e6dda9643f61e83082be2c990505e97f224fc31abe23a894bbd596900970.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4077795024": {
+    "tier": 7,
+    "name": "Shiratsuyu",
+    "nation": "japan",
+    "ship_id": 4077795024,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD207_0353f8a63a02490d991b25e39665419f3840d9e16bdb3e35fa8fb0e5eb6c6c78.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3763221872": {
+    "tier": 7,
+    "name": "Haida",
+    "nation": "commonwealth",
+    "ship_id": 3763221872,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSD507_001ecb2e9c8eafa05dd9aca63569dc50e4cb1f5a2dbb130d2bdfd5ad1155cbee.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3764270928": {
+    "tier": 6,
+    "name": "Aigle",
+    "nation": "france",
+    "ship_id": 3764270928,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD506_fb43fa1f9fe16d7f4db30c203624b7057b3198ccfbde3fe9f30b4cb25b05e382.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3752736720": {
+    "tier": 8,
+    "name": "Cossack",
+    "nation": "uk",
+    "ship_id": 3752736720,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSD517_4dde170795a55472dfbb20b938e349c8acab41d7e4d25b09cd248b4653ca9ca6.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3751687888": {
+    "tier": 8,
+    "name": "Asashio",
+    "nation": "japan",
+    "ship_id": 3751687888,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD518_31adcca978dfffcaaceee151db4a83095a69aaf99d8b5ec0f503709480c5eeae.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4268635856": {
+    "tier": 5,
+    "name": "Kamikaze",
+    "nation": "japan",
+    "ship_id": 4268635856,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD025_b7e23e0c827173f76fd9b11ce98c60647d90c37fccffdc6e6827ab8654452b50.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3764270896": {
+    "tier": 6,
+    "name": "T-61",
+    "nation": "germany",
+    "ship_id": 3764270896,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD506_7dcc64e840bc4ff641d4669aae606aacf023f41a222cfb0b71bcfaf4c692d865.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4179507152": {
+    "tier": 10,
+    "name": "Daring",
+    "nation": "uk",
+    "ship_id": 4179507152,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSD110_8e9d39862a74b0f40739cefe2e8aa1929396dfef44d5863b5332eae30ace21d7.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"]
+  },
+  "3447600976": {
+    "tier": 8,
+    "name": "L'Effronté",
+    "nation": "france",
+    "ship_id": 3447600976,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD808_9a0ca2691d3a7397c345e821e140cc20dc763682b13218faaf9a8b8882889dd0.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3760076528": {
+    "tier": 10,
+    "name": "Paolo Emilio",
+    "nation": "italy",
+    "ship_id": 3760076528,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD510_6624831a92d15e3a7cae37d8ff287705cd226984cccad16886c572cbfe453809.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3760076784": {
+    "tier": 10,
+    "name": "Somers",
+    "nation": "usa",
+    "ship_id": 3760076784,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD510_d96a020f6644524078ce45c834c794afeb2a39613ad47896f10dad524471c6a1.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"]
+  },
+  "3551409616": {
+    "tier": 9,
+    "name": "Neustrashimy",
+    "nation": "ussr",
+    "ship_id": 3551409616,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD709_83852f75688cca539a7861743f2d499361a558155b1cf5a1bc31af012a880cac.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3762173136": {
+    "tier": 8,
+    "name": "Loyang",
+    "nation": "pan_asia",
+    "ship_id": 3762173136,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD508_e24bc8a7bc321dd877414d2223334d7037572eea68655535bf05a977e8608eb0.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4179506992": {
+    "tier": 10,
+    "name": "Z-52",
+    "nation": "germany",
+    "ship_id": 4179506992,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD110_9afa6ea3980695c40159f5b4b290b7caff8f3150db86fde1a5142866d7b77748.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "se", "ce", "bft", "si", "tae"]
+  },
+  "3769513264": {
+    "tier": 7,
+    "name": "Błyskawica",
+    "nation": "europe",
+    "ship_id": 3769513264,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD501_85e89984588cbe60601a42f1fb9d85b33994ab524e0884b5199ad0c58584a522.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3762173744": {
+    "tier": 7,
+    "name": "Z-39",
+    "nation": "germany",
+    "ship_id": 3762173744,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD508_9aa92d1aab51689cf337177e30b27688c614bb9803dc617aacbf89f0ed4a0fa4.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3767416176": {
+    "tier": 3,
+    "name": "Vampire",
+    "nation": "commonwealth",
+    "ship_id": 3767416176,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSD503_b5e6657efeca92e6d36bf56e7bb8288f417aefc4f5a99ecb102bf3781df9d776.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4179506384": {
+    "tier": 10,
+    "name": "Yueyang",
+    "nation": "pan_asia",
+    "ship_id": 4179506384,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD110_c87b452aed8b57078d48466e7919467e3f6aaaefbd8f0da7b24b4a085669e7c9.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"]
+  },
+  "3761125360": {
+    "tier": 9,
+    "name": "Benham",
+    "nation": "usa",
+    "ship_id": 3761125360,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD509_59560092e7d0faedac105e858a15f778f753bc66afe428ea6f391f3ceb456c6d.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3762173936": {
+    "tier": 8,
+    "name": "Kidd",
+    "nation": "usa",
+    "ship_id": 3762173936,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD508_932f023f70ccd57b093e1c765dacffeb8a73549842f2775db64622a9cb8f0eb6.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3764270288": {
+    "tier": 6,
+    "name": "Anshan",
+    "nation": "pan_asia",
+    "ship_id": 3764270288,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD506_c15e19bdc93bcccd33d8329062a460b4f886f657d9db057cae6717140a281155.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3763221968": {
+    "tier": 7,
+    "name": "Leningrad",
+    "nation": "ussr",
+    "ship_id": 3763221968,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD507_8808c7278f56399687c91a005933056f8312d078503f2c6b6bcb7bba732e8c88.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3760076496": {
+    "tier": 10,
+    "name": "Hayate",
+    "nation": "japan",
+    "ship_id": 3760076496,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD510_930c7a46da5b3a621ef97b583cbf5b3eecdc7f064f622ca5882b8859228c26da.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4074649040": {
+    "tier": 10,
+    "name": "Grozovoi",
+    "nation": "ussr",
+    "ship_id": 4074649040,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD210_feb6e779076ba64a93a2f295111228b4689bbc47d48c11eac2b31ef13e86b775.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"]
+  },
+  "3764271088": {
+    "tier": 6,
+    "name": "Monaghan",
+    "nation": "usa",
+    "ship_id": 3764271088,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD506_cccf826bd401d17d94eb5e3707e49ebdc90819b7a55864f8d20cb41cf0cf9036.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4264441840": {
+    "tier": 7,
+    "name": "Sims",
+    "nation": "usa",
+    "ship_id": 4264441840,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD029_dc20aa41ee113ff63d5d1f38b0fd288d3612fe5c6e3aad03d78c8f7fc31368a8.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "3762173776": {
+    "tier": 8,
+    "name": "Le Terrible",
+    "nation": "france",
+    "ship_id": 3762173776,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD508_9a0ca2691d3a7397c345e821e140cc20dc763682b13218faaf9a8b8882889dd0.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4179506640": {
+    "tier": 10,
+    "name": "Khabarovsk",
+    "nation": "ussr",
+    "ship_id": 4179506640,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD110_9ac511b0de97fc0d54efc78b1d37191bfd91fdade6e259f86280689d39d53830.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"]
+  },
+  "3552458448": {
+    "tier": 8,
+    "name": "HSF Harekaze",
+    "nation": "japan",
+    "ship_id": 3552458448,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD708_470f0fed4b35fe800a5801a477fe9f81a0d36b7e56741f57fb45241d4da0518b.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4280170192": {
+    "tier": 2,
+    "name": "Tachibana Lima",
+    "nation": "japan",
+    "ship_id": 4280170192,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD014_74630ef07ccf351532f0e1f334212f1b3c08dceb1885c2ea05b865d81a6046a5.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4282267344": {
+    "tier": 10,
+    "name": "Shimakaze",
+    "nation": "japan",
+    "ship_id": 4282267344,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD012_abe195480c5687e0a492b11dcd83d8117b278c8c3aa8bc794b3df3ed77c21c26.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"]
+  },
+  "4281219056": {
+    "tier": 10,
+    "name": "Gearing",
+    "nation": "usa",
+    "ship_id": 4281219056,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD013_cf35f9528df69fef9880f2d65cf467010068268307c5f679cc2f2b2b93bc26d5.png"
+    },
+    "type": "Destroyer",
+    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "si"]
+  },
+  "4293801424": {
+    "tier": 5,
+    "name": "Gremyashchy",
+    "nation": "ussr",
+    "ship_id": 4293801424,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD001_72d299bc3a0fecbc2887da6c41ae5bb6764db5a7ce921e2e665721f021e9be8b.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4293801680": {
+    "tier": 2,
+    "name": "Tachibana",
+    "nation": "japan",
+    "ship_id": 4293801680,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD001_1998f44b5aab7fa5c3a229028caec8cf1e042e1586f3e11c1d3d6e57cf17f18d.png"
+    },
+    "type": "Destroyer",
+    "skills": ["Soon\u2122"]
+  },
+  "4074747856": {
+    "tier": 10,
+    "name": "Audacious",
+    "nation": "uk",
+    "ship_id": 4074747856,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSA210_f5d7acb803490a2cf8ca59704d483f3b61f0e5a58ecd19e30ae1b882e200ba4d.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"]
+  },
+  "3751786192": {
+    "tier": 8,
+    "name": "Kaga",
+    "nation": "japan",
+    "ship_id": 3751786192,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA518_12ef9eaa534e14ae966d5c5af03277e8c9142ae157cbdf76b4a49afe9fc7910f.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["Soon\u2122"]
+  },
+  "4179605488": {
+    "tier": 10,
+    "name": "Midway",
+    "nation": "usa",
+    "ship_id": 4179605488,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA110_4d771eaae5b865a45b94b367db15a494aa27262a7d90c215fdc6bf447e6ee219.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"]
+  },
+  "3751786480": {
+    "tier": 8,
+    "name": "Enterprise",
+    "nation": "usa",
+    "ship_id": 3751786480,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA518_1d6166593fe612e7436a4cd708d938a973cee0a65c37c5c7479fd817644b8626.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["Soon\u2122"]
+  },
+  "4179605200": {
+    "tier": 10,
+    "name": "Hakuryū",
+    "nation": "japan",
+    "ship_id": 4179605200,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA110_00695fda2927f4e847c390fef1fc00a72ecb9eeebb7cfa439fdb696dea539764.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"]
+  },
+  "3751786288": {
+    "tier": 8,
+    "name": "Graf Zeppelin",
+    "nation": "germany",
+    "ship_id": 3751786288,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSA518_3f1aff5cb151b143cc14e9da364ab2d3269cd9a6ab80df0529ccd0e1b75c1ba4.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["Soon\u2122"]
+  },
+  "3741300720": {
+    "tier": 8,
+    "name": "Saipan",
+    "nation": "usa",
+    "ship_id": 3741300720,
+    "images": {
+      "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA528_916e92731e2b592523a82077d1c8c7124e1f7edc4ac7114b6cbc3fa3d60fbad6.png"
+    },
+    "type": "AirCarrier",
+    "skills": ["Soon\u2122"]
+  },
+  "placeholder": {
+    "tier": 0,
+    "name": "Unknown Ship",
+    "nation": "unknown",
+    "ship_id": 0,
+    "images": {
+      "small": ""
+    },
+    "type": "unknown",
+    "skills": ["shrug"]
+  }
+}

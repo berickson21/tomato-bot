@@ -2,92 +2,204 @@
   "nations": {
     "usn": {
       "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
-      "dd": ["Gearing"],
-      "cl": ["Worcester"],
-      "ca": ["Des Moines"],
-      "bb": ["Montana"],
-      "cv": ["Midway"]
+      "dd": ["gearing"],
+      "cl": ["worcester"],
+      "ca": ["des moines"],
+      "bb": ["montana"],
+      "cv": ["midway"]
     },
     "ijn": {
       "aliases": ["ijn", "japan", "japanese", "waifu", "weeb"],
-      "dd": ["Shimakaze", "Harugumo"],
-      "ca": ["Zao"],
-      "bb": ["Yamato"],
-      "cv": ["Hakuryu"]
+      "dd": ["shimakaze", "harugumo"],
+      "ca": ["zao"],
+      "bb": ["yamato"],
+      "cv": ["hakuryu"]
     },
     "vmf": {
       "aliases": ["vmf", "soviet", "russian", "balans"],
-      "dd": ["Khabarovsk", "Grozovoi"],
-      "ca": ["Moskva"],
-      "bb": ["Kremlin"]
+      "dd": ["khabarovsk", "grozovoi"],
+      "ca": ["moskva"],
+      "bb": ["kremlin"]
     },
     "km": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
-      "dd": ["Z 52"],
-      "ca": ["Hindenburg"],
-      "bb": ["Grosser Kurfurst"]
+      "dd": ["z 52"],
+      "ca": ["hindenburg"],
+      "bb": ["grosser kurfurst"]
     },
     "mn": {
       "aliases": ["mn", "marine nationale", "french", "france", "baguette"],
-      "dd": ["Kleber"],
-      "ca": ["Henri IV"],
-      "bb": ["Republique"]
+      "dd": ["kleber"],
+      "ca": ["henri iv"],
+      "bb": ["republique"]
     },
     "pa": {
       "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
-      "dd": ["Yueyang"]
+      "dd": ["yueyang"]
     },
     "rm": {
       "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
-      "ca": ["Venezia"]
+      "ca": ["venezia"]
     },
     "rn": {
       "aliases": ["rn", "royal navy", "british", "uk", "limey"],
-      "dd": ["Daring"],
-      "cl": ["Minotaur"],
-      "ca": ["Goliath"],
-      "bb": ["Conqueror"],
-      "cv": ["Audacious"]
+      "dd": ["daring"],
+      "cl": ["minotaur"],
+      "ca": ["goliath"],
+      "bb": ["conqueror"],
+      "cv": ["audacious"]
     }
   },
-  "builds": {
-    "Yamato": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
-    "Montana": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "Grosser Kurfurst": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
-    "Republique": ["pm", "ar", "si", "ce", "em", "fp", "bos"],
-    "Kremlin": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "Bourgogne": ["el", "ar", "si", "ce", "em", "fp", "bos"],
-    "Thunderer": ["el", "ar", "si", "ce", "em", "fp", "bos"],
-    "Ohio": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
-    "Conqueror": ["el", "ar", "bos", "ce", "em", "fp", "si"],
-    "Des Moines": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
-    "Zao": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
-    "Hindenburg": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
-    "Minotaur": ["pt", "ar", "si", "ce", "joat", "tae", "maa"],
-    "Worcester": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
-    "Henri IV": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
-    "Salem": ["pt", "em", "de", "ce", "ar", "se", "si"],
-    "Moskva": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
-    "Stalingrad": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
-    "Yoshino": ["pt", "em", "si", "ce", "ifhe", "ar", "de"],
-    "Smolensk": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"],
-    "Colbert": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"],
-    "Shimakaze": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
-    "Gearing": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
-    "Khabarovsk": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
-    "Z 52": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
-    "Harugumo": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
-    "Grozovoi": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
-    "Yueyang": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
-    "Daring": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
-    "Kleber": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
-    "Somers": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
-    "Venezia": ["soon"],
-    "Goliath": ["soon"],
-    "Midway": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
-    "Hakuryu": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
-    "Audacious": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"],
-    "Balansboat": ["gitgud"]
+  "ships": {
+    "yamato": {
+      "aliases": ["yamato", "yammy"],
+      "ship_id": "4276041424"
+    },
+    "montana": {
+      "aliases": ["montana", "monty"],
+      "ship_id": "4277090288"
+    },
+    "grosser kurfurst": {
+      "aliases": ["grosser kurfurst", "gk", "großer kurfürst"],
+      "ship_id": "4179572528"
+    },
+    "republique": {
+      "aliases": ["republique", "repub", "république"],
+      "ship_id": "4179572560"
+    },
+    "kremlin": {
+      "aliases": ["kremlin", "kreml"],
+      "ship_id": "4179572176"
+    },
+    "bourgogne": {
+      "aliases": ["bourgogne"],
+      "ship_id": "3760142160"
+    },
+    "thunderer": {
+      "aliases": ["thunderer"],
+      "ship_id": "3760142288"
+    },
+    "ohio": {
+      "aliases": ["ohio"],
+      "ship_id": "3760142320"
+    },
+    "conqueror": {
+      "aliases": ["conqueror", "conq"],
+      "ship_id": "4179572688"
+    },
+    "des moines": {
+      "aliases": ["des moines", "dm", "des memes"],
+      "ship_id": "4273911792"
+    },
+    "zao": {
+      "aliases": ["zao"],
+      "ship_id": "4259231440"
+    },
+    "hindenburg": {
+      "aliases": ["hindenburg", "hindy"],
+      "ship_id": "4179539760"
+    },
+    "minotaur": {
+      "aliases": ["minotaur", "mino"],
+      "ship_id": "4179539920"
+    },
+    "worcester": {
+      "aliases": ["worcester", "wooster"],
+      "ship_id": "4074682352"
+    },
+    "henri iv": {
+      "aliases": ["henri iv", "henri"],
+      "ship_id": "4179539792"
+    },
+    "salem": {
+      "aliases": ["salem"],
+      "ship_id": "3550394352"
+    },
+    "moskva": {
+      "aliases": ["moskva"],
+      "ship_id": "4179539408"
+    },
+    "stalingrad": {
+      "aliases": ["stalingrad", "stalin"],
+      "ship_id": "3760109008"
+    },
+    "yoshino": {
+      "aliases": ["yoshino"],
+      "ship_id": "3749623504"
+    },
+    "smolensk": {
+      "aliases": ["smolensk"],
+      "ship_id": "3655251408"
+    },
+    "colbert": {
+      "aliases": ["colbert"],
+      "ship_id": "3760109392"
+    },
+    "venezia": {
+      "aliases": ["venezia"],
+      "ship_id": "4179539696"
+    },
+    "goliath": {
+      "aliases": ["goliath"],
+      "ship_id": ""
+    },
+    "shimakaze": {
+      "aliases": ["shimakaze", "shima"],
+      "ship_id": "4282267344"
+    },
+    "gearing": {
+      "aliases": ["gearing"],
+      "ship_id": "4281219056"
+    },
+    "khabarovsk": {
+      "aliases": ["khabarovsk", "khaba", "khab"],
+      "ship_id": "4179506640"
+    },
+    "z-52": {
+      "aliases": ["z-52", "z52", "z 52"],
+      "ship_id": "4179506992"
+    },
+    "harugumo": {
+      "aliases": ["harugumo", "haru"],
+      "ship_id": "4074649296"
+    },
+    "grozovoi": {
+      "aliases": ["grozovoi", "groz"],
+      "ship_id": "4074649040"
+    },
+    "yueyang": {
+      "aliases": ["yueyang"],
+      "ship_id": "4179506384"
+    },
+    "daring": {
+      "aliases": ["daring"],
+      "ship_id": "4179507152"
+    },
+    "kleber": {
+      "aliases": ["kleber"],
+      "ship_id": "4179507024"
+    },
+    "somers": {
+      "aliases": ["somers"],
+      "ship_id": "3760076784"
+    },
+    "midway": {
+      "aliases": ["midway"],
+      "ship_id": "4179605488"
+    },
+    "hakuryu": {
+      "aliases": ["hakuryu", "haku"],
+      "ship_id": "4179605200"
+    },
+    "audacious": {
+      "aliases": ["audacious"],
+      "ship_id": "4074747856"
+    },
+    "balansboat": {
+      "aliases": ["balansboat"],
+      "ship_id": "weegee",
+      "skills": ["gitgud"]
+    }
   },
   "skillMap": {
     "bft": 1,
@@ -125,7 +237,8 @@
   },
   "whitelist": {
     "soon": "Soon\u2122",
-    "dodge": "Just dodge\u2122",
-    "gitgud": "<:gitgud:397935317497413633>"
+    "dodge": "just dodge\u2122",
+    "gitgud": "<:gitgud:397935317497413633>",
+    "shrug": "<:yuishrug:357630177355890690>"
   }
 }
