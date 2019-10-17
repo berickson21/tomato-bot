@@ -53,7 +53,8 @@
   "ships": {
     "yamato": {
       "aliases": ["yamato", "yammy"],
-      "ship_id": "4276041424"
+      "ship_id": "4276041424",
+      "type": "battleship"
     },
     "montana": {
       "aliases": ["montana", "monty"],
@@ -67,139 +68,173 @@
         "kurrywurst",
         "currywurst"
       ],
-      "ship_id": "4179572528"
+      "ship_id": "4179572528",
+      "type": "battleship"
     },
     "republique": {
       "aliases": ["republique", "repub", "république", "big baguette"],
-      "ship_id": "4179572560"
+      "ship_id": "4179572560",
+      "type": "battleship"
     },
     "kremlin": {
       "aliases": ["kremlin", "kreml"],
-      "ship_id": "4179572176"
+      "ship_id": "4179572176",
+      "type": "battleship"
     },
     "bourgogne": {
       "aliases": ["bourgogne"],
-      "ship_id": "3760142160"
+      "ship_id": "3760142160",
+      "type": "battleship"
     },
     "thunderer": {
       "aliases": ["thunderer"],
-      "ship_id": "3760142288"
+      "ship_id": "3760142288",
+      "type": "battleship"
     },
     "ohio": {
       "aliases": ["ohio"],
-      "ship_id": "3760142320"
+      "ship_id": "3760142320",
+      "type": "battleship"
     },
     "conqueror": {
       "aliases": ["conqueror", "conq"],
-      "ship_id": "4179572688"
+      "ship_id": "4179572688",
+      "type": "battleship"
     },
     "des moines": {
       "aliases": ["des moines", "dm", "des memes"],
-      "ship_id": "4273911792"
+      "ship_id": "4273911792",
+      "type": "battleship"
     },
     "zao": {
       "aliases": ["zao", "zaou"],
-      "ship_id": "4259231440"
+      "ship_id": "4259231440",
+      "type": "cruiser"
     },
     "hindenburg": {
       "aliases": ["hindenburg", "hindy"],
-      "ship_id": "4179539760"
+      "ship_id": "4179539760",
+      "type": "cruiser"
     },
     "minotaur": {
       "aliases": ["minotaur", "mino"],
-      "ship_id": "4179539920"
+      "ship_id": "4179539920",
+      "type": "cruiser"
     },
     "worcester": {
       "aliases": ["worcester", "wooster"],
-      "ship_id": "4074682352"
+      "ship_id": "4074682352",
+      "type": "cruiser"
     },
     "henri iv": {
       "aliases": ["henri iv", "henri", "medium baguette"],
-      "ship_id": "4179539792"
+      "ship_id": "4179539792",
+      "type": "cruiser"
     },
     "salem": {
       "aliases": ["salem"],
-      "ship_id": "3550394352"
+      "ship_id": "3550394352",
+      "type": "cruiser"
     },
     "moskva": {
       "aliases": ["moskva"],
-      "ship_id": "4179539408"
+      "ship_id": "4179539408",
+      "type": "cruiser"
     },
     "stalingrad": {
       "aliases": ["stalingrad", "stalin"],
-      "ship_id": "3760109008"
+      "ship_id": "3760109008",
+      "type": "cruiser"
     },
     "yoshino": {
       "aliases": ["yoshino"],
-      "ship_id": "3749623504"
+      "ship_id": "3749623504",
+      "type": "cruiser"
     },
     "smolensk": {
       "aliases": ["smolensk"],
-      "ship_id": "3655251408"
+      "ship_id": "3655251408",
+      "type": "cruiser"
     },
     "colbert": {
       "aliases": ["colbert"],
-      "ship_id": "3760109392"
+      "ship_id": "3760109392",
+      "type": "cruiser"
     },
     "venezia": {
       "aliases": ["venezia"],
-      "ship_id": "4179539696"
+      "ship_id": "4179539696",
+      "type": "cruiser"
     },
     "goliath": {
       "aliases": ["goliath"],
-      "ship_id": ""
+      "ship_id": "",
+      "type": "cruiser"
     },
     "shimakaze": {
       "aliases": ["shimakaze", "shima"],
-      "ship_id": "4282267344"
+      "ship_id": "4282267344",
+      "type": "destroyer"
     },
     "gearing": {
       "aliases": ["gearing"],
-      "ship_id": "4281219056"
+      "ship_id": "4281219056",
+      "type": "destroyer"
     },
     "khabarovsk": {
       "aliases": ["khabarovsk", "khaba", "khab"],
-      "ship_id": "4179506640"
+      "ship_id": "4179506640",
+      "type": "destroyer"
     },
     "z-52": {
       "aliases": ["z-52", "z52", "z 52"],
-      "ship_id": "4179506992"
+      "ship_id": "4179506992",
+      "type": "destroyer"
     },
     "harugumo": {
       "aliases": ["harugumo", "haru"],
-      "ship_id": "4074649296"
+      "ship_id": "4074649296",
+      "type": "destroyer"
     },
     "grozovoi": {
       "aliases": ["grozovoi", "groz"],
-      "ship_id": "4074649040"
+      "ship_id": "4074649040",
+      "type": "destroyer"
     },
     "yueyang": {
       "aliases": ["yueyang"],
-      "ship_id": "4179506384"
+      "ship_id": "4179506384",
+      "type": "destroyer"
     },
     "daring": {
       "aliases": ["daring"],
-      "ship_id": "4179507152"
+      "ship_id": "4179507152",
+      "type": "destroyer"
     },
     "kleber": {
       "aliases": ["kleber", "little baguette"],
-      "ship_id": "4179507024"
+      "ship_id": "4179507024",
+      "type": "destroyer"
     },
     "somers": {
       "aliases": ["somers", "summers"],
-      "ship_id": "3760076784"
+      "ship_id": "3760076784",
+      "type": "destroyer"
     },
     "midway": {
       "aliases": ["midway"],
-      "ship_id": "4179605488"
+      "ship_id": "4179605488",
+      "type": "aircarrier"
     },
     "hakuryu": {
       "aliases": ["hakuryu", "haku"],
-      "ship_id": "4179605200"
+      "ship_id": "4179605200",
+      "type": "aircarrier"
     },
     "audacious": {
       "aliases": ["audacious"],
-      "ship_id": "4074747856"
+      "ship_id": "4074747856",
+      "type": "aircarrier"
     }
   },
   "skillMap": {
