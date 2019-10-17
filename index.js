@@ -6,7 +6,8 @@ const bot = new Discord.Client();
 
 // Initialize Discord Bot
 require("dotenv").config();
-
+const TOKEN =
+  process.argv[2] === "debug" ? process.env.DEBUG_TOKEN : process.env.BOT_TOKEN;
 // This event will run if the bot starts and logs in successfully.
 bot.on("ready", () => {
   console.log(
@@ -32,7 +33,7 @@ bot.on("guildDelete", guild => {
 // This event triggers when a message is sent in a guild (server) the bot belongs to.
 bot.on("message", async message => {
   // Construct a response
-  const response = prepareResponse(message);
+  const response = await prepareResponse(message);
   // Send the response
   if (response) {
     try {
@@ -45,5 +46,4 @@ bot.on("message", async message => {
     }
   }
 });
-
-bot.login(process.env.BOT_TOKEN);
+bot.login(TOKEN);

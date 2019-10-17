@@ -8,6 +8,8 @@
     "dotenv": "^8.1.0",
     "fs-jetpack": "^2.2.2",
     "lodash": "^4.17.15",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
     "wargamer": "^0.5.0"
   },
   "devDependencies": {
