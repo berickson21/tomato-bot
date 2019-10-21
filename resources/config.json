@@ -16,7 +16,7 @@
       "cv": ["hakuryu"]
     },
     "vmf": {
-      "aliases": ["vmf", "soviet", "russian", "balans"],
+      "aliases": ["vmf", "soviet", "russian"],
       "dd": ["khabarovsk", "grozovoi"],
       "ca": ["moskva"],
       "bb": ["kremlin"]
@@ -154,7 +154,7 @@
       "type": "cruiser"
     },
     "stalingrad": {
-      "aliases": ["stalingrad", "stalin"],
+      "aliases": ["stalingrad", "stalin", "stalinium"],
       "ship_id": "3760109008",
       "type": "cruiser"
     },
