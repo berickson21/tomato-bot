@@ -47,3 +47,10 @@ bot.on("message", async message => {
   }
 });
 bot.login(TOKEN);
+
+// So that Heroku doesn't put it to sleep
+function intervalFunc() {
+  console.log("Wake up!");
+}
+
+setInterval(intervalFunc, 1740000);
