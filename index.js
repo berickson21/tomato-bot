@@ -13,7 +13,7 @@ bot.on("ready", () => {
   console.log(
     `Tomato-bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels`
   );
-  bot.user.setActivity("with Viykin's sanity");
+  bot.user.setActivity("%help for commands");
 });
 
 // This event triggers when the bot joins a guild (server).
