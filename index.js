@@ -38,7 +38,6 @@ bot.on("message", async message => {
   if (response) {
     try {
       response.forEach(msg => {
-        console.log(msg);
         message.channel.send(msg);
       });
     } catch (err) {
