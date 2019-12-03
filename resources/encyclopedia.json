@@ -712,7 +712,7 @@
       "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC110_e394d76a275b9434b48210aa7bec4662b0f8ea3b90873e8a359a20e6d6e53bc5.png"
     },
     "type": "Cruiser",
-    "skills": ["pt", "ar", "si", "ce", "em", "v", "ifa", "se"]
+    "skills": ["pt", "ar", "si", "ce", "em", "joat", "pm", "el", "se"]
   },
   "3550394352": {
     "tier": 10,
