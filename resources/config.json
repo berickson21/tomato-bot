@@ -18,7 +18,7 @@
     "vmf": {
       "aliases": ["vmf", "soviet", "russian"],
       "dd": ["khabarovsk", "grozovoi"],
-      "ca": ["moskva"],
+      "ca": ["dmitri donskoi and below", "moskva"],
       "bb": ["kremlin"]
     },
     "km": {
@@ -58,12 +58,42 @@
   },
   "ships": {
     "yamato": {
-      "aliases": ["yamato", "yammy"],
+      "aliases": [
+        "yamato",
+        "yammy",
+        "kawachi",
+        "myogi",
+        "kongo",
+        "fuso",
+        "mutsu",
+        "nagato",
+        "amagi",
+        "ibuki",
+        "izumo"
+      ],
       "ship_id": "4276041424",
       "type": "battleship"
     },
     "montana": {
-      "aliases": ["montana", "monty"],
+      "aliases": [
+        "montana",
+        "monty",
+        "south carolina",
+        "wyoming",
+        "arkansas beta",
+        "new york",
+        "texas",
+        "new mexico",
+        "arizona",
+        "w. virginia 1941",
+        "colorado",
+        "california",
+        "north carolina",
+        "alabama",
+        "alabama st",
+        "iowa",
+        "georgia"
+      ],
       "ship_id": "4277090288"
     },
     "grosser kurfurst": {
@@ -72,7 +102,17 @@
         "gk",
         "großer kurfürst",
         "kurrywurst",
-        "currywurst"
+        "currywurst",
+        "nassau",
+        "kaiser",
+        "konig",
+        "bayern",
+        "gneisenau",
+        "tirpitz",
+        "bismarck",
+        "friedrich der grosse",
+        "friedrich",
+        "fdg"
       ],
       "ship_id": "4179572528",
       "type": "battleship"
@@ -83,13 +123,33 @@
         "repub",
         "république",
         "big baguette",
-        "large baguette"
+        "large baguette",
+        "turenne",
+        "courbet",
+        "bretagne",
+        "normandie",
+        "lyon",
+        "richelieu",
+        "alsace",
+        "republique"
       ],
       "ship_id": "4179572560",
       "type": "battleship"
     },
     "kremlin": {
-      "aliases": ["kremlin", "kreml", "balans"],
+      "aliases": [
+        "kremlin",
+        "kreml",
+        "balans",
+        "knyas suvorov",
+        "gangut",
+        "pyotr velikiy",
+        "izmail",
+        "sinop",
+        "vladivostok",
+        "lenin",
+        "sovetsky soyuz"
+      ],
       "ship_id": "4179572176",
       "type": "battleship"
     },
@@ -109,43 +169,144 @@
       "type": "battleship"
     },
     "conqueror": {
-      "aliases": ["conqueror", "conq"],
+      "aliases": [
+        "conqueror",
+        "conq",
+        "bellerophon",
+        "orion",
+        "iron duke",
+        "queen elizabeth",
+        "king george v",
+        "kgv",
+        "monarch",
+        "lion"
+      ],
       "ship_id": "4179572688",
       "type": "battleship"
     },
     "des moines": {
-      "aliases": ["des moines", "dm", "des memes"],
+      "aliases": [
+        "des moines",
+        "dm",
+        "des memes",
+        "chester",
+        "st. louis",
+        "st louis",
+        "charleston",
+        "phoenix",
+        "omaha",
+        "marblehead",
+        "marblehead lima",
+        "pensacola",
+        "new orleans",
+        "indianapolis",
+        "baltimore",
+        "wichita",
+        "buffalo"
+      ],
       "ship_id": "4273911792",
       "type": "battleship"
     },
     "zao": {
-      "aliases": ["zao", "zaou"],
+      "aliases": [
+        "zao",
+        "zaou",
+        "chikuma",
+        "tenryu",
+        "katori",
+        "kuma",
+        "furutaka",
+        "aoba",
+        "myoko",
+        "mogami",
+        "atago",
+        "ibuki"
+      ],
       "ship_id": "4259231440",
       "type": "cruiser"
     },
     "hindenburg": {
-      "aliases": ["hindenburg", "hindy"],
+      "aliases": [
+        "hindenburg",
+        "hindy",
+        "dresden",
+        "kolberg",
+        "karlsruhe",
+        "konigsberg",
+        "nurnberg",
+        "yorck",
+        "admiral hipper",
+        "prinz eugen",
+        "roon"
+      ],
       "ship_id": "4179539760",
       "type": "cruiser"
     },
     "minotaur": {
-      "aliases": ["minotaur", "mino"],
+      "aliases": [
+        "minotaur",
+        "mino",
+        "weymouth",
+        "caledon",
+        "danae",
+        "emerald",
+        "leander",
+        "fiji",
+        "edinburgh",
+        "neptune"
+      ],
       "ship_id": "4179539920",
       "type": "cruiser"
     },
     "worcester": {
-      "aliases": ["worcester", "wooster"],
+      "aliases": [
+        "worcester",
+        "wooster",
+        "dallas",
+        "helena",
+        "boise",
+        "cleveland",
+        "wichita",
+        "seattle"
+      ],
       "ship_id": "4074682352",
       "type": "cruiser"
     },
     "henri iv": {
-      "aliases": ["henri iv", "henri", "medium baguette"],
+      "aliases": [
+        "henri iv",
+        "henri",
+        "medium baguette",
+        "jurien de la graviere",
+        "friant",
+        "duguay-trouin",
+        "emile bertin",
+        "la galissonniere",
+        "algerie",
+        "charles martel",
+        "saint-louis"
+      ],
       "ship_id": "4179539792",
       "type": "cruiser"
     },
     "salem": {
       "aliases": ["salem"],
       "ship_id": "3550394352",
+      "type": "cruiser"
+    },
+    "dmitri donskoi and below": {
+      "aliases": [
+        "dmitri donskoi",
+        "donskoi",
+        "novik",
+        "bogatyr",
+        "svietlana",
+        "kirov",
+        "budyonny",
+        "schors",
+        "chapayev"
+      ],
+      "ship_id": "4180587984",
       "type": "cruiser"
     },
     "moskva": {
@@ -174,7 +335,18 @@
       "type": "cruiser"
     },
     "venezia": {
-      "aliases": ["venezia"],
+      "aliases": [
+        "venezia",
+        "nino bixio",
+        "taranto",
+        "alberto di guissano",
+        "raimondo montecuccoli",
+        "trento",
+        "zara",
+        "gorizia",
+        "amalfi",
+        "brindisi"
+      ],
       "ship_id": "4179539696",
       "type": "cruiser"
     },
@@ -184,47 +356,147 @@
       "type": "cruiser"
     },
     "shimakaze": {
-      "aliases": ["shimakaze", "shima"],
+      "aliases": [
+        "shimakaze",
+        "shima",
+        "umikaze",
+        "wakatake",
+        "isokaze",
+        "minekaze",
+        "kamikaze",
+        "kamikaze r",
+        "fujin",
+        "fubuki",
+        "shinonome",
+        "akatsuki",
+        "kagero",
+        "asashio",
+        "asashio b",
+        "yugumo"
+      ],
       "ship_id": "4282267344",
       "type": "destroyer"
     },
     "gearing": {
-      "aliases": ["gearing"],
+      "aliases": [
+        "gearing",
+        "sampson",
+        "smith",
+        "wickes",
+        "clemson",
+        "nicholas",
+        "farragut",
+        "mahan",
+        "benson",
+        "fletcher"
+      ],
       "ship_id": "4281219056",
       "type": "destroyer"
     },
     "khabarovsk": {
-      "aliases": ["khabarovsk", "khaba", "khab"],
+      "aliases": ["khabarovsk", "khaba", "khab", "kiev", "tashkent"],
       "ship_id": "4179506640",
       "type": "destroyer"
     },
     "z-52": {
-      "aliases": ["z-52", "z52", "z 52"],
+      "aliases": [
+        "z-52",
+        "z52",
+        "z 52",
+        "v-25",
+        "g-101",
+        "v-170",
+        "t-22",
+        "ernst gaede",
+        "gaede",
+        "t-61",
+        "leberecht maass",
+        "maass",
+        "z-39",
+        "z-23",
+        "z-46"
+      ],
       "ship_id": "4179506992",
       "type": "destroyer"
     },
     "harugumo": {
-      "aliases": ["harugumo", "haru"],
+      "aliases": [
+        "harugumo",
+        "haru",
+        "hatsuharu",
+        "shiratsuyu",
+        "akizuki",
+        "kitakaze"
+      ],
       "ship_id": "4074649296",
       "type": "destroyer"
     },
     "grozovoi": {
-      "aliases": ["grozovoi", "groz"],
+      "aliases": [
+        "grozovoi",
+        "groz",
+        "storozhevoi",
+        "derzki",
+        "izyaslav",
+        "podvoisky",
+        "gnevny",
+        "minsk",
+        "ognevoi",
+        "udaloi"
+      ],
       "ship_id": "4074649040",
       "type": "destroyer"
     },
     "yueyang": {
-      "aliases": ["yueyang"],
+      "aliases": [
+        "yueyang",
+        "longjiang",
+        "phra ruang",
+        "shenyang",
+        "jianwei",
+        "fushun",
+        "gadjah mada",
+        "hsienyang",
+        "siliwangi",
+        "chung mu"
+      ],
       "ship_id": "4179506384",
       "type": "destroyer"
     },
     "daring": {
-      "aliases": ["daring"],
+      "aliases": [
+        "daring",
+        "medea",
+        "valkyrie",
+        "wakeful",
+        "acasta",
+        "icarus",
+        "gallant",
+        "jervis",
+        "lightning",
+        "cossack",
+        "jutland"
+      ],
       "ship_id": "4179507152",
       "type": "destroyer"
     },
     "kleber": {
-      "aliases": ["kleber", "kleb", "small baguette", "little baguette"],
+      "aliases": [
+        "kleber",
+        "kleb",
+        "small baguette",
+        "little baguette",
+        "enseigne gabolde",
+        "fusilier",
+        "bourrasque",
+        "jaguar",
+        "guepard",
+        "aigle",
+        "vauquelin",
+        "le fantasque",
+        "mogador",
+        "kleber"
+      ],
       "ship_id": "4179507024",
       "type": "destroyer"
     },
@@ -234,17 +506,31 @@
       "type": "destroyer"
     },
     "midway": {
-      "aliases": ["midway"],
+      "aliases": [
+        "midway",
+        "langley",
+        "ranger",
+        "lexington",
+        "enterprise",
+        "saipan",
+        "midway"
+      ],
       "ship_id": "4179605488",
       "type": "aircarrier"
     },
     "hakuryu": {
-      "aliases": ["hakuryu", "haku"],
+      "aliases": ["hakuryu", "haku", "hosho", "ryujo", "shokaku"],
       "ship_id": "4179605200",
       "type": "aircarrier"
     },
     "audacious": {
-      "aliases": ["audacious"],
+      "aliases": [
+        "audacious",
+        "hermes",
+        "furious",
+        "implacable",
+        "indomitable"
+      ],
       "ship_id": "4074747856",
       "type": "aircarrier"
     }

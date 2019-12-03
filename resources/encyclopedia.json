@@ -923,6 +923,17 @@
     "type": "Cruiser",
     "skills": ["Soon\u2122"]
   },
+  "4180587984": {
+    "tier": 9,
+    "name": "Dmitri Donskoi",
+    "nation": "ussr",
+    "ship_id": 4180587984,
+    "images": {
+      "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC109_ff3e0fea7bbc2c56761721f617261ce1cdb1ef3ff8fd56c0b5197a0b33d96500.png"
+    },
+    "type": "Cruiser",
+    "skills": ["pt", "ar", "si", "ce", "de", "ifhe", "joat"]
+  },
   "4179539408": {
     "tier": 10,
     "name": "Moskva",
