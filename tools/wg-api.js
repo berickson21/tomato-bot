@@ -14,4 +14,5 @@ async function getShipData(ship_id) {
   });
   return JSON.parse(response).data[ship_id];
 }
+
 module.exports = { getShipData };
