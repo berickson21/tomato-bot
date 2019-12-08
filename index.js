@@ -38,7 +38,12 @@ bot.on("message", async message => {
   if (response) {
     try {
       response.forEach(msg => {
-        message.channel.send(msg);
+        if (msg === "guilds") {
+          let guilds = [...bot.guilds.values()].map(guild => guild.name);
+          message.channel.send(guilds.join("\n"));
+        } else {
+          message.channel.send(msg);
+        }
       });
     } catch (err) {
       console.error(err);
