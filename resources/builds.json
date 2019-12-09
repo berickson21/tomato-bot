@@ -331,7 +331,7 @@
   "3760109552": {
     "name": "Alaska",
     "ship_id": 3760109552,
-    "skills": ["Soon\u2122"],
+    "skills": ["pt", "ar", "si", "ce", "el", "em", "fp", "joat"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -492,7 +492,7 @@
   "3655251952": {
     "name": "Puerto Rico",
     "ship_id": 3655251952,
-    "skills": ["Soon\u2122"],
+    "skills": ["pt", "ar", "si", "ce", "el", "em", "fp", "joat"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -982,14 +982,14 @@
   "4282267344": {
     "name": "Shimakaze",
     "ship_id": 4282267344,
-    "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
+    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "em", "pm"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
   "4281219056": {
     "name": "Gearing",
     "ship_id": 4281219056,
-    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "si"],
+    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
