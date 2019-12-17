@@ -1,6 +1,7 @@
 {
   "3553572848": {
     "name": "California",
+    "aliases": [],
     "ship_id": 3553572848,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -8,6 +9,7 @@
   },
   "3764336432": {
     "name": "Prinz Eitel Friedrich",
+    "aliases": [],
     "ship_id": 3764336432,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -15,6 +17,20 @@
   },
   "4179572176": {
     "name": "Kremlin",
+    "aliases": [
+      "kremlin",
+      "kreml",
+      "balans",
+      "knyas suvorov",
+      "gangut",
+      "pyotr velikiy",
+      "izmail",
+      "sinop",
+      "vladivostok",
+      "lenin",
+      "sovetsky soyuz"
+    ],
+    "type": "battleship",
     "ship_id": 4179572176,
     "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -22,6 +38,7 @@
   },
   "3764336336": {
     "name": "Mutsu",
+    "aliases": [],
     "ship_id": 3764336336,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -29,6 +46,7 @@
   },
   "3761190608": {
     "name": "Musashi",
+    "aliases": [],
     "ship_id": 3761190608,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -36,6 +54,7 @@
   },
   "3762239440": {
     "name": "Vanguard",
+    "aliases": [],
     "ship_id": 3762239440,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -43,6 +62,7 @@
   },
   "3751753168": {
     "name": "Lenin",
+    "aliases": [],
     "ship_id": 3751753168,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -50,6 +70,7 @@
   },
   "3762239184": {
     "name": "Kii",
+    "aliases": [],
     "ship_id": 3762239184,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -57,6 +78,26 @@
   },
   "4277090288": {
     "name": "Montana",
+    "aliases": [
+      "montana",
+      "monty",
+      "south carolina",
+      "wyoming",
+      "arkansas beta",
+      "new york",
+      "texas",
+      "new mexico",
+      "arizona",
+      "w. virginia 1941",
+      "colorado",
+      "california",
+      "north carolina",
+      "alabama",
+      "alabama st",
+      "iowa",
+      "georgia"
+    ],
+    "type": "battleship",
     "ship_id": 4277090288,
     "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -64,6 +105,7 @@
   },
   "4283381456": {
     "name": "Mikasa",
+    "aliases": [],
     "ship_id": 4283381456,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -71,6 +113,7 @@
   },
   "3751753552": {
     "name": "Jean Bart",
+    "aliases": [],
     "ship_id": 3751753552,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -78,6 +121,7 @@
   },
   "4292818896": {
     "name": "Warspite",
+    "aliases": [],
     "ship_id": 4292818896,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -85,6 +129,7 @@
   },
   "3555670000": {
     "name": "Texas",
+    "aliases": [],
     "ship_id": 3555670000,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -92,6 +137,22 @@
   },
   "4179572560": {
     "name": "République",
+    "aliases": [
+      "republique",
+      "repub",
+      "république",
+      "big baguette",
+      "large baguette",
+      "turenne",
+      "courbet",
+      "bretagne",
+      "normandie",
+      "lyon",
+      "richelieu",
+      "alsace",
+      "republique"
+    ],
+    "type": "battleship",
     "ship_id": 4179572560,
     "skills": ["pm", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -99,6 +160,8 @@
   },
   "3760142320": {
     "name": "Ohio",
+    "aliases": ["ohio"],
+    "type": "battleship",
     "ship_id": 3760142320,
     "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -106,6 +169,7 @@
   },
   "3552524272": {
     "name": "Alabama ST",
+    "aliases": [],
     "ship_id": 3552524272,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -113,6 +177,7 @@
   },
   "4286527184": {
     "name": "Ishizuchi",
+    "aliases": [],
     "ship_id": 4286527184,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -120,6 +185,7 @@
   },
   "4281284592": {
     "name": "Arkansas Beta",
+    "aliases": [],
     "ship_id": 4281284592,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -127,6 +193,7 @@
   },
   "4293866960": {
     "name": "Imperator Nikolai I",
+    "aliases": [],
     "ship_id": 4293866960,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -134,6 +201,7 @@
   },
   "3765384944": {
     "name": "Giulio Cesare",
+    "aliases": [],
     "ship_id": 3765384944,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -141,6 +209,7 @@
   },
   "3763288048": {
     "name": "W. Virginia 1941",
+    "aliases": [],
     "ship_id": 3763288048,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -148,6 +217,7 @@
   },
   "4292818736": {
     "name": "Tirpitz",
+    "aliases": [],
     "ship_id": 4292818736,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -155,6 +225,7 @@
   },
   "3450812144": {
     "name": "Giunio Bruto",
+    "aliases": [],
     "ship_id": 3450812144,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -162,6 +233,7 @@
   },
   "3763288016": {
     "name": "Hood",
+    "aliases": [],
     "ship_id": 3763288016,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -169,6 +241,7 @@
   },
   "3760141776": {
     "name": "Slava",
+    "aliases": [],
     "ship_id": 3760141776,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -176,6 +249,7 @@
   },
   "3742316496": {
     "name": "Duke of York",
+    "aliases": [],
     "ship_id": 3742316496,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -183,6 +257,7 @@
   },
   "3530504176": {
     "name": "Georgia",
+    "aliases": [],
     "ship_id": 3530504176,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -190,6 +265,7 @@
   },
   "3762239472": {
     "name": "Alabama",
+    "aliases": [],
     "ship_id": 3762239472,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -197,6 +273,24 @@
   },
   "4179572528": {
     "name": "Großer Kurfürst",
+    "aliases": [
+      "grosser kurfurst",
+      "gk",
+      "großer kurfürst",
+      "kurrywurst",
+      "currywurst",
+      "nassau",
+      "kaiser",
+      "konig",
+      "bayern",
+      "gneisenau",
+      "tirpitz",
+      "bismarck",
+      "friedrich der grosse",
+      "friedrich",
+      "fdg"
+    ],
+    "type": "battleship",
     "ship_id": 4179572528,
     "skills": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -204,6 +298,7 @@
   },
   "3766433072": {
     "name": "Viribus Unitis",
+    "aliases": [],
     "ship_id": 3766433072,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -211,6 +306,7 @@
   },
   "3767482160": {
     "name": "König Albert",
+    "aliases": [],
     "ship_id": 3767482160,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -218,6 +314,8 @@
   },
   "3760142160": {
     "name": "Bourgogne",
+    "aliases": ["bourgogne"],
+    "type": "battleship",
     "ship_id": 3760142160,
     "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -225,6 +323,7 @@
   },
   "3761190896": {
     "name": "Missouri",
+    "aliases": [],
     "ship_id": 3761190896,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -232,6 +331,20 @@
   },
   "4276041424": {
     "name": "Yamato",
+    "aliases": [
+      "yamato",
+      "yammy",
+      "kawachi",
+      "myogi",
+      "kongo",
+      "fuso",
+      "mutsu",
+      "nagato",
+      "amagi",
+      "ibuki",
+      "izumo"
+    ],
+    "type": "battleship",
     "ship_id": 4276041424,
     "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -239,6 +352,7 @@
   },
   "3764336464": {
     "name": "Dunkerque",
+    "aliases": [],
     "ship_id": 3764336464,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -246,6 +360,7 @@
   },
   "3764336624": {
     "name": "Arizona",
+    "aliases": [],
     "ship_id": 3764336624,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -253,6 +368,7 @@
   },
   "3751753712": {
     "name": "Massachusetts",
+    "aliases": [],
     "ship_id": 3751753712,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -260,6 +376,7 @@
   },
   "3762239312": {
     "name": "Gascogne",
+    "aliases": [],
     "ship_id": 3762239312,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -267,6 +384,7 @@
   },
   "3767482320": {
     "name": "Dreadnought",
+    "aliases": [],
     "ship_id": 3767482320,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -274,6 +392,7 @@
   },
   "3667867632": {
     "name": "Massachusetts B",
+    "aliases": [],
     "ship_id": 3667867632,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -281,6 +400,7 @@
   },
   "3765384656": {
     "name": "Oktyabrskaya Revolutsiya",
+    "aliases": [],
     "ship_id": 3765384656,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -288,6 +408,7 @@
   },
   "3762239216": {
     "name": "Roma",
+    "aliases": [],
     "ship_id": 3762239216,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -295,6 +416,7 @@
   },
   "3752802256": {
     "name": "Nelson",
+    "aliases": [],
     "ship_id": 3752802256,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -302,6 +424,7 @@
   },
   "3763287760": {
     "name": "Ashitaka",
+    "aliases": [],
     "ship_id": 3763287760,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -309,6 +432,7 @@
   },
   "3763287856": {
     "name": "Scharnhorst",
+    "aliases": [],
     "ship_id": 3763287856,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -316,6 +440,8 @@
   },
   "3760142288": {
     "name": "Thunderer",
+    "aliases": ["thunderer"],
+    "type": "battleship",
     "ship_id": 3760142288,
     "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -323,6 +449,19 @@
   },
   "4179572688": {
     "name": "Conqueror",
+    "aliases": [
+      "conqueror",
+      "conq",
+      "bellerophon",
+      "orion",
+      "iron duke",
+      "queen elizabeth",
+      "king george v",
+      "kgv",
+      "monarch",
+      "lion"
+    ],
+    "type": "battleship",
     "ship_id": 4179572688,
     "skills": ["el", "ar", "bos", "ce", "em", "fp", "si"],
     "upgrades": ["Soon\u2122"],
@@ -330,6 +469,7 @@
   },
   "3760109552": {
     "name": "Alaska",
+    "aliases": ["alaska", "ak"],
     "ship_id": 3760109552,
     "skills": ["pt", "ar", "si", "ce", "el", "em", "fp", "joat"],
     "upgrades": ["Soon\u2122"],
@@ -337,6 +477,7 @@
   },
   "3762205904": {
     "name": "Irian",
+    "aliases": [],
     "ship_id": 3762205904,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -344,6 +485,8 @@
   },
   "3655251408": {
     "name": "Smolensk",
+    "aliases": ["smolensk", "smol"],
+    "type": "cruiser",
     "ship_id": 3655251408,
     "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"],
     "upgrades": ["Soon\u2122"],
@@ -351,6 +494,7 @@
   },
   "3765352144": {
     "name": "Yahagi",
+    "aliases": [],
     "ship_id": 3765352144,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -358,6 +502,8 @@
   },
   "3749623504": {
     "name": "Yoshino",
+    "aliases": ["yoshino", "yoshi"],
+    "type": "cruiser",
     "ship_id": 3749623504,
     "skills": ["pt", "em", "si", "ce", "ifhe", "ar", "de"],
     "upgrades": ["Soon\u2122"],
@@ -365,6 +511,19 @@
   },
   "4179539920": {
     "name": "Minotaur",
+    "aliases": [
+      "minotaur",
+      "mino",
+      "weymouth",
+      "caledon",
+      "danae",
+      "emerald",
+      "leander",
+      "fiji",
+      "edinburgh",
+      "neptune"
+    ],
+    "type": "cruiser",
     "ship_id": 4179539920,
     "skills": ["pt", "ar", "si", "ce", "joat", "tae", "maa"],
     "upgrades": ["Soon\u2122"],
@@ -372,6 +531,7 @@
   },
   "3756963280": {
     "name": "Varyag",
+    "aliases": [],
     "ship_id": 3756963280,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -379,6 +539,7 @@
   },
   "3762206160": {
     "name": "Mikhail Kutuzov",
+    "aliases": [],
     "ship_id": 3762206160,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -386,6 +547,7 @@
   },
   "3764303056": {
     "name": "Huanghe",
+    "aliases": [],
     "ship_id": 3764303056,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -393,6 +555,7 @@
   },
   "3763255248": {
     "name": "Belfast",
+    "aliases": [],
     "ship_id": 3763255248,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -400,6 +563,7 @@
   },
   "3767449584": {
     "name": "Charleston",
+    "aliases": [],
     "ship_id": 3767449584,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -407,6 +571,7 @@
   },
   "3761157936": {
     "name": "Siegfried",
+    "aliases": [],
     "ship_id": 3761157936,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -414,6 +579,7 @@
   },
   "3659445712": {
     "name": "Admiral Makarov",
+    "aliases": [],
     "ship_id": 3659445712,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -421,6 +587,8 @@
   },
   "3760109392": {
     "name": "Colbert",
+    "aliases": ["colbert"],
+    "type": "cruiser",
     "ship_id": 3760109392,
     "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"],
     "upgrades": ["Soon\u2122"],
@@ -428,6 +596,7 @@
   },
   "3765352400": {
     "name": "Exeter",
+    "aliases": [],
     "ship_id": 3765352400,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -435,6 +604,20 @@
   },
   "4179539760": {
     "name": "Hindenburg",
+    "aliases": [
+      "hindenburg",
+      "hindy",
+      "dresden",
+      "kolberg",
+      "karlsruhe",
+      "konigsberg",
+      "nurnberg",
+      "yorck",
+      "admiral hipper",
+      "prinz eugen",
+      "roon"
+    ],
+    "type": "cruiser",
     "ship_id": 4179539760,
     "skills": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
     "upgrades": ["Soon\u2122"],
@@ -442,6 +625,8 @@
   },
   "3760109008": {
     "name": "Stalingrad",
+    "aliases": ["stalingrad", "stalin", "stalinium"],
+    "type": "cruiser",
     "ship_id": 3760109008,
     "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -449,6 +634,19 @@
   },
   "4179539696": {
     "name": "Venezia",
+    "aliases": [
+      "venezia",
+      "nino bixio",
+      "taranto",
+      "alberto di guissano",
+      "raimondo montecuccoli",
+      "trento",
+      "zara",
+      "gorizia",
+      "amalfi",
+      "brindisi"
+    ],
+    "type": "cruiser",
     "ship_id": 4179539696,
     "skills": ["pt", "ar", "si", "ce", "em", "joat", "pm", "el", "se"],
     "upgrades": ["Soon\u2122"],
@@ -456,6 +654,8 @@
   },
   "3550394352": {
     "name": "Salem",
+    "aliases": ["salem"],
+    "type": "cruiser",
     "ship_id": 3550394352,
     "skills": ["pt", "em", "de", "ce", "ar", "se", "si"],
     "upgrades": ["Soon\u2122"],
@@ -463,6 +663,7 @@
   },
   "3762206544": {
     "name": "Bayard",
+    "aliases": [],
     "ship_id": 3762206544,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -470,6 +671,7 @@
   },
   "3764303312": {
     "name": "Molotov",
+    "aliases": [],
     "ship_id": 3764303312,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -477,6 +679,7 @@
   },
   "3764303664": {
     "name": "Admiral Graf Spee",
+    "aliases": [],
     "ship_id": 3764303664,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -484,6 +687,7 @@
   },
   "3445536592": {
     "name": "Brennus",
+    "aliases": [],
     "ship_id": 3445536592,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -491,13 +695,15 @@
   },
   "3655251952": {
     "name": "Puerto Rico",
+    "aliases": ["puerto rico", "pr"],
     "ship_id": 3655251952,
-    "skills": ["pt", "ar", "si", "ce", "el", "em", "fp", "joat"],
+    "skills": ["pr1", "pr2", "pr3", "pr4", "pr5", "pr6", "pr7", "pr8"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
   "3553540080": {
     "name": "Flint",
+    "aliases": [],
     "ship_id": 3553540080,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -505,6 +711,7 @@
   },
   "3762206512": {
     "name": "Prinz Eugen",
+    "aliases": [],
     "ship_id": 3762206512,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -512,6 +719,7 @@
   },
   "3765351888": {
     "name": "Krasny Krym",
+    "aliases": [],
     "ship_id": 3765351888,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -519,6 +727,7 @@
   },
   "3764303696": {
     "name": "De Grasse",
+    "aliases": [],
     "ship_id": 3764303696,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -526,6 +735,7 @@
   },
   "3767449296": {
     "name": "Katori",
+    "aliases": [],
     "ship_id": 3767449296,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -533,6 +743,7 @@
   },
   "3760109264": {
     "name": "Azuma",
+    "aliases": [],
     "ship_id": 3760109264,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -540,6 +751,7 @@
   },
   "4184782672": {
     "name": "Émile Bertin",
+    "aliases": [],
     "ship_id": 4184782672,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -547,6 +759,20 @@
   },
   "4179539792": {
     "name": "Henri IV",
+    "aliases": [
+      "henri iv",
+      "henri",
+      "medium baguette",
+      "jurien de la graviere",
+      "friant",
+      "duguay-trouin",
+      "emile bertin",
+      "la galissonniere",
+      "algerie",
+      "charles martel",
+      "saint-louis"
+    ],
+    "type": "cruiser",
     "ship_id": 4179539792,
     "skills": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
     "upgrades": ["Soon\u2122"],
@@ -554,6 +780,7 @@
   },
   "3764303216": {
     "name": "Perth",
+    "aliases": [],
     "ship_id": 3764303216,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -561,6 +788,17 @@
   },
   "4074682352": {
     "name": "Worcester",
+    "aliases": [
+      "worcester",
+      "wooster",
+      "dallas",
+      "helena",
+      "boise",
+      "cleveland",
+      "wichita",
+      "seattle"
+    ],
+    "type": "cruiser",
     "ship_id": 4074682352,
     "skills": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
     "upgrades": ["Soon\u2122"],
@@ -568,6 +806,7 @@
   },
   "3751720400": {
     "name": "Lazo",
+    "aliases": [],
     "ship_id": 3751720400,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -575,6 +814,7 @@
   },
   "3761157584": {
     "name": "Kronshtadt",
+    "aliases": [],
     "ship_id": 3761157584,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -582,6 +822,7 @@
   },
   "3764303600": {
     "name": "Duca d'Aosta",
+    "aliases": [],
     "ship_id": 3764303600,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -589,6 +830,18 @@
   },
   "4180587984": {
     "name": "Dmitri Donskoi and below",
+    "aliases": [
+      "dmitri donskoi",
+      "donskoi",
+      "novik",
+      "bogatyr",
+      "svietlana",
+      "kirov",
+      "budyonny",
+      "schors",
+      "chapayev"
+    ],
+    "type": "cruiser",
     "ship_id": 4180587984,
     "skills": ["pt", "ar", "si", "ce", "de", "ifhe", "joat"],
     "upgrades": ["Soon\u2122"],
@@ -596,6 +849,8 @@
   },
   "4179539408": {
     "name": "Moskva",
+    "aliases": ["moskva"],
+    "type": "cruiser",
     "ship_id": 4179539408,
     "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
     "upgrades": ["Soon\u2122"],
@@ -603,6 +858,7 @@
   },
   "3763254608": {
     "name": "Nueve de Julio",
+    "aliases": [],
     "ship_id": 3763254608,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -610,6 +866,7 @@
   },
   "3762206704": {
     "name": "Wichita",
+    "aliases": [],
     "ship_id": 3762206704,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -617,6 +874,7 @@
   },
   "3763255280": {
     "name": "Indianapolis",
+    "aliases": [],
     "ship_id": 3763255280,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -624,6 +882,7 @@
   },
   "3768497968": {
     "name": "Emden",
+    "aliases": [],
     "ship_id": 3768497968,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -631,6 +890,7 @@
   },
   "4267620048": {
     "name": "Iwaki Alpha",
+    "aliases": [],
     "ship_id": 4267620048,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -638,6 +898,7 @@
   },
   "4255037136": {
     "name": "Atago",
+    "aliases": [],
     "ship_id": 4255037136,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -645,6 +906,26 @@
   },
   "4273911792": {
     "name": "Des Moines",
+    "aliases": [
+      "des moines",
+      "dm",
+      "des memes",
+      "chester",
+      "st. louis",
+      "st louis",
+      "charleston",
+      "phoenix",
+      "omaha",
+      "marblehead",
+      "marblehead lima",
+      "pensacola",
+      "new orleans",
+      "indianapolis",
+      "baltimore",
+      "wichita",
+      "buffalo"
+    ],
+    "type": "cruiser",
     "ship_id": 4273911792,
     "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -652,6 +933,21 @@
   },
   "4259231440": {
     "name": "Zaō",
+    "aliases": [
+      "zao",
+      "zaou",
+      "chikuma",
+      "tenryu",
+      "katori",
+      "kuma",
+      "furutaka",
+      "aoba",
+      "myoko",
+      "mogami",
+      "atago",
+      "ibuki"
+    ],
+    "type": "cruiser",
     "ship_id": 4259231440,
     "skills": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
     "upgrades": ["Soon\u2122"],
@@ -659,6 +955,7 @@
   },
   "4290688720": {
     "name": "Yūbari",
+    "aliases": [],
     "ship_id": 4290688720,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -666,6 +963,7 @@
   },
   "4248745968": {
     "name": "Marblehead",
+    "aliases": [],
     "ship_id": 4248745968,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -673,6 +971,7 @@
   },
   "4291737584": {
     "name": "Albany",
+    "aliases": [],
     "ship_id": 4291737584,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -680,6 +979,7 @@
   },
   "4288591856": {
     "name": "Atlanta",
+    "aliases": [],
     "ship_id": 4288591856,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -687,6 +987,7 @@
   },
   "4291737040": {
     "name": "Murmansk",
+    "aliases": [],
     "ship_id": 4291737040,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -694,6 +995,7 @@
   },
   "3765319664": {
     "name": "Hill",
+    "aliases": [],
     "ship_id": 3765319664,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -701,6 +1003,7 @@
   },
   "3760076080": {
     "name": "Friesland",
+    "aliases": [],
     "ship_id": 3760076080,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -708,6 +1011,7 @@
   },
   "3763222224": {
     "name": "Yūdachi",
+    "aliases": [],
     "ship_id": 3763222224,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -715,6 +1019,23 @@
   },
   "4179507024": {
     "name": "Kléber",
+    "aliases": [
+      "kleber",
+      "kleb",
+      "small baguette",
+      "little baguette",
+      "enseigne gabolde",
+      "fusilier",
+      "bourrasque",
+      "jaguar",
+      "guepard",
+      "aigle",
+      "vauquelin",
+      "le fantasque",
+      "mogador",
+      "kleber"
+    ],
+    "type": "destroyer",
     "ship_id": 4179507024,
     "skills": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -722,6 +1043,7 @@
   },
   "3764271056": {
     "name": "Gallant",
+    "aliases": [],
     "ship_id": 3764271056,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -729,6 +1051,15 @@
   },
   "4074649296": {
     "name": "Harugumo",
+    "aliases": [
+      "harugumo",
+      "haru",
+      "hatsuharu",
+      "shiratsuyu",
+      "akizuki",
+      "kitakaze"
+    ],
+    "type": "destroyer",
     "ship_id": 4074649296,
     "skills": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
     "upgrades": ["Soon\u2122"],
@@ -736,6 +1067,7 @@
   },
   "3768465392": {
     "name": "Smith",
+    "aliases": [],
     "ship_id": 3768465392,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -743,6 +1075,7 @@
   },
   "3767416784": {
     "name": "Campbeltown",
+    "aliases": [],
     "ship_id": 3767416784,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -750,6 +1083,7 @@
   },
   "3554555600": {
     "name": "Shinonome",
+    "aliases": [],
     "ship_id": 3554555600,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -757,6 +1091,7 @@
   },
   "3551410160": {
     "name": "Black",
+    "aliases": [],
     "ship_id": 3551410160,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -764,6 +1099,7 @@
   },
   "3765319120": {
     "name": "Okhotnik",
+    "aliases": [],
     "ship_id": 3765319120,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -771,6 +1107,7 @@
   },
   "4077795024": {
     "name": "Shiratsuyu",
+    "aliases": [],
     "ship_id": 4077795024,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -778,6 +1115,7 @@
   },
   "3763221872": {
     "name": "Haida",
+    "aliases": [],
     "ship_id": 3763221872,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -785,6 +1123,7 @@
   },
   "3764270928": {
     "name": "Aigle",
+    "aliases": [],
     "ship_id": 3764270928,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -792,6 +1131,7 @@
   },
   "3752736720": {
     "name": "Cossack",
+    "aliases": [],
     "ship_id": 3752736720,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -799,6 +1139,7 @@
   },
   "3751687888": {
     "name": "Asashio",
+    "aliases": [],
     "ship_id": 3751687888,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -806,6 +1147,7 @@
   },
   "4268635856": {
     "name": "Kamikaze",
+    "aliases": [],
     "ship_id": 4268635856,
     "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
     "upgrades": ["Soon\u2122"],
@@ -813,6 +1155,7 @@
   },
   "3764270896": {
     "name": "T-61",
+    "aliases": [],
     "ship_id": 3764270896,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -820,6 +1163,20 @@
   },
   "4179507152": {
     "name": "Daring",
+    "aliases": [
+      "daring",
+      "medea",
+      "valkyrie",
+      "wakeful",
+      "acasta",
+      "icarus",
+      "gallant",
+      "jervis",
+      "lightning",
+      "cossack",
+      "jutland"
+    ],
+    "type": "destroyer",
     "ship_id": 4179507152,
     "skills": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
     "upgrades": ["Soon\u2122"],
@@ -827,6 +1184,7 @@
   },
   "3447600976": {
     "name": "L'Effronté",
+    "aliases": [],
     "ship_id": 3447600976,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -834,6 +1192,7 @@
   },
   "3760076528": {
     "name": "Paolo Emilio",
+    "aliases": [],
     "ship_id": 3760076528,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -841,6 +1200,8 @@
   },
   "3760076784": {
     "name": "Somers",
+    "aliases": ["somers", "summers"],
+    "type": "destroyer",
     "ship_id": 3760076784,
     "skills": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -848,6 +1209,7 @@
   },
   "3551409616": {
     "name": "Neustrashimy",
+    "aliases": [],
     "ship_id": 3551409616,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -855,6 +1217,7 @@
   },
   "3762173136": {
     "name": "Loyang",
+    "aliases": [],
     "ship_id": 3762173136,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -862,6 +1225,24 @@
   },
   "4179506992": {
     "name": "Z-52",
+    "aliases": [
+      "z-52",
+      "z52",
+      "z 52",
+      "v-25",
+      "g-101",
+      "v-170",
+      "t-22",
+      "ernst gaede",
+      "gaede",
+      "t-61",
+      "leberecht maass",
+      "maass",
+      "z-39",
+      "z-23",
+      "z-46"
+    ],
+    "type": "destroyer",
     "ship_id": 4179506992,
     "skills": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
     "upgrades": ["Soon\u2122"],
@@ -869,6 +1250,7 @@
   },
   "3769513264": {
     "name": "Błyskawica",
+    "aliases": [],
     "ship_id": 3769513264,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -876,6 +1258,7 @@
   },
   "3762173744": {
     "name": "Z-39",
+    "aliases": [],
     "ship_id": 3762173744,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -883,6 +1266,7 @@
   },
   "3767416176": {
     "name": "Vampire",
+    "aliases": [],
     "ship_id": 3767416176,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -890,6 +1274,19 @@
   },
   "4179506384": {
     "name": "Yueyang",
+    "aliases": [
+      "yueyang",
+      "longjiang",
+      "phra ruang",
+      "shenyang",
+      "jianwei",
+      "fushun",
+      "gadjah mada",
+      "hsienyang",
+      "siliwangi",
+      "chung mu"
+    ],
+    "type": "destroyer",
     "ship_id": 4179506384,
     "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -897,6 +1294,7 @@
   },
   "3761125360": {
     "name": "Benham",
+    "aliases": [],
     "ship_id": 3761125360,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -904,6 +1302,7 @@
   },
   "3762173936": {
     "name": "Kidd",
+    "aliases": [],
     "ship_id": 3762173936,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -911,6 +1310,7 @@
   },
   "3764270288": {
     "name": "Anshan",
+    "aliases": [],
     "ship_id": 3764270288,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -918,6 +1318,7 @@
   },
   "3763221968": {
     "name": "Leningrad",
+    "aliases": [],
     "ship_id": 3763221968,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -925,6 +1326,7 @@
   },
   "3760076496": {
     "name": "Hayate",
+    "aliases": [],
     "ship_id": 3760076496,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -932,6 +1334,19 @@
   },
   "4074649040": {
     "name": "Grozovoi",
+    "aliases": [
+      "grozovoi",
+      "groz",
+      "storozhevoi",
+      "derzki",
+      "izyaslav",
+      "podvoisky",
+      "gnevny",
+      "minsk",
+      "ognevoi",
+      "udaloi"
+    ],
+    "type": "destroyer",
     "ship_id": 4074649040,
     "skills": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -939,6 +1354,7 @@
   },
   "3764271088": {
     "name": "Monaghan",
+    "aliases": [],
     "ship_id": 3764271088,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -946,6 +1362,7 @@
   },
   "4264441840": {
     "name": "Sims",
+    "aliases": [],
     "ship_id": 4264441840,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -953,6 +1370,7 @@
   },
   "3762173776": {
     "name": "Le Terrible",
+    "aliases": [],
     "ship_id": 3762173776,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -960,6 +1378,8 @@
   },
   "4179506640": {
     "name": "Khabarovsk",
+    "aliases": ["khabarovsk", "khaba", "khab", "kiev", "tashkent"],
+    "type": "destroyer",
     "ship_id": 4179506640,
     "skills": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
     "upgrades": ["Soon\u2122"],
@@ -967,6 +1387,7 @@
   },
   "3552458448": {
     "name": "HSF Harekaze",
+    "aliases": [],
     "ship_id": 3552458448,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -974,6 +1395,7 @@
   },
   "4280170192": {
     "name": "Tachibana Lima",
+    "aliases": [],
     "ship_id": 4280170192,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -981,6 +1403,25 @@
   },
   "4282267344": {
     "name": "Shimakaze",
+    "aliases": [
+      "shimakaze",
+      "shima",
+      "umikaze",
+      "wakatake",
+      "isokaze",
+      "minekaze",
+      "kamikaze",
+      "kamikaze r",
+      "fujin",
+      "fubuki",
+      "shinonome",
+      "akatsuki",
+      "kagero",
+      "asashio",
+      "asashio b",
+      "yugumo"
+    ],
+    "type": "destroyer",
     "ship_id": 4282267344,
     "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "em", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -988,6 +1429,19 @@
   },
   "4281219056": {
     "name": "Gearing",
+    "aliases": [
+      "gearing",
+      "sampson",
+      "smith",
+      "wickes",
+      "clemson",
+      "nicholas",
+      "farragut",
+      "mahan",
+      "benson",
+      "fletcher"
+    ],
+    "type": "destroyer",
     "ship_id": 4281219056,
     "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
     "upgrades": ["Soon\u2122"],
@@ -995,6 +1449,7 @@
   },
   "4293801424": {
     "name": "Gremyashchy",
+    "aliases": [],
     "ship_id": 4293801424,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1002,6 +1457,7 @@
   },
   "4293801680": {
     "name": "Tachibana",
+    "aliases": [],
     "ship_id": 4293801680,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1009,6 +1465,8 @@
   },
   "4074747856": {
     "name": "Audacious",
+    "aliases": ["audacious", "hermes", "furious", "implacable", "indomitable"],
+    "type": "aircarrier",
     "ship_id": 4074747856,
     "skills": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"],
     "upgrades": ["Soon\u2122"],
@@ -1016,6 +1474,7 @@
   },
   "3751786192": {
     "name": "Kaga",
+    "aliases": [],
     "ship_id": 3751786192,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1023,6 +1482,16 @@
   },
   "4179605488": {
     "name": "Midway",
+    "aliases": [
+      "midway",
+      "langley",
+      "ranger",
+      "lexington",
+      "enterprise",
+      "saipan",
+      "midway"
+    ],
+    "type": "aircarrier",
     "ship_id": 4179605488,
     "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
     "upgrades": ["Soon\u2122"],
@@ -1030,6 +1499,7 @@
   },
   "3751786480": {
     "name": "Enterprise",
+    "aliases": [],
     "ship_id": 3751786480,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1037,6 +1507,8 @@
   },
   "4179605200": {
     "name": "Hakuryū",
+    "aliases": ["hakuryu", "haku", "hosho", "ryujo", "shokaku"],
+    "type": "aircarrier",
     "ship_id": 4179605200,
     "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
     "upgrades": ["Soon\u2122"],
@@ -1044,6 +1516,7 @@
   },
   "3751786288": {
     "name": "Graf Zeppelin",
+    "aliases": [],
     "ship_id": 3751786288,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1051,6 +1524,7 @@
   },
   "3741300720": {
     "name": "Saipan",
+    "aliases": [],
     "ship_id": 3741300720,
     "skills": ["Soon\u2122"],
     "upgrades": ["Soon\u2122"],
@@ -1058,6 +1532,7 @@
   },
   "placeholder": {
     "name": "Unknown Ship",
+    "aliases": [],
     "ship_id": 0,
     "skills": ["shrug"],
     "upgrades": ["Soon\u2122"],
