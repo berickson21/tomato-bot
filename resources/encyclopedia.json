@@ -1548,7 +1548,7 @@
       "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD012_abe195480c5687e0a492b11dcd83d8117b278c8c3aa8bc794b3df3ed77c21c26.png"
     },
     "type": "Destroyer",
-    "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"]
+    "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "bft"]
   },
   "4281219056": {
     "tier": 10,
