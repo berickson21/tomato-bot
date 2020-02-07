@@ -1423,7 +1423,7 @@
     ],
     "type": "destroyer",
     "ship_id": 4282267344,
-    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "em", "pm"],
+    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "em"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
