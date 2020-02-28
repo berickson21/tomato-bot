@@ -158,18 +158,18 @@
     "ambl": 4247965616
   },
   "whitelist": {
-    "soon": { "name": "Soon\u2122" },
-    "dodge": { "name": "just dodge\u2122" },
-    "gitgud": { "name": "<:gitgud:397935317497413633>" },
-    "shrug": { "name": "<:yuishrug:357630177355890690>" },
-    "pr1": { "name": "Preventative Credit Card Limit" },
-    "pr2": { "name": "Expert Memer" },
-    "pr3": { "name": "Gold Rush" },
-    "pr4": { "name": "Superdirectives" },
-    "pr5": { "name": "Whaling Expert" },
-    "pr6": { "name": "Basics of False Advertisement" },
-    "pr7": { "name": "Refund Prevention" },
-    "pr8": { "name": "Expert Grindsman" }
+    "soon": "Soon\u2122",
+    "dodge": "just dodge\u2122",
+    "gitgud": "<:gitgud:397935317497413633>",
+    "shrug": "<:yuishrug:357630177355890690>",
+    "pr1": "Preventative Credit Card Limit",
+    "pr2": "Expert Memer",
+    "pr3": "Gold Rush",
+    "pr4": "Superdirectives",
+    "pr5": "Whaling Expert",
+    "pr6": "Basics of False Advertisement",
+    "pr7": "Refund Prevention",
+    "pr8": "Expert Grindsman"
   },
   "apiShips": [
     3553572848,
@@ -321,7 +321,8 @@
     3751786480,
     4179605200,
     3751786288,
-    3741300720
+    3741300720,
+    4074682320
   ],
   "apiUpgrades": [
     4284665776,
