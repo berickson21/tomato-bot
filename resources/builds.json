@@ -293,7 +293,7 @@
     "type": "battleship",
     "ship_id": 4179572528,
     "skills": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
-    "upgrades": ["Soon\u2122"],
+    "upgrades": [""],
     "signals": ["Soon\u2122"]
   },
   "3766433072": {
@@ -525,6 +525,22 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539920,
+    "skills": ["pt", "ar", "si", "ce", "el", "se", "de", "joat"],
+    "upgrades": ["Soon\u2122"],
+    "signals": ["Soon\u2122"]
+  },
+  "4074682320": {
+    "name": "Goliath",
+    "aliases": [
+      "goliath",
+      "hawkins",
+      "devonshire",
+      "surrey",
+      "albemarle",
+      "drake"
+    ],
+    "type": "cruiser",
+    "ship_id": 4074682320,
     "skills": ["pt", "ar", "si", "ce", "joat", "tae", "se", "pm"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
