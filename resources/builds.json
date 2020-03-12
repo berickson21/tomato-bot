@@ -793,7 +793,7 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539792,
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
+    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "el"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"],
     "note": "Update pending due to IFHE changes"
