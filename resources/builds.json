@@ -490,7 +490,8 @@
     "ship_id": 3655251408,
     "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "joat"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3765352144": {
     "name": "Yahagi",
@@ -608,7 +609,8 @@
     "ship_id": 3760109392,
     "skills": ["pt", "ar", "bft", "aft", "ifhe", "de", "ls"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3765352400": {
     "name": "Exeter",
@@ -637,7 +639,8 @@
     "ship_id": 4179539760,
     "skills": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3760109008": {
     "name": "Stalingrad",
@@ -792,7 +795,8 @@
     "ship_id": 4179539792,
     "skills": ["pt", "em", "si", "ce", "ar", "de", "ifhe"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3764303216": {
     "name": "Perth",
@@ -818,7 +822,8 @@
     "ship_id": 4074682352,
     "skills": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3751720400": {
     "name": "Lazo",
@@ -1079,7 +1084,8 @@
     "ship_id": 4074649296,
     "skills": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
+    "signals": ["Soon\u2122"],
+    "note": "Update pending due to IFHE changes"
   },
   "3768465392": {
     "name": "Smith",
@@ -1194,7 +1200,7 @@
     ],
     "type": "destroyer",
     "ship_id": 4179507152,
-    "skills": ["pt", "ls", "bft", "ifhe", "ce", "se", "ar"],
+    "skills": ["pt", "ls", "se", "ce", "ar", "bft", "de", "pm"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
