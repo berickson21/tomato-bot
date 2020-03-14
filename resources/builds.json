@@ -490,8 +490,7 @@
     "ship_id": 3655251408,
     "skills": ["pt", "ar", "bft", "aft", "ce", "de", "joat"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"],
-    "note": "Update pending due to IFHE changes"
+    "signals": ["Soon\u2122"]
   },
   "3765352144": {
     "name": "Yahagi",
