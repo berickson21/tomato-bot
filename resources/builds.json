@@ -1550,6 +1550,43 @@
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
+  "4188976432": {
+    "ship_id": 4188976432,
+    "aliases": [],
+    "type": "Cruiser",
+    "name": "Gryf",
+    "nation": "europe",
+    "skills": ["Soon\u2122"],
+    "upgrades": ["Soon\u2122"],
+    "signals": ["Soon\u2122"]
+  },
+  "3655218480": {
+    "ship_id": 3655218480,
+    "aliases": [
+      "smaland",
+      "smal",
+      "smalad",
+      "small lad",
+      "tatra",
+      "visby",
+      "halland",
+      "ostergotland",
+      "oland",
+      "skane",
+      "vasteras",
+      "lappland",
+      "lapland",
+      "orkan",
+      "romulus",
+      "klas horn"
+    ],
+    "type": "Destroyer",
+    "name": "Småland",
+    "nation": "europe",
+    "skills": ["pt", "ls", "se", "ce", "si", "ar", "bft", "pm"],
+    "upgrades": ["Soon\u2122"],
+    "signals": ["Soon\u2122"]
+  },
   "placeholder": {
     "name": "Unknown Ship",
     "aliases": [],
