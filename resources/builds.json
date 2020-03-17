@@ -1560,15 +1560,12 @@
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
-  "3655218480": {
-    "ship_id": 3655218480,
+  "4179506480": {
+    "ship_id": 4179506480,
     "aliases": [
-      "smaland",
-      "smal",
-      "smalad",
-      "small lad",
       "tatra",
       "visby",
+      "halland",
       "ostergotland",
       "oland",
       "skane",
@@ -1579,6 +1576,16 @@
       "romulus",
       "klas horn"
     ],
+    "type": "Destroyer",
+    "name": "Halland",
+    "nation": "europe",
+    "skills": ["Soon\u2122"],
+    "upgrades": ["Soon\u2122"],
+    "signals": ["Soon\u2122"]
+  },
+  "3655218480": {
+    "ship_id": 3655218480,
+    "aliases": ["smaland", "smal", "smalad", "small lad"],
     "type": "Destroyer",
     "name": "Småland",
     "nation": "europe",
