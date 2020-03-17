@@ -847,9 +847,10 @@
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
-  "4180587984": {
-    "name": "Dmitri Donskoi and below",
+  "4179539408": {
+    "name": "Moskva",
     "aliases": [
+      "moskva",
       "dmitri donskoi",
       "donskoi",
       "novik",
@@ -860,15 +861,6 @@
       "schors",
       "chapayev"
     ],
-    "type": "cruiser",
-    "ship_id": 4180587984,
-    "skills": ["pt", "ar", "si", "ce", "de", "ifhe", "joat"],
-    "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"]
-  },
-  "4179539408": {
-    "name": "Moskva",
-    "aliases": ["moskva"],
     "type": "cruiser",
     "ship_id": 4179539408,
     "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
