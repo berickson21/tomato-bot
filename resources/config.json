@@ -54,6 +54,10 @@
       "ca": ["goliath"],
       "bb": ["conqueror"],
       "cv": ["audacious"]
+    },
+    "eu": {
+      "aliases": ["eu", "europe", "european", "euro"],
+      "dd": ["smaland"]
     }
   },
   "skillMap": {
@@ -322,7 +326,8 @@
     4179605200,
     3751786288,
     3741300720,
-    4074682320
+    4074682320,
+    3655218480
   ],
   "apiUpgrades": [
     4284665776,
