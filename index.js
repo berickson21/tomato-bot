@@ -33,7 +33,9 @@ bot.on("guildDelete", guild => {
 // This event triggers when a message is sent in a guild (server) the bot belongs to.
 bot.on("message", async message => {
   // Construct a response
-  const response = await prepareResponse(message);
+  const response = await prepareResponse(message).catch(err => {
+    console.error(err);
+  });
   // Send the response
   if (response) {
     try {
