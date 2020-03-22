@@ -43,7 +43,7 @@ bot.on("message", async message => {
         if (msg === "guilds") {
           let guilds = [...bot.guilds.values()].map(guild => guild.name);
           message.channel.send(guilds.join("\n"));
-        } else {
+        } else if (msg) {
           message.channel.send(msg);
         }
       });
