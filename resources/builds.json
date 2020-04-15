@@ -1652,10 +1652,9 @@
     ],
     "type": "destroyer",
     "nation": "europe",
-    "skills": ["Soon\u2122"],
+    "skills": ["pt", "ls", "tae", "ce", "se", "ar", "si", "pm"],
     "upgrades": ["Soon\u2122"],
-    "signals": ["Soon\u2122"],
-    "note": "Ship is WIP. Skills coming Soon\u2122!"
+    "signals": ["Soon\u2122"]
   },
   "3655218480": {
     "name": "Småland",
