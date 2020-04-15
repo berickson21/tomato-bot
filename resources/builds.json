@@ -1652,7 +1652,7 @@
     ],
     "type": "destroyer",
     "nation": "europe",
-    "skills": ["pt", "ls", "se", "ce", "ar", "si", "tae", "pm"],
+    "skills": ["pt", "ls", "tae", "ce", "se", "ar", "si", "pm"],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
