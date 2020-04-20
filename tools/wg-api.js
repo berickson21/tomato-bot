@@ -9,7 +9,7 @@ async function getAPIData(url) {
     }
   };
 
-  let response = await request(options, function(err, res, body) {
+  let response = await request(options, function (err, res, body) {
     return body;
   });
   response = JSON.parse(response);
@@ -34,4 +34,24 @@ async function getUpgradeData(upgrade_id) {
   return data[upgrade_id];
 }
 
-module.exports = { getShipData, getSkillData, getUpgradeData };
+async function getUpdatedUpgrades() {
+  const url =
+    "https://api.worldofwarships.com/wows/encyclopedia/consumables/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&type=Modernization";
+  const response = await getAPIData(url);
+  return response;
+}
+
+async function getUpdatedSkills() {
+  const url =
+    "https://api.worldofwarships.com/wows/encyclopedia/crewskills/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&language=en";
+  const response = await getAPIData(url);
+  return response;
+}
+
+module.exports = {
+  getShipData,
+  getSkillData,
+  getUpgradeData,
+  getUpdatedUpgrades,
+  getUpdatedSkills
+};

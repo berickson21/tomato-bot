@@ -4,7 +4,15 @@
     "aliases": ["california"],
     "ship_id": 3553572848,
     "type": "battleship",
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -34,7 +42,15 @@
     ],
     "type": "battleship",
     "ship_id": 4179572176,
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -43,7 +59,15 @@
     "aliases": ["mutsu"],
     "ship_id": 3764336336,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -52,7 +76,15 @@
     "aliases": ["musashi"],
     "ship_id": 3761190608,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -61,7 +93,15 @@
     "aliases": ["vanguard"],
     "ship_id": 3762239440,
     "type": "battleship",
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -70,7 +110,15 @@
     "aliases": ["lenin"],
     "ship_id": 3751753168,
     "type": "battleship",
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -79,7 +127,15 @@
     "aliases": ["kii"],
     "ship_id": 3762239184,
     "type": "battleship",
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -106,7 +162,15 @@
     ],
     "type": "battleship",
     "ship_id": 4277090288,
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -124,7 +188,15 @@
     "aliases": ["jean bart"],
     "ship_id": 3751753552,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -133,7 +205,15 @@
     "aliases": ["warspite"],
     "ship_id": 4292818896,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -142,7 +222,15 @@
     "aliases": ["texas"],
     "ship_id": 3555670000,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -165,7 +253,15 @@
     ],
     "type": "battleship",
     "ship_id": 4179572560,
-    "skills": ["pm", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Preventive Maintenance",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -174,7 +270,15 @@
     "aliases": ["ohio"],
     "type": "battleship",
     "ship_id": 3760142320,
-    "skills": ["pt", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -183,7 +287,15 @@
     "aliases": ["alabama st"],
     "ship_id": 3552524272,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -192,7 +304,15 @@
     "aliases": ["ishizuchi", "itchy sushi"],
     "ship_id": 4286527184,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -201,7 +321,15 @@
     "aliases": ["arkansas beta"],
     "ship_id": 4281284592,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -216,7 +344,15 @@
     ],
     "ship_id": 4293866960,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -225,7 +361,15 @@
     "aliases": ["giulio cesare", "julio cesare"],
     "ship_id": 3765384944,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -239,7 +383,15 @@
     ],
     "ship_id": 3763288048,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -248,7 +400,15 @@
     "aliases": ["tirpitz"],
     "ship_id": 4292818736,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -266,7 +426,15 @@
     "aliases": ["hood"],
     "ship_id": 3763288016,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -284,7 +452,15 @@
     "aliases": ["duke of york", "doy"],
     "ship_id": 3742316496,
     "type": "battleship",
-    "skills": ["el", "ar", "bos", "ce", "em", "fp", "si"],
+    "skills": [
+      "Expert Loader",
+      "Adrenaline Rush",
+      "Basics of Survivability",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -293,7 +469,15 @@
     "aliases": ["georgia"],
     "ship_id": 3530504176,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -302,7 +486,15 @@
     "aliases": ["alabama", "bama", "lucky a"],
     "ship_id": 3762239472,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -327,7 +519,15 @@
     ],
     "type": "battleship",
     "ship_id": 4179572528,
-    "skills": ["pt", "ar", "si", "fp", "ce", "em", "bos"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Fire Prevention",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Basics of Survivability"
+    ],
     "upgrades": [""],
     "signals": ["Soon\u2122"]
   },
@@ -345,7 +545,15 @@
     "aliases": ["konig albert", "king albert", "albert"],
     "ship_id": 3767482160,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -354,7 +562,15 @@
     "aliases": ["bourgogne", "borgogne", "baguette"],
     "type": "battleship",
     "ship_id": 3760142160,
-    "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Expert Loader",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -363,7 +579,15 @@
     "aliases": ["missouri", "misourri", "mighty mo", "misouri", "trump wagon"],
     "ship_id": 3761190896,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -384,7 +608,15 @@
     ],
     "type": "battleship",
     "ship_id": 4276041424,
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -393,7 +625,15 @@
     "aliases": ["dunkerque", "dunkerk", "dunkirk", "dunk"],
     "ship_id": 3764336464,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -402,7 +642,15 @@
     "aliases": ["arizona"],
     "ship_id": 3764336624,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -417,7 +665,15 @@
     ],
     "ship_id": 3751753712,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -426,7 +682,15 @@
     "aliases": ["gascogne", "gas can", "gascone", "gascoigne"],
     "ship_id": 3762239312,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -462,7 +726,15 @@
     "aliases": ["nelson"],
     "ship_id": 3752802256,
     "type": "battleship",
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -489,7 +761,15 @@
     "aliases": ["thunderer"],
     "type": "battleship",
     "ship_id": 3760142288,
-    "skills": ["el", "ar", "si", "ce", "em", "fp", "bos"],
+    "skills": [
+      "Expert Loader",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -509,7 +789,15 @@
     ],
     "type": "battleship",
     "ship_id": 4179572688,
-    "skills": ["el", "ar", "bos", "ce", "em", "fp", "si"],
+    "skills": [
+      "Expert Loader",
+      "Adrenaline Rush",
+      "Basics of Survivability",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -518,7 +806,16 @@
     "aliases": ["alaska", "ak"],
     "ship_id": 3760109552,
     "type": "cruiser",
-    "skills": ["pt", "ar", "si", "ce", "el", "em", "fp", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Loader",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -536,7 +833,15 @@
     "aliases": ["smolensk", "smol"],
     "type": "cruiser",
     "ship_id": 3655251408,
-    "skills": ["pt", "ar", "bft", "aft", "ce", "de", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Advanced Firing Training",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -554,7 +859,15 @@
     "aliases": ["yoshino", "yoshi"],
     "type": "cruiser",
     "ship_id": 3749623504,
-    "skills": ["pt", "em", "si", "ce", "ifhe", "ar", "de"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Inertia Fuse for HE Shells",
+      "Adrenaline Rush",
+      "Demolition Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -574,7 +887,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539920,
-    "skills": ["pt", "ar", "si", "ce", "joat", "tae", "se", "pm"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Jack of All Trades",
+      "Torpedo Armament Expertise",
+      "Survivability Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -590,7 +912,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4074682320,
-    "skills": ["pt", "ar", "si", "ce", "el", "se", "de", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Loader",
+      "Survivability Expert",
+      "Demolition Expert",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -662,7 +993,16 @@
     "aliases": ["colbert", "colbeert"],
     "type": "cruiser",
     "ship_id": 3760109392,
-    "skills": ["pt", "ar", "bft", "aft", "de", "se", "pm", "ls"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Advanced Firing Training",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Preventive Maintenance",
+      "Last Stand"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -671,7 +1011,16 @@
     "aliases": ["exeter"],
     "ship_id": 3765352400,
     "type": "cruiser",
-    "skills": ["pt", "ar", "si", "ce", "el", "se", "de", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Loader",
+      "Survivability Expert",
+      "Demolition Expert",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -692,7 +1041,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539760,
-    "skills": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Concealment Expert",
+      "Superintendent",
+      "Survivability Expert",
+      "Expert Loader",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -701,7 +1059,15 @@
     "aliases": ["stalingrad", "stalin", "stalinium"],
     "type": "cruiser",
     "ship_id": 3760109008,
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -721,7 +1087,17 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539696,
-    "skills": ["pt", "ar", "si", "ce", "em", "joat", "pm", "el", "se"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Jack of All Trades",
+      "Preventive Maintenance",
+      "Expert Loader",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -730,7 +1106,15 @@
     "aliases": ["salem"],
     "type": "cruiser",
     "ship_id": 3550394352,
-    "skills": ["pt", "em", "de", "ce", "ar", "se", "si"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Demolition Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Survivability Expert",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -793,7 +1177,16 @@
     "aliases": ["prinz eugen"],
     "ship_id": 3762206512,
     "type": "cruiser",
-    "skills": ["pt", "ar", "de", "ce", "si", "se", "el", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Concealment Expert",
+      "Superintendent",
+      "Survivability Expert",
+      "Expert Loader",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -850,7 +1243,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539792,
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "el"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Expert Loader"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -877,7 +1279,15 @@
     ],
     "type": "cruiser",
     "ship_id": 4074682352,
-    "skills": ["pt", "ar", "si", "ce", "ifhe", "de", "joat"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Inertia Fuse for HE Shells",
+      "Demolition Expert",
+      "Jack of All Trades"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -925,7 +1335,15 @@
     ],
     "type": "cruiser",
     "ship_id": 4179539408,
-    "skills": ["pt", "em", "si", "ce", "ar", "fp", "bos"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Fire Prevention",
+      "Basics of Survivability"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -943,7 +1361,16 @@
     "aliases": ["wichita"],
     "ship_id": 3762206704,
     "type": "cruiser",
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -952,7 +1379,16 @@
     "aliases": ["indianapolis"],
     "ship_id": 3763255280,
     "type": "cruiser",
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -979,7 +1415,16 @@
     "aliases": ["atago"],
     "ship_id": 4255037136,
     "type": "cruiser",
-    "skills": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Expert Loader",
+      "Survivability Expert",
+      "Demolition Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1001,7 +1446,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4273911792,
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1022,7 +1476,16 @@
     ],
     "type": "cruiser",
     "ship_id": 4259231440,
-    "skills": ["pt", "em", "si", "ce", "ar", "el", "se", "de"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Expert Loader",
+      "Survivability Expert",
+      "Demolition Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1040,7 +1503,16 @@
     "aliases": ["marblehead"],
     "ship_id": 4248745968,
     "type": "cruiser",
-    "skills": ["pt", "em", "si", "ce", "ar", "de", "se", "pm"],
+    "skills": [
+      "Priority Target",
+      "Expert Marksman",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1085,7 +1557,15 @@
     "aliases": ["friesland"],
     "ship_id": 3760076080,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "aft", "bft", "ar"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Advanced Firing Training",
+      "Basic Firing Training",
+      "Adrenaline Rush"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1118,7 +1598,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4179507024,
-    "skills": ["pt", "ls", "bft", "ifhe", "se", "de", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Basic Firing Training",
+      "Inertia Fuse for HE Shells",
+      "Survivability Expert",
+      "Demolition Expert",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1127,7 +1616,16 @@
     "aliases": ["gallant"],
     "ship_id": 3764271056,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "ar", "bft", "de", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Demolition Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1144,7 +1642,15 @@
     ],
     "type": "destroyer",
     "ship_id": 4074649296,
-    "skills": ["pt", "ls", "bft", "ifhe", "aft", "de", "ar"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Basic Firing Training",
+      "Inertia Fuse for HE Shells",
+      "Advanced Firing Training",
+      "Demolition Expert",
+      "Adrenaline Rush"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1171,7 +1677,16 @@
     "aliases": ["shinonome"],
     "ship_id": 3554555600,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "bft"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Torpedo Armament Expertise",
+      "Preventive Maintenance",
+      "Basic Firing Training"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1216,7 +1731,16 @@
     "aliases": ["cossack"],
     "ship_id": 3752736720,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "ar", "bft", "de", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Demolition Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1225,7 +1749,16 @@
     "aliases": ["asashio", "asashio b"],
     "ship_id": 3751687888,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "bft"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Torpedo Armament Expertise",
+      "Preventive Maintenance",
+      "Basic Firing Training"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1234,7 +1767,16 @@
     "aliases": ["kamikaze", "kamikaze r", "fujin"],
     "ship_id": 4268635856,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "si", "tae", "pm", "em"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Superintendent",
+      "Torpedo Armament Expertise",
+      "Preventive Maintenance",
+      "Expert Marksman"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1243,7 +1785,15 @@
     "aliases": ["t-61", "t61", "t 61"],
     "ship_id": 3764270896,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Basic Firing Training",
+      "Superintendent",
+      "Torpedo Armament Expertise"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1262,7 +1812,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4179507152,
-    "skills": ["pt", "ls", "se", "ce", "ar", "bft", "de", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Demolition Expert",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1289,7 +1848,16 @@
     "aliases": ["somers", "summers"],
     "type": "destroyer",
     "ship_id": 3760076784,
-    "skills": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Torpedo Armament Expertise",
+      "Superintendent",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1330,7 +1898,15 @@
     ],
     "type": "destroyer",
     "ship_id": 4179506992,
-    "skills": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Basic Firing Training",
+      "Superintendent",
+      "Torpedo Armament Expertise"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1348,7 +1924,15 @@
     "aliases": ["z-39", "z39", "z 39"],
     "ship_id": 3762173744,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "bft", "si", "tae"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Basic Firing Training",
+      "Superintendent",
+      "Torpedo Armament Expertise"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1377,7 +1961,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4179506384,
-    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Torpedo Armament Expertise",
+      "Basic Firing Training",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1386,7 +1979,16 @@
     "aliases": ["benham"],
     "ship_id": 3761125360,
     "type": "destroyer",
-    "skills": ["pt", "ls", "se", "ce", "tae", "si", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Torpedo Armament Expertise",
+      "Superintendent",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1413,7 +2015,16 @@
     "aliases": ["leningrad"],
     "ship_id": 3763221968,
     "type": "destroyer",
-    "skills": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Basic Firing Training",
+      "Advanced Firing Training",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Preventive Maintenance",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1442,7 +2053,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4074649040,
-    "skills": ["pt", "ls", "si", "aft", "bft", "de", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Superintendent",
+      "Advanced Firing Training",
+      "Basic Firing Training",
+      "Demolition Expert",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1478,7 +2098,16 @@
     "aliases": ["khabarovsk", "khaba", "khab", "kiev", "tashkent"],
     "type": "destroyer",
     "ship_id": 4179506640,
-    "skills": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Basic Firing Training",
+      "Advanced Firing Training",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Preventive Maintenance",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1516,7 +2145,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4282267344,
-    "skills": ["pt", "ls", "se", "ce", "ar", "tae", "pm", "bft"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Torpedo Armament Expertise",
+      "Preventive Maintenance",
+      "Basic Firing Training"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1536,7 +2174,16 @@
     ],
     "type": "destroyer",
     "ship_id": 4281219056,
-    "skills": ["pt", "ls", "se", "ce", "tae", "bft", "ar", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Torpedo Armament Expertise",
+      "Basic Firing Training",
+      "Adrenaline Rush",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1545,7 +2192,16 @@
     "aliases": ["gremyaschy", "gremy"],
     "ship_id": 4293801424,
     "type": "destroyer",
-    "skills": ["pt", "ls", "bft", "aft", "ar", "de", "pm", "si"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Basic Firing Training",
+      "Advanced Firing Training",
+      "Adrenaline Rush",
+      "Demolition Expert",
+      "Preventive Maintenance",
+      "Superintendent"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1563,7 +2219,16 @@
     "aliases": ["audacious", "hermes", "furious", "implacable", "indomitable"],
     "type": "aircarrier",
     "ship_id": 4074747856,
-    "skills": ["as", "ie", "aa", "ce", "de", "ieb", "ta", "se"],
+    "skills": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Improved Engine Boost",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1572,7 +2237,15 @@
     "aliases": ["kaga"],
     "ship_id": 3751786192,
     "type": "aircarrier",
-    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "skills": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Sight Stabilization",
+      "Concealment Expert",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1581,7 +2254,15 @@
     "aliases": ["midway", "langley", "ranger", "lexington", "saipan", "midway"],
     "type": "aircarrier",
     "ship_id": 4179605488,
-    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "skills": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Sight Stabilization",
+      "Concealment Expert",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1590,7 +2271,15 @@
     "aliases": ["enterprise"],
     "ship_id": 3751786480,
     "type": "aircarrier",
-    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "skills": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Sight Stabilization",
+      "Concealment Expert",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1599,7 +2288,15 @@
     "aliases": ["hakuryu", "haku", "hosho", "ryujo", "shokaku"],
     "type": "aircarrier",
     "ship_id": 4179605200,
-    "skills": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "skills": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Sight Stabilization",
+      "Concealment Expert",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1614,7 +2311,15 @@
   },
   "3741300720": {
     "name": "Saipan",
-    "aliases": ["as", "ie", "aa", "ss", "ce", "ta", "se"],
+    "aliases": [
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Sight Stabilization",
+      "Concealment Expert",
+      "Torpedo Acceleration",
+      "Survivability Expert"
+    ],
     "ship_id": 3741300720,
     "type": "aircarrier",
     "skills": ["Soon\u2122"],
@@ -1652,7 +2357,16 @@
     ],
     "type": "destroyer",
     "nation": "europe",
-    "skills": ["pt", "ls", "tae", "ce", "se", "ar", "si", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Torpedo Armament Expertise",
+      "Concealment Expert",
+      "Survivability Expert",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
@@ -1662,7 +2376,16 @@
     "aliases": ["smaland", "smal", "smalad", "small lad"],
     "type": "destroyer",
     "nation": "europe",
-    "skills": ["pt", "ls", "se", "ce", "si", "ar", "bft", "pm"],
+    "skills": [
+      "Priority Target",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Superintendent",
+      "Adrenaline Rush",
+      "Basic Firing Training",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon\u2122"],
     "signals": ["Soon\u2122"]
   },
