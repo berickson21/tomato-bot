@@ -97,7 +97,7 @@ async function getUpgrades(auth) {
     return reduce(
       rows,
       (acc, row) => {
-        if (row.length > 1) {
+        if (row.length > 1 && row[0] != "Ship Name") {
           acc[row[0]] = row;
         }
         return acc;
@@ -123,7 +123,7 @@ async function getCaptainSkills(auth) {
     return reduce(
       rows,
       (acc, row) => {
-        if (row.length > 1) {
+        if (row.length > 1 && row[0] != "Ship Name") {
           acc[row[0]] = row;
         }
         return acc;
