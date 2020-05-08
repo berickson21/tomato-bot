@@ -63,7 +63,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+      "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
     "signals": ["Soon™"]
   },
@@ -218,7 +218,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 1/Main Battery Modification 3"
+      "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
     "signals": ["Soon™"]
   },
@@ -301,7 +301,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 1/Main Battery Modification 3"
+      "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
     "signals": ["Soon™"]
   },
@@ -556,7 +556,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+      "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
     "signals": ["Soon™"]
   },
@@ -1462,7 +1462,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Legendary Mod"
+      "Main Battery Modification 3/Recoilless Main Battery Guns"
     ],
     "signals": ["Soon™"]
   },
@@ -1526,7 +1526,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+      "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
     "signals": ["Soon™"]
   },
@@ -1685,7 +1685,7 @@
       "Speed Boost Modification 2/Engine Room Protection",
       "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
-      "Rudder Modification 2/Legendary Mod",
+      "Rudder Modification 2/Heavyweight Artillery",
       "Main Battery Modification 3"
     ],
     "signals": ["Soon™"]
@@ -1835,7 +1835,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Legendary Mod"
+      "Main Battery Modification 3/Heavyweight Main Battery Guns"
     ],
     "signals": ["Soon™"]
   },
@@ -1872,7 +1872,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+      "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
     "signals": ["Soon™"]
   },
@@ -2262,7 +2262,7 @@
       "Aiming Systems Modification 1",
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 1/Legendary Mod"
+      "Gun Fire Control System Modification 2/Enhanced Main Battery and Steering Gears"
     ],
     "signals": ["Soon™"]
   },
@@ -2372,7 +2372,7 @@
       "Aiming Systems Modification 1",
       "Damage Control Modification 2",
       "Concealment System Modification 1",
-      "Main Battery Modification 3/Legendary Mod"
+      "Main Battery Modification 3/Enhanced Main Battery Guns"
     ],
     "signals": ["Soon™"]
   },
@@ -2458,7 +2458,7 @@
       "Speed Boost Modification 2/Engine Room Protection",
       "Torpedo Tubes Modification 1",
       "Propulsion Modification 1 ",
-      "Concealment System Modification 1/Legendary Mod",
+      "Concealment System Modification 1/Modified Hull",
       "Torpedo Tubes Modification 2/Main Battery Modification 3"
     ],
     "signals": ["Soon™"]
