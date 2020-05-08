@@ -57,7 +57,14 @@
       "Survivability Expert",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1/Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+    ],
     "signals": ["Soon™"]
   },
   "Neustrashimy": {
@@ -181,7 +188,14 @@
       "Basic Firing Training",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Smolensk": {
@@ -198,7 +212,14 @@
       "Demolition Expert",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 1/Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Puerto Rico": {
@@ -207,7 +228,14 @@
     "ship_id": 3655251952,
     "type": "cruiser",
     "skills": ["pr1", "pr2", "pr3", "pr4", "pr5", "pr6", "pr7", "pr8"],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Admiral Makarov": {
@@ -267,7 +295,14 @@
       "Adrenaline Rush",
       "Demolition Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1/Spotting Aircraft Modification 1",
+      "Hydroacoustic Search Modification 1/Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 1/Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Asashio": {
@@ -464,7 +499,7 @@
     "ship_id": 3760076496,
     "type": "destroyer",
     "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
+    "upgrades": ["---", "---", "---", "---", "---", "---"],
     "signals": ["Soon™"]
   },
   "Paolo Emilio": {
@@ -491,7 +526,14 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Torpedo Tubes Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Stalingrad": {
@@ -508,7 +550,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+    ],
     "signals": ["Soon™"]
   },
   "Azuma": {
@@ -535,7 +584,14 @@
       "Preventive Maintenance",
       "Last Stand"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1/Speed Boost Mod",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Alaska": {
@@ -579,7 +635,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2/Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Thunderer": {
@@ -596,7 +659,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Ohio": {
@@ -613,7 +683,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Damage Control Party Modification 1",
+      "Damage Control Modification 1",
+      "Plotting Room Modification 1/Secondary Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Benham": {
@@ -1379,7 +1456,14 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Legendary Mod"
+    ],
     "signals": ["Soon™"]
   },
   "Harugumo": {
@@ -1404,7 +1488,14 @@
       "Demolition Expert",
       "Adrenaline Rush"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Goliath": {
@@ -1429,7 +1520,14 @@
       "Demolition Expert",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+    ],
     "signals": ["Soon™"]
   },
   "Worcester": {
@@ -1455,7 +1553,14 @@
       "Demolition Expert",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Audacious": {
@@ -1473,7 +1578,14 @@
       "Torpedo Acceleration",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Air Groups Modification 1",
+      "Aircraft Engines Modification 1",
+      "Attack Aircraft Modification 1",
+      "Torpedo Bombers Modification 2",
+      "Flight Control Modification 1",
+      "Air Groups Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Yueyang": {
@@ -1502,7 +1614,14 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Torpedo Tubes Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Halland": {
@@ -1536,7 +1655,14 @@
       "Superintendent",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Torpedo Tubes Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Khabarovsk": {
@@ -1554,7 +1680,14 @@
       "Preventive Maintenance",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1 ",
+      "Rudder Modification 2/Legendary Mod",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Z-52": {
@@ -1585,7 +1718,14 @@
       "Superintendent",
       "Torpedo Armament Expertise"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Torpedo Tubes Modification 2/Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Kléber": {
@@ -1618,7 +1758,14 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Daring": {
@@ -1646,7 +1793,14 @@
       "Demolition Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Engine Room Protection",
+      "Aiming Systems Modification 1",
+      "Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Moskva": {
@@ -1675,7 +1829,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Legendary Mod"
+    ],
     "signals": ["Soon™"]
   },
   "Venezia": {
@@ -1705,7 +1866,14 @@
       "Expert Loader",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Artillery Plotting Room Modification 1"
+    ],
     "signals": ["Soon™"]
   },
   "Hindenburg": {
@@ -1735,7 +1903,14 @@
       "Expert Loader",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Spotter Plane Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Henri IV": {
@@ -1765,7 +1940,14 @@
       "Survivability Expert",
       "Expert Loader"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1/Speed Boost Mod",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1/Increased Firing Elevation of Artillery",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Minotaur": {
@@ -1794,7 +1976,14 @@
       "Survivability Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Kremlin": {
@@ -1823,7 +2012,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Großer Kurfürst": {
@@ -1856,7 +2052,14 @@
       "Expert Marksman",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "République": {
@@ -1887,7 +2090,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2/Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Conqueror": {
@@ -1915,7 +2125,14 @@
       "Fire Prevention",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Hakuryū": {
@@ -1932,7 +2149,14 @@
       "Torpedo Acceleration",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Air Groups Modification 1",
+      "Aircraft Engines Modification 1",
+      "Attack Aircraft Modification 1",
+      "Bombers Modification 2",
+      "Flight Control Modification 1",
+      "Air Groups Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Midway": {
@@ -1949,7 +2173,14 @@
       "Torpedo Acceleration",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Air Groups Modification 1",
+      "Aircraft Engines Modification 1",
+      "Attack Aircraft Modification 1",
+      "Bombers Modification 2",
+      "Flight Control Modification 1",
+      "Air Groups Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Gryf": {
@@ -2025,7 +2256,14 @@
       "Survivability Expert",
       "Demolition Expert"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1/Spotting Aircraft Modification 1",
+      "Hydroacoustic Search Modification 1/Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1/Steering Gears Modification 1",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 1/Legendary Mod"
+    ],
     "signals": ["Soon™"]
   },
   "Sims": {
@@ -2092,7 +2330,14 @@
       "Survivability Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Surveillance Radar Modification 1",
+      "Aiming Systems Modification 1",
+      "Propulsion Modification 1",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Enhanced Propulsion"
+    ],
     "signals": ["Soon™"]
   },
   "Yamato": {
@@ -2121,7 +2366,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Damage Control Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Main Battery Modification 3/Legendary Mod"
+    ],
     "signals": ["Soon™"]
   },
   "Montana": {
@@ -2156,7 +2408,14 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Damage Control Party Modification 1",
+      "Damage Control Modification 1",
+      "Plotting Room Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Tachibana Lima": {
@@ -2194,7 +2453,14 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1/Legendary Mod",
+      "Torpedo Tubes Modification 2/Main Battery Modification 3"
+    ],
     "signals": ["Soon™"]
   },
   "Arkansas Beta": {
@@ -2240,7 +2506,14 @@
       "Preventive Maintenance",
       "Basic Firing Training"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Main Armaments Modification 1 ",
+      "Speed Boost Modification 2/Engine Room Protection",
+      "Torpedo Tubes Modification 1",
+      "Propulsion Modification 1 ",
+      "Concealment System Modification 1",
+      "Torpedo Tubes Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "Mikasa": {
