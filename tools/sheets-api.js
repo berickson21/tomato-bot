@@ -9,12 +9,16 @@ const { google } = require("googleapis");
 // created automatically when the authorization flow completes for the first
 // time.
 const TOKEN_PATH = "token.json";
+// getSheetEntry().then(a => {
+//   console.log(a);
+// });
 
-async function getSheetEntry() {
+async function getSheetEntry(type) {
   const credentials = jetpack.read(
     jetpack.path(jetpack.cwd(), "credentials.json")
   );
-  const output = await authorize(JSON.parse(credentials), getUpgrades);
+  let callback = type === "skills" ? getCaptainSkills : getUpgrades;
+  const output = await authorize(JSON.parse(credentials), callback);
   return output;
 }
 
