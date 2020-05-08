@@ -16,6 +16,15 @@
     {
       "type": "node",
       "request": "launch",
+      "name": "Test Sheet",
+      "program": "${workspaceFolder}/tools/sheets-api.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
       "name": "nodemon",
       "runtimeExecutable": "nodemon",
       "program": "${workspaceFolder}/index.js",
