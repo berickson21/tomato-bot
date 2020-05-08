@@ -2,17 +2,19 @@ const jetpack = require("fs-jetpack");
 // const builds = require("../resources/builds.json");
 const config = require("../resources/config.json");
 const { getUpdatedUpgrades, getUpdatedSkills } = require("./wg-api");
-
+const { getSheetEntry } = require("./sheets-api");
 const { reduce } = require("lodash");
 main();
 
 async function main() {
-  await updateUpgrades();
-  await updateSkills();
+  await updateWGUpgrades();
+  await updateWGSkills();
+  config.sheetSkills = await getSheetEntry("skills");
+  config.sheetUpgrades = await getSheetEntry("upgrades");
   jetpack.write(`${jetpack.cwd()}/resources/config.json`, config);
 }
 
-async function updateUpgrades() {
+async function updateWGUpgrades() {
   let newUpgrades = reduce(
     await getUpdatedUpgrades(),
     (result, value, id) => {
@@ -24,7 +26,7 @@ async function updateUpgrades() {
   config.upgradeMap = newUpgrades;
 }
 
-async function updateSkills() {
+async function updateWGSkills() {
   let newSkills = reduce(
     await getUpdatedSkills(),
     (result, value, id) => {
