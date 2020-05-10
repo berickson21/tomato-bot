@@ -16,8 +16,8 @@ async function getAPIData(url) {
   return response.status === "error" ? response.error.message : response.data;
 }
 
-async function getShipData(ship_id) {
-  const url = `https://api.worldofwarships.com/wows/encyclopedia/ships/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&fields=name%2Cship_id%2Cnation%2Ctier%2Cimages.small%2Cimages.medium%2Cimages.large%2Ctype&ship_id=${ship_id}`;
+async function getWGShipData(ship_id) {
+  const url = `https://api.worldofwarships.com/wows/encyclopedia/ships/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&fields=name%2Cship_id%2Cnation%2Ctier%2Cimages.small%2Ctype&ship_id=${ship_id}`;
   const data = await getAPIData(url);
   return data[ship_id];
 }
@@ -49,7 +49,7 @@ async function getUpdatedSkills() {
 }
 
 module.exports = {
-  getShipData,
+  getWGShipData,
   getSkillData,
   getUpgradeData,
   getUpdatedUpgrades,
