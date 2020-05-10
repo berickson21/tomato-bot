@@ -1,11 +1,14 @@
 const { prepareResponse } = require("./lib/responses");
-
+const jetpack = require("fs-jetpack");
 // Load up the discord.js library
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
 // Initialize Discord Bot
 require("dotenv").config();
+
+let messageCount = 0;
+
 const TOKEN =
   process.argv[2] === "debug" ? process.env.DEBUG_TOKEN : process.env.BOT_TOKEN;
 // This event will run if the bot starts and logs in successfully.
@@ -52,6 +55,8 @@ bot.on("message", async message => {
       response = [bot.guilds.cache.size.toString()];
     } else if (message.content === "%userCount") {
       response = [(bot.users.cache.size - 1).toString()];
+    } else if (message.content === "%messageCount") {
+      response = [jetpack.read(`${jetpack.cwd()}/count.txt`)];
     }
     // else if (message.content === "%users") {
     //   let users = [...bot.users.cache.filter(user => user.bot === false)].map(
@@ -65,6 +70,8 @@ bot.on("message", async message => {
   if (response) {
     try {
       response.forEach(msg => message.channel.send(msg));
+      messageCount++;
+      jetpack.write(`${jetpack.cwd()}/count.txt`, messageCount.toString());
     } catch (err) {
       console.error(err);
     }
