@@ -51,7 +51,7 @@ bot.on("message", async message => {
     } else if (message.content === "%guildCount") {
       response = [bot.guilds.cache.size.toString()];
     } else if (message.content === "%userCount") {
-      response = [bot.users.cache.size.toString()];
+      response = [(bot.users.cache.size - 1).toString()];
     }
     // else if (message.content === "%users") {
     //   let users = [...bot.users.cache.filter(user => user.bot === false)].map(
