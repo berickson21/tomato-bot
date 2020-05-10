@@ -46,7 +46,7 @@ bot.on("message", async message => {
     } else if (message.content === "%guildCount") {
       let guildCount = bot.users.cache.size - 1;
       message.channel.send(guildCount.toString());
-    } else if (message.content === "%usersCount") {
+    } else if (message.content === "%userCount") {
       let usercount = bot.users.cache.size;
       message.channel.send(usercount.toString());
     }
