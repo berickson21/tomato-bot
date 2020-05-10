@@ -4,18 +4,19 @@
   "description": "Helper bot for the Adopt a Tomato Discord server.",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.1.0",
-    "fs-jetpack": "^2.2.2",
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs-jetpack": "^2.3.0",
     "googleapis": "^39.2.0",
     "lodash": "^4.17.15",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "wargamer": "^0.5.0"
   },
   "devDependencies": {
-    "eslint": "^6.4.0",
-    "nodemon": "^1.19.2"
+    "eslint": "^6.8.0",
+    "nodemon": "^1.19.4"
   },
   "scripts": {
     "start": "node index.js",
