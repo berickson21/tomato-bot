@@ -39,16 +39,19 @@ bot.on("message", async message => {
       role.name === "AdvisoryCouncil"
   );
   // Construct a response
-  if (checkAdmin) {
+  let response = await prepareResponse(message).catch(err => {
+    console.error(err);
+  });
+
+  if (!response && checkAdmin) {
     if (message.content === "%guilds") {
-      let guilds = [...bot.guilds.cache.values()].map(guild => guild.name);
-      message.channel.send(guilds.join("\n"));
+      response = [
+        [...bot.guilds.cache.values()].map(guild => guild.name).join("\n")
+      ];
     } else if (message.content === "%guildCount") {
-      let guildCount = bot.guilds.cache.size;
-      message.channel.send(guildCount.toString());
+      response = [bot.guilds.cache.size.toString()];
     } else if (message.content === "%userCount") {
-      let usercount = bot.users.cache.size;
-      message.channel.send(usercount.toString());
+      response = [bot.users.cache.size.toString()];
     }
     // else if (message.content === "%users") {
     //   let users = [...bot.users.cache.filter(user => user.bot === false)].map(
@@ -57,9 +60,7 @@ bot.on("message", async message => {
     //   message.channel.send(users.join("\n"));
     // }
   }
-  const response = await prepareResponse(message).catch(err => {
-    console.error(err);
-  });
+
   // Send the response
   if (response) {
     try {
