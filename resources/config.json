@@ -1,6 +1,6 @@
 {
   "nations": {
-    "usn": {
+    "usa": {
       "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
       "dd": ["gearing"],
       "cl": ["worcester"],
@@ -8,26 +8,26 @@
       "bb": ["montana"],
       "cv": ["midway"]
     },
-    "ijn": {
+    "japan": {
       "aliases": ["ijn", "japan", "japanese", "waifu", "weeb"],
       "dd": ["shimakaze", "harugumo"],
       "ca": ["zao"],
       "bb": ["yamato"],
       "cv": ["hakuryu"]
     },
-    "vmf": {
-      "aliases": ["vmf", "soviet", "russian"],
+    "ussr": {
+      "aliases": ["vmf", "ussr", "soviet", "russian"],
       "dd": ["khabarovsk", "grozovoi"],
       "ca": ["dmitri donskoi and below", "moskva"],
       "bb": ["kremlin"]
     },
-    "km": {
+    "germany": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
       "dd": ["z 52"],
       "ca": ["hindenburg"],
       "bb": ["grosser kurfurst"]
     },
-    "mn": {
+    "france": {
       "aliases": [
         "mn",
         "marine nationale",
@@ -39,15 +39,15 @@
       "ca": ["henri iv"],
       "bb": ["republique"]
     },
-    "pa": {
-      "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
+    "pan_asia": {
+      "aliases": ["pa", "p-a", "pan-asian", "pan_asia", "pan asian"],
       "dd": ["yueyang"]
     },
-    "rm": {
+    "italy": {
       "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
       "ca": ["venezia"]
     },
-    "rn": {
+    "uk": {
       "aliases": ["rn", "royal navy", "british", "uk", "limey"],
       "dd": ["daring"],
       "cl": ["minotaur"],
@@ -55,9 +55,15 @@
       "bb": ["conqueror"],
       "cv": ["audacious"]
     },
-    "eu": {
+    "europe": {
       "aliases": ["eu", "europe", "european", "euro"],
-      "dd": ["smaland"]
+      "dd": ["smaland", "halland"]
+    },
+    "commonwealth": {
+      "aliases": ["commonwealth"]
+    },
+    "pan_america": {
+      "aliases": ["pan_america"]
     }
   },
   "skillMap": {
@@ -119,7 +125,7 @@
     "Enhanced Countermeasures": 4238528432,
     "Enhanced Propulsion": 4239577008,
     "Enhanced Smoke Generator": 4240625584,
-    "Increased Firing Elevation of Artillery": 4241674160,
+    "Increased Artillery Firing Elevation": 4241674160,
     "Enhanced Repair Party": 4242722736,
     "Enhanced Main Battery and Steering Gears": 4243771312,
     "Enhanced Damage Control System": 4244819888,
@@ -168,13 +174,13 @@
     "dodge": "just dodge™",
     "gitgud": "<:gitgud:397935317497413633>",
     "shrug": "<:yuishrug:357630177355890690>",
-    "pr1": "Preventative Credit Card Limit",
-    "pr2": "Expert Memer",
-    "pr3": "Gold Rush",
-    "pr4": "Superdirectives",
-    "pr5": "Whaling Expert",
-    "pr6": "Basics of False Advertisement",
-    "pr7": "Refund Prevention",
-    "pr8": "Expert Grindsman"
+    "Preventive Credit Card Limit": "Preventive Credit Card Limit",
+    "Expert Memer": "Expert Memer",
+    "Gold Rush": "Gold Rush",
+    "Superdirectives": "Superdirectives",
+    "Whaling Expert": "Whaling Expert",
+    "Basics of False Advertisement": "Basics of False Advertisement",
+    "Refund Prevention": "Refund Prevention",
+    "Expert Grindsman": "Expert Grindsman"
   }
 }
