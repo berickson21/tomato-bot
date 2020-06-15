@@ -1,6 +1,6 @@
 {
   "nations": {
-    "usn": {
+    "usa": {
       "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
       "dd": ["gearing"],
       "cl": ["worcester"],
@@ -8,26 +8,26 @@
       "bb": ["montana"],
       "cv": ["midway"]
     },
-    "ijn": {
+    "japan": {
       "aliases": ["ijn", "japan", "japanese", "waifu", "weeb"],
       "dd": ["shimakaze", "harugumo"],
       "ca": ["zao"],
       "bb": ["yamato"],
       "cv": ["hakuryu"]
     },
-    "vmf": {
-      "aliases": ["vmf", "soviet", "russian"],
+    "ussr": {
+      "aliases": ["vmf", "ussr", "soviet", "russian"],
       "dd": ["khabarovsk", "grozovoi"],
       "ca": ["dmitri donskoi and below", "moskva"],
       "bb": ["kremlin"]
     },
-    "km": {
+    "germany": {
       "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
       "dd": ["z 52"],
       "ca": ["hindenburg"],
       "bb": ["grosser kurfurst"]
     },
-    "mn": {
+    "france": {
       "aliases": [
         "mn",
         "marine nationale",
@@ -39,15 +39,15 @@
       "ca": ["henri iv"],
       "bb": ["republique"]
     },
-    "pa": {
-      "aliases": ["pa", "p-a", "pan-asian", "pan asian"],
+    "pan_asia": {
+      "aliases": ["pa", "p-a", "pan-asian", "pan_asia", "pan asian"],
       "dd": ["yueyang"]
     },
-    "rm": {
+    "italy": {
       "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
       "ca": ["venezia"]
     },
-    "rn": {
+    "uk": {
       "aliases": ["rn", "royal navy", "british", "uk", "limey"],
       "dd": ["daring"],
       "cl": ["minotaur"],
@@ -55,9 +55,15 @@
       "bb": ["conqueror"],
       "cv": ["audacious"]
     },
-    "eu": {
+    "europe": {
       "aliases": ["eu", "europe", "european", "euro"],
-      "dd": ["smaland"]
+      "dd": ["smaland", "halland"]
+    },
+    "commonwealth": {
+      "aliases": ["commonwealth"]
+    },
+    "pan_america": {
+      "aliases": ["pan_america"]
     }
   },
   "skillMap": {
