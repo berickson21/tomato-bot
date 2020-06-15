@@ -11,33 +11,23 @@ const { flatten, map, reduce } = require("lodash");
 main();
 
 async function main() {
-  console.log(
-    "=================== Updating the ship catalog ==================="
-  );
+  console.log("Updating the ship catalog");
   await updateShipCatalog().catch(err => {
     console.error(err);
   });
-  console.log(
-    "=================== Updating the Upgrades list ==================="
-  );
+  console.log("Updating the Upgrades list...");
   await updateWGUpgrades().catch(err => {
     console.error(err);
   });
-  console.log(
-    "=================== Updating the Captain Skills list ==================="
-  );
+  console.log("Updating the Captain Skills list...");
   await updateWGSkills().catch(err => {
     console.error(err);
   });
-  console.log(
-    "=================== Pulling updated Captain Skill builds from Sheets ==================="
-  );
+  console.log("Pulling updated Captain Skill builds from Sheets...");
   await updateSheetSkills().catch(err => {
     console.error(err);
   });
-  console.log(
-    "=================== Pulling updated Upgrade builds from Sheets ==================="
-  );
+  console.log("Pulling updated Upgrade builds from Sheets...");
   await updateSheetUpgrades().catch(err => {
     console.error(err);
   });
@@ -71,7 +61,7 @@ async function updateShipCatalog() {
   return shipArray;
 }
 async function getShipsByNationType(type) {
-  console.log(`Getting ${type}s...`);
+  console.log(`    ${type}s...`);
   const ships = Object.assign(
     {},
     flatten(
