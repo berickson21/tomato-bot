@@ -251,7 +251,16 @@
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["pr1", "pr2", "pr3", "pr4", "pr5", "pr6", "pr7", "pr8"],
+    "skills": [
+      "Preventive Credit Card Limit",
+      "Expert Memer",
+      "Gold Rush",
+      "Superdirectives",
+      "Whaling Expert",
+      "Basics of False Advertisement",
+      "Refund Prevention",
+      "Expert Grindsman"
+    ],
     "upgrades": [
       "Main Armaments Modification 1",
       "Surveillance Radar Modification 1",
@@ -2379,7 +2388,7 @@
       "Main Armaments Modification 1",
       "Hydroacoustic Search Modification 1/Speed Boost Mod",
       "Aiming Systems Modification 1",
-      "Propulsion Modification 1/Steering Gears Modification 1/Increased Firing Elevation of Artillery",
+      "Propulsion Modification 1/Steering Gears Modification 1/Increased Artillery Firing Elevation",
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
