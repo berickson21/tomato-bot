@@ -7,7 +7,7 @@ const bot = new Discord.Client();
 // Initialize Discord Bot
 require("dotenv").config();
 
-let messageCount = 0;
+let messageCount = parseInt(jetpack.read(`${jetpack.cwd()}/count.txt`));
 
 const TOKEN =
   process.argv[2] === "debug" ? process.env.DEBUG_TOKEN : process.env.BOT_TOKEN;
