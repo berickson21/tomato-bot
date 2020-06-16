@@ -2233,19 +2233,7 @@
   },
   "Moskva": {
     "name": "Moskva",
-    "aliases": [
-      "moskva",
-      "moscow",
-      "dmitri donskoi",
-      "donskoi",
-      "novik",
-      "bogatyr",
-      "svietlana",
-      "kirov",
-      "budyonny",
-      "schors",
-      "chapayev"
-    ],
+    "aliases": ["moskva", "moscow"],
     "ship_id": 4179539408,
     "type": "cruiser",
     "nation": "ussr",
@@ -3844,7 +3832,16 @@
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Expert Marksman",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },
@@ -3889,7 +3886,19 @@
   },
   "Alexander Nevsky": {
     "name": "Alexander Nevsky",
-    "aliases": ["alexander nevsky"],
+    "aliases": [
+      "alexander nevsky",
+      "nevsky",
+      "dmitri donskoi",
+      "donskoi",
+      "novik",
+      "bogatyr",
+      "svietlana",
+      "kotovsky",
+      "budyonny",
+      "schors",
+      "chapayev"
+    ],
     "ship_id": 4074681808,
     "type": "Cruiser",
     "nation": "ussr",
