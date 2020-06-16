@@ -2406,6 +2406,7 @@
       "leander",
       "fiji",
       "edinburgh",
+      "edin",
       "neptune"
     ],
     "ship_id": 4179539920,
@@ -3895,7 +3896,16 @@
     "tier": 10,
     "is_premium": false,
     "is_special": false,
-    "skills": ["Soon™"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Survivability Expert",
+      "Expert Marksman",
+      "Preventive Maintenance"
+    ],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },

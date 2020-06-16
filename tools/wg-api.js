@@ -23,7 +23,7 @@ async function getWGNationClassData(nation, type) {
 }
 
 async function getWGShipData(ship_id) {
-  const url = `https://api.worldofwarships.com/wows/encyclopedia/ships/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&fields=%2Cship_id%2Cnation%2Ctier%2Cimages.small%2Ctype%2C+tier%2C+is_premium%2C+is_special&ship_id=${ship_id}`;
+  const url = `https://api.worldofwarships.com/wows/encyclopedia/ships/?application_id=e9581dae8d941b44bd5e7f0b06dc5146&fields=%2Cship_id%2Cname%2Cnation%2Ctier%2Cimages.small%2Ctype%2C+tier%2C+is_premium%2C+is_special&ship_id=${ship_id}`;
   const data = await getAPIData(url);
   return data[ship_id];
 }
