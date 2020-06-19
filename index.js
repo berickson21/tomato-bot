@@ -3,11 +3,10 @@ const jetpack = require("fs-jetpack");
 // Load up the discord.js library
 const Discord = require("discord.js");
 const bot = new Discord.Client();
+let messageCounts = require("./count.json");
 
 // Initialize Discord Bot
 require("dotenv").config();
-
-let messageCount = parseInt(jetpack.read(`${jetpack.cwd()}/count.txt`));
 
 const TOKEN =
   process.argv[2] === "debug" ? process.env.DEBUG_TOKEN : process.env.BOT_TOKEN;
@@ -70,8 +69,8 @@ bot.on("message", async message => {
   if (response) {
     try {
       response.forEach(msg => message.channel.send(msg));
-      messageCount++;
-      jetpack.write(`${jetpack.cwd()}/count.txt`, messageCount.toString());
+      messageCounts.totalMessages++;
+      jetpack.write(`${jetpack.cwd()}/count.json`, messageCounts);
     } catch (err) {
       console.error(err);
     }
