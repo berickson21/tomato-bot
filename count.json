@@ -1,6 +1,7 @@
 {
-  "totalMessages": 284,
+  "totalMessages": 285,
   "totalShipRequests": {},
   "emptySkills": {},
-  "emptyUpgrades": {}
+  "emptyUpgrades": {},
+  "wrongName": {}
 }
