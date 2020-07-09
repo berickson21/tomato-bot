@@ -1,5 +1,5 @@
 {
-  "totalMessages": 562,
+  "totalMessages": 573,
   "totalShipRequests": {
     "Kléber": 14,
     "Harugumo": 15,
@@ -10,11 +10,11 @@
     "Mainz": 3,
     "Des Moines": 10,
     "Großer Kurfürst": 6,
-    "Midway": 10,
+    "Midway": 11,
     "Massachusetts": 8,
-    "Zaō": 2,
+    "Zaō": 3,
     "Montana": 8,
-    "Georgia": 3,
+    "Georgia": 4,
     "Flint": 1,
     "Atlanta": 2,
     "Moskva": 2,
@@ -23,7 +23,7 @@
     "Marceau": 1,
     "Henri IV": 1,
     "Odin": 2,
-    "Smolensk": 4,
+    "Smolensk": 5,
     "Stalingrad": 3,
     "Halland": 14,
     "Tallinn": 3,
@@ -46,13 +46,13 @@
     "Asashio": 1,
     "Mikoyan": 1,
     "Charleston": 1,
-    "Kirov": 1,
+    "Kirov": 2,
     "Ohio": 1,
     "Kidd": 2,
     "Jean Bart": 2,
     "Perth": 1,
     "W. Virginia 1941": 1,
-    "Z-52": 1,
+    "Z-52": 2,
     "Giulio Cesare": 1,
     "Yueyang": 2,
     "Sims": 2,
@@ -61,7 +61,9 @@
     "Grozovoi": 3,
     "Katori": 1,
     "Salem": 1,
-    "Nelson": 1
+    "Nelson": 1,
+    "Audacious": 1,
+    "Riga": 1
   },
   "emptySkills": {
     "Mainz": 3,
@@ -77,7 +79,8 @@
     "Kidd": 2,
     "Perth": 1,
     "Sims": 2,
-    "Katori": 1
+    "Katori": 1,
+    "Riga": 1
   },
   "emptyUpgrades": {
     "Mainz": 3,
@@ -101,7 +104,8 @@
     "Giulio Cesare": 1,
     "Sims": 2,
     "Benham": 2,
-    "Katori": 1
+    "Katori": 1,
+    "Riga": 1
   },
   "wrongName": {
     "hinden": 2,
@@ -134,6 +138,8 @@
     "vermont": 1,
     "balti": 1,
     "tash": 1,
-    "petro": 2
+    "petro": 3,
+    "z46": 1,
+    "petropavlosk": 1
   }
 }
