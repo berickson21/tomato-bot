@@ -3500,16 +3500,29 @@
   },
   "HSF Admiral Graf Spee": {
     "name": "HSF Admiral Graf Spee",
-    "aliases": ["hsf admiral graf spee"],
+    "aliases": ["hsf admiral graf spee", "hsf graf spee"],
     "ship_id": 3554588464,
     "type": "Cruiser",
     "nation": "germany",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Expert Marksman",
+      "Survivability Expert",
+      "Expert Loader"
+    ],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2"
+    ]
   },
   "Ägir": {
     "name": "Ägir",
