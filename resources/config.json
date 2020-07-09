@@ -18,7 +18,7 @@
     "ussr": {
       "aliases": ["vmf", "ussr", "soviet", "russian"],
       "dd": ["khabarovsk", "grozovoi"],
-      "ca": ["dmitri donskoi and below", "moskva"],
+      "ca": ["alexander nevsky", "petropavlovsk"],
       "bb": ["kremlin"]
     },
     "germany": {
