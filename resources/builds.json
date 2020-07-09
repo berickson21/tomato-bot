@@ -448,14 +448,20 @@
     "is_special": false,
     "skills": [
       "Priority Target",
-      "Expert Marksman",
-      "Superintendent",
-      "Concealment Expert",
       "Adrenaline Rush",
+      "Superintendent",
+      "Advanced Firing Training",
       "Fire Prevention",
-      "Basics of Survivability"
+      "Manual Fire Control for Secondary Armament",
+      "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
+    "upgrades": [
+      "Secondary Battery Modification 1",
+      "Damage Control Modification 1",
+      "Secondary Battery Modification 2",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1"
+    ],
     "signals": ["Soon™"]
   },
   "Kaga": {
@@ -1469,15 +1475,29 @@
   },
   "Admiral Graf Spee": {
     "name": "Admiral Graf Spee",
-    "aliases": ["admiral graf spee", "graf spee"],
+    "aliases": ["admiral graf spee", "graf spee", "spee"],
     "ship_id": 3764303664,
     "type": "cruiser",
     "nation": "germany",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
+    "skills": [
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Demolition Expert",
+      "Expert Marksman",
+      "Survivability Expert",
+      "Expert Loader"
+    ],
+    "upgrades": [
+      "Main Armaments Modification 1",
+      "Hydroacoustic Search Modification 1",
+      "Aiming Systems Modification 1",
+      "Damage Control Modification 2"
+    ],
     "signals": ["Soon™"]
   },
   "De Grasse": {
@@ -3654,7 +3674,7 @@
     "type": "Destroyer",
     "nation": "germany",
     "tier": 8,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3986,6 +4006,84 @@
     "tier": 3,
     "is_premium": true,
     "is_special": false,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "AL Sov. Rossiya": {
+    "name": "AL Sov. Rossiya",
+    "aliases": ["al sov. rossiya"],
+    "ship_id": 3551475152,
+    "type": "Battleship",
+    "nation": "ussr",
+    "tier": 9,
+    "is_premium": true,
+    "is_special": false,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "Pommern": {
+    "name": "Pommern",
+    "aliases": ["pommern"],
+    "ship_id": 3761190704,
+    "type": "Battleship",
+    "nation": "germany",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "AL Littorio": {
+    "name": "AL Littorio",
+    "aliases": ["al littorio"],
+    "ship_id": 3552524016,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "Anchorage": {
+    "name": "Anchorage",
+    "aliases": ["anchorage"],
+    "ship_id": 3751720944,
+    "type": "Cruiser",
+    "nation": "usa",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "München": {
+    "name": "München",
+    "aliases": ["münchen"],
+    "ship_id": 3763255088,
+    "type": "Cruiser",
+    "nation": "germany",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": ["Soon™"],
+    "upgrades": ["Soon™"],
+    "signals": ["Soon™"]
+  },
+  "DD R-10": {
+    "name": "DD R-10",
+    "aliases": ["dd r-10"],
+    "ship_id": 3445503440,
+    "type": "Destroyer",
+    "nation": "ussr",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
