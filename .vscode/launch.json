@@ -34,6 +34,15 @@
       "args": [
         "debug"
       ]
-    }
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Test",
+      "program": "${workspaceFolder}/test.js",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    },
   ]
 }
