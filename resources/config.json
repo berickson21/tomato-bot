@@ -1,31 +1,88 @@
 {
   "nations": {
     "usa": {
-      "aliases": ["usn", "usa", "us", "american", "murican", "freedom"],
-      "dd": ["gearing"],
-      "cl": ["worcester"],
-      "ca": ["des moines"],
-      "bb": ["montana"],
-      "cv": ["midway"]
+      "aliases": [
+        "usn",
+        "usa",
+        "us",
+        "american",
+        "murican",
+        "freedom"
+      ],
+      "dd": [
+        "gearing"
+      ],
+      "cl": [
+        "worcester"
+      ],
+      "ca": [
+        "des moines"
+      ],
+      "bb": [
+        "montana"
+      ],
+      "cv": [
+        "midway"
+      ]
     },
     "japan": {
-      "aliases": ["ijn", "japan", "japanese", "waifu", "weeb"],
-      "dd": ["shimakaze", "harugumo"],
-      "ca": ["zao"],
-      "bb": ["yamato"],
-      "cv": ["hakuryu"]
+      "aliases": [
+        "ijn",
+        "japan",
+        "japanese",
+        "waifu",
+        "weeb"
+      ],
+      "dd": [
+        "shimakaze",
+        "harugumo"
+      ],
+      "ca": [
+        "zao"
+      ],
+      "bb": [
+        "yamato"
+      ],
+      "cv": [
+        "hakuryu"
+      ]
     },
     "ussr": {
-      "aliases": ["vmf", "ussr", "soviet", "russian"],
-      "dd": ["khabarovsk", "grozovoi"],
-      "ca": ["alexander nevsky", "petropavlovsk"],
-      "bb": ["kremlin"]
+      "aliases": [
+        "vmf",
+        "ussr",
+        "soviet",
+        "russian"
+      ],
+      "dd": [
+        "khabarovsk",
+        "grozovoi"
+      ],
+      "ca": [
+        "alexander nevsky",
+        "petropavlovsk"
+      ],
+      "bb": [
+        "kremlin"
+      ]
     },
     "germany": {
-      "aliases": ["km", "kriegsmarine", "german", "germany", "wehraboo"],
-      "dd": ["z 52"],
-      "ca": ["hindenburg"],
-      "bb": ["grosser kurfurst"]
+      "aliases": [
+        "km",
+        "kriegsmarine",
+        "german",
+        "germany",
+        "wehraboo"
+      ],
+      "dd": [
+        "z 52"
+      ],
+      "ca": [
+        "hindenburg"
+      ],
+      "bb": [
+        "grosser kurfurst"
+      ]
     },
     "france": {
       "aliases": [
@@ -35,35 +92,85 @@
         "france",
         "large baguette"
       ],
-      "dd": ["kleber"],
-      "ca": ["henri iv"],
-      "bb": ["republique"]
+      "dd": [
+        "kleber"
+      ],
+      "ca": [
+        "henri iv"
+      ],
+      "bb": [
+        "republique"
+      ]
     },
     "pan_asia": {
-      "aliases": ["pa", "p-a", "pan-asian", "pan_asia", "pan asian"],
-      "dd": ["yueyang"]
+      "aliases": [
+        "pa",
+        "p-a",
+        "pan-asian",
+        "pan_asia",
+        "pan asian"
+      ],
+      "dd": [
+        "yueyang"
+      ]
     },
     "italy": {
-      "aliases": ["rm", "regia marina", "italian", "italy", "pasta boat"],
-      "ca": ["venezia"]
+      "aliases": [
+        "rm",
+        "regia marina",
+        "italian",
+        "italy",
+        "pasta boat"
+      ],
+      "ca": [
+        "venezia"
+      ]
     },
     "uk": {
-      "aliases": ["rn", "royal navy", "british", "uk", "limey"],
-      "dd": ["daring"],
-      "cl": ["minotaur"],
-      "ca": ["goliath"],
-      "bb": ["conqueror"],
-      "cv": ["audacious"]
+      "aliases": [
+        "rn",
+        "royal navy",
+        "british",
+        "uk",
+        "limey"
+      ],
+      "dd": [
+        "daring"
+      ],
+      "cl": [
+        "minotaur"
+      ],
+      "ca": [
+        "goliath"
+      ],
+      "bb": [
+        "conqueror"
+      ],
+      "cv": [
+        "audacious"
+      ]
     },
     "europe": {
-      "aliases": ["eu", "europe", "european", "euro"],
-      "dd": ["smaland", "halland"]
+      "aliases": [
+        "eu",
+        "europe",
+        "european",
+        "euro"
+      ],
+      "dd": [
+        "smaland",
+        "halland"
+      ]
     },
     "commonwealth": {
-      "aliases": ["commonwealth"]
+      "aliases": [
+        "commonwealth"
+      ]
     },
     "pan_america": {
-      "aliases": ["pan_america"]
+      "aliases": [
+        "pan_america"
+      ]
     }
   },
   "skillMap": {
@@ -101,6 +208,11 @@
     "Radio Location": 34
   },
   "upgradeMap": {
+    "Forced Takeoff and Landing Equipment": 4211265456,
+    "Automated Main Battery Loading Mechanism": 4212314032,
+    "Additional Smoke Generators": 4213362608,
+    "Improved Camouflage Patterns": 4214411184,
+    "Heavier Torpedo Warheads": 4215459760,
     "Auxiliary Armaments Modification 2": 4216508336,
     "Squadron Consumables Modification 1": 4217556912,
     "Ship Consumables\nModification 1": 4218605488,
@@ -113,25 +225,25 @@
     "Bombers Modification 2": 4225945520,
     "Torpedo Bombers Modification 2": 4226994096,
     "Attack Aircraft Modification 2": 4228042672,
-    "Enhanced Flight Control and Air Groups": 4229091248,
-    "Reinforced Armor Protection for Strike Air Groups": 4230139824,
-    "Recoilless Main Battery Guns": 4231188400,
-    "Enhanced Armaments": 4232236976,
+    "Fuel Injection System": 4229091248,
+    "Modified External Hardpoints": 4230139824,
+    "Main Gun Automatic Loader": 4231188400,
+    "Improved Main Artillery": 4232236976,
     "Modified Hull": 4233285552,
-    "Accelerated Torpedo Tube Reload": 4234334128,
-    "Low-Profile Torpedo Tubes": 4235382704,
-    "Heavyweight Artillery": 4236431280,
-    "Heavyweight Main Battery Guns": 4237479856,
-    "Enhanced Countermeasures": 4238528432,
-    "Enhanced Propulsion": 4239577008,
-    "Enhanced Smoke Generator": 4240625584,
-    "Increased Artillery Firing Elevation": 4241674160,
-    "Enhanced Repair Party": 4242722736,
-    "Enhanced Main Battery and Steering Gears": 4243771312,
-    "Enhanced Damage Control System": 4244819888,
-    "Enhanced Main Battery Guns": 4245868464,
-    "Enhanced Main Armaments": 4246917040,
-    "Additional Main Battery Loader": 4247965616,
+    "Torpedo Quick Reload System": 4234334128,
+    "Torpedo Fire Control System": 4235382704,
+    "Master Fire Control Director": 4236431280,
+    "Extended Main Battery Effective Range": 4237479856,
+    "Improved Readiness Condition": 4238528432,
+    "Enhanced Propulsion Plant": 4239577008,
+    "Aerosol Smoke Curtain System": 4240625584,
+    "Main Battery Firing Rate Enhancement": 4241674160,
+    "Damage Control Fittings": 4242722736,
+    "Improved Bridge": 4243771312,
+    "Reinforced Emergency Response": 4244819888,
+    "Main Battery Director System": 4245868464,
+    "Gun Fire Control Equipment": 4246917040,
+    "Main Battery Fire Control Station": 4247965616,
     "Enhanced Engineering Systems": 4249014192,
     "Surveillance Radar Modification 1": 4250062768,
     "Hydroacoustic Search Modification 1": 4251111344,
