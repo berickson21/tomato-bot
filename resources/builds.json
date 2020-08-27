@@ -5256,7 +5256,16 @@
   "Petropavlovsk": {
     "name": "Petropavlovsk",
     "aliases": [
-      "petropavlovsk"
+      "petropavlovsk",
+      "petropavlosk",
+      "petro",
+      "pavlovsk",
+      "riga",
+      "tallinn",
+      "tallin",
+      "talinn",
+      "talin",
+      "tally ho"
     ],
     "ship_id": 3969824208,
     "type": "Cruiser",
@@ -5323,48 +5332,6 @@
       "Propulsion Modification 1/Steering Gears Modification 1",
       "Concealment System Modification 1",
       "Main Battery Modification 3"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "Riga": {
-    "name": "Riga",
-    "aliases": [
-      "riga"
-    ],
-    "ship_id": 4075730384,
-    "type": "Cruiser",
-    "nation": "ussr",
-    "tier": 9,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "Tallinn": {
-    "name": "Tallinn",
-    "aliases": [
-      "tallinn"
-    ],
-    "ship_id": 4076778960,
-    "type": "Cruiser",
-    "nation": "ussr",
-    "tier": 8,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
     ],
     "signals": [
       "Soon™"
