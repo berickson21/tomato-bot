@@ -36,12 +36,16 @@ bot.on("guildDelete", guild => {
 bot.on("message", async message => {
   const checkAdmin = message.member.roles.cache.find(
     role =>
+      role.name === "Founder" ||  
       role.name === "Discord Admin" ||
       role.name === "Clan Admin" ||
-      role.name === "AdvisoryCouncil"
+      role.name === "Advisory Council"
   );
+
+  const role = message.member.roles.cache;
+
   // Construct a response
-  let response = await prepareResponse(message).catch(err => {
+  let response = await prepareResponse(message, role).catch(err => {
     console.error(err);
   });
 
