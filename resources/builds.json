@@ -5482,7 +5482,7 @@
     "type": "Cruiser",
     "nation": "usa",
     "tier": 8,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5503,7 +5503,7 @@
     "type": "Cruiser",
     "nation": "germany",
     "tier": 7,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5629,6 +5629,48 @@
     "type": "Cruiser",
     "nation": "japan",
     "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Oklahoma": {
+    "name": "Oklahoma",
+    "aliases": [
+      "oklahoma"
+    ],
+    "ship_id": 3765385200,
+    "type": "Battleship",
+    "nation": "usa",
+    "tier": 5,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Belfast '43": {
+    "name": "Belfast '43",
+    "aliases": [
+      "belfast '43"
+    ],
+    "ship_id": 3741235152,
+    "type": "Cruiser",
+    "nation": "uk",
+    "tier": 8,
     "is_premium": false,
     "is_special": true,
     "skills": [
