@@ -1,5 +1,5 @@
 {
-  "totalMessages": 1276,
+  "totalMessages": 1281,
   "totalShipRequests": {
     "Kléber": 26,
     "Harugumo": 35,
@@ -13,11 +13,11 @@
     "Midway": 23,
     "Massachusetts": 13,
     "Zaō": 17,
-    "Montana": 21,
+    "Montana": 22,
     "Georgia": 17,
     "Flint": 2,
     "Atlanta": 5,
-    "Moskva": 10,
+    "Moskva": 11,
     "Minotaur": 23,
     "Bourgogne": 3,
     "Marceau": 1,
@@ -108,7 +108,9 @@
     "Colbert": 1,
     "Siegfried": 1,
     "Pyotr Bagration": 1,
-    "Hood": 1
+    "Hood": 1,
+    "Erich Loewenhardt": 1,
+    "Hayate": 1
   },
   "emptySkills": {
     "Mainz": 6,
@@ -149,7 +151,9 @@
     "Mikasa": 1,
     "Dreadnought": 1,
     "Siegfried": 1,
-    "Pyotr Bagration": 1
+    "Pyotr Bagration": 1,
+    "Erich Loewenhardt": 1,
+    "Hayate": 1
   },
   "emptyUpgrades": {
     "Mainz": 6,
@@ -202,7 +206,8 @@
     "Dreadnought": 1,
     "Siegfried": 1,
     "Pyotr Bagration": 1,
-    "Hood": 1
+    "Hood": 1,
+    "Erich Loewenhardt": 1
   },
   "wrongName": {
     "hinden": 4,
@@ -304,6 +309,7 @@
     "hakyuru": 1,
     "bourgogne\\": 1,
     "p0erth": 1,
-    "petropav": 1
+    "petropav": 1,
+    "loewenhardt": 1
   }
 }
