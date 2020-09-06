@@ -1,20 +1,20 @@
 {
-  "totalMessages": 1293,
+  "totalMessages": 1308,
   "totalShipRequests": {
     "Kléber": 26,
     "Harugumo": 36,
-    "Hindenburg": 33,
-    "Kremlin": 20,
-    "Goliath": 19,
+    "Hindenburg": 35,
+    "Kremlin": 21,
+    "Goliath": 20,
     "Conqueror": 6,
     "Mainz": 6,
     "Des Moines": 37,
-    "Großer Kurfürst": 18,
+    "Großer Kurfürst": 20,
     "Midway": 24,
     "Massachusetts": 13,
     "Zaō": 18,
     "Montana": 22,
-    "Georgia": 17,
+    "Georgia": 18,
     "Flint": 2,
     "Atlanta": 5,
     "Moskva": 11,
@@ -37,10 +37,10 @@
     "Admiral Graf Spee": 24,
     "Atago": 5,
     "Cossack": 2,
-    "Venezia": 28,
-    "Yoshino": 8,
-    "Worcester": 14,
-    "Alexander Nevsky": 29,
+    "Venezia": 29,
+    "Yoshino": 9,
+    "Worcester": 15,
+    "Alexander Nevsky": 30,
     "Alaska": 21,
     "Błyskawica": 3,
     "Asashio": 1,
@@ -78,7 +78,7 @@
     "Warspite": 4,
     "Aigle": 3,
     "Loyang": 1,
-    "Lenin": 1,
+    "Lenin": 2,
     "Slava": 2,
     "Yamato": 14,
     "Manfred von Richthofen": 2,
@@ -93,7 +93,7 @@
     "Alabama": 1,
     "Champagne": 1,
     "Somers": 2,
-    "Friesland": 3,
+    "Friesland": 4,
     "Gallant": 1,
     "Black": 1,
     "Småland": 2,
@@ -110,7 +110,8 @@
     "Pyotr Bagration": 1,
     "Hood": 1,
     "Erich Loewenhardt": 1,
-    "Hayate": 1
+    "Hayate": 1,
+    "Rhein": 1
   },
   "emptySkills": {
     "Mainz": 6,
@@ -153,7 +154,8 @@
     "Siegfried": 1,
     "Pyotr Bagration": 1,
     "Erich Loewenhardt": 1,
-    "Hayate": 1
+    "Hayate": 1,
+    "Rhein": 1
   },
   "emptyUpgrades": {
     "Mainz": 6,
@@ -183,7 +185,7 @@
     "Musashi": 2,
     "Warspite": 4,
     "Aigle": 2,
-    "Lenin": 1,
+    "Lenin": 2,
     "Slava": 1,
     "Manfred von Richthofen": 2,
     "Paolo Emilio": 1,
@@ -197,7 +199,7 @@
     "Cossack": 1,
     "Nelson": 2,
     "Alabama": 1,
-    "Friesland": 3,
+    "Friesland": 4,
     "Gallant": 1,
     "Pommern": 2,
     "Lazo": 2,
@@ -207,7 +209,8 @@
     "Siegfried": 1,
     "Pyotr Bagration": 1,
     "Hood": 1,
-    "Erich Loewenhardt": 1
+    "Erich Loewenhardt": 1,
+    "Rhein": 1
   },
   "wrongName": {
     "hinden": 4,
@@ -312,6 +315,7 @@
     "petropav": 1,
     "loewenhardt": 1,
     "richthofen": 1,
-    "aud": 1
+    "aud": 1,
+    "georgia yoshino": 1
   }
 }
