@@ -63,3 +63,4 @@ Tomato-bot.pem
 token.json
 credentials.json
 *.ppk
+errors.txt

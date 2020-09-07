@@ -13,27 +13,27 @@ main();
 async function main() {
   console.log("Updating the ship catalog");
   await updateShipCatalog().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Updating the Upgrades list...");
   await updateWGUpgrades().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Updating the Captain Skills list...");
   await updateWGSkills().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Pulling updated Captain Skill builds from Sheets...");
   await updateSheetSkills().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Pulling updated Upgrade builds from Sheets...");
   await updateSheetUpgrades().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   jetpack.write(`${jetpack.cwd()}/resources/config.json`, config);
@@ -163,6 +163,7 @@ async function updateSheetSkills() {
     if (builds[shipName]) {
       builds[shipName]["skills"] = skills.slice(1);
     } else {
+      jetpack.append(`${jetpack.cwd()}/errors.txt`, `Sheet skills found for missing ship: ${shipName}`);
       console.log(shipName);
     }
   });
@@ -176,6 +177,7 @@ async function updateSheetUpgrades() {
     if (builds[shipName]) {
       builds[shipName]["upgrades"] = upgrades.slice(1);
     } else {
+      jetpack.append(`${jetpack.cwd()}/errors.txt`, `Sheet upgrades found for missing ship: ${shipName}`);
       console.log(shipName);
     }
   });

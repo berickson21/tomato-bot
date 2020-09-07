@@ -13,28 +13,28 @@ main();
 async function main() {
   console.log("Updating the ship catalog");
   await updateShipCatalog().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Updating the Upgrades list...");
   await updateWGUpgrades().catch(err => {
     jetpack.append(err);
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Updating the Captain Skills list...");
   await updateWGSkills().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Pulling updated Captain Skill builds from Sheets...");
   await updateSheetSkills().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   console.log("Pulling updated Upgrade builds from Sheets...");
   await updateSheetUpgrades().catch(err => {
-    jetpack.append("../errors.txt", err);
+    jetpack.append(`${jetpack.cwd()}/errors.txt`, err);
     console.error(err);
   });
   jetpack.write(`${jetpack.cwd()}/resources/config.json`, config);
