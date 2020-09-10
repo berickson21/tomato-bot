@@ -1,18 +1,18 @@
 {
-  "totalMessages": 1389,
+  "totalMessages": 1396,
   "totalShipRequests": {
     "Kléber": 26,
     "Harugumo": 41,
     "Hindenburg": 35,
     "Kremlin": 23,
     "Goliath": 21,
-    "Conqueror": 6,
+    "Conqueror": 7,
     "Mainz": 7,
-    "Des Moines": 41,
+    "Des Moines": 42,
     "Großer Kurfürst": 22,
     "Midway": 24,
     "Massachusetts": 15,
-    "Zaō": 18,
+    "Zaō": 19,
     "Montana": 27,
     "Georgia": 20,
     "Flint": 2,
@@ -27,7 +27,7 @@
     "Stalingrad": 10,
     "Halland": 32,
     "Tallinn": 15,
-    "Daring": 20,
+    "Daring": 21,
     "Hakuryū": 20,
     "Prinz Eugen": 1,
     "Gearing": 20,
@@ -329,6 +329,7 @@
     "n. carolina": 1,
     "maas": 1,
     "liber": 1,
-    "desmoin": 1
+    "desmoin": 1,
+    "player30": 1
   }
 }
