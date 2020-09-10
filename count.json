@@ -1,5 +1,5 @@
 {
-  "totalMessages": 1382,
+  "totalMessages": 1389,
   "totalShipRequests": {
     "Kléber": 26,
     "Harugumo": 41,
@@ -7,7 +7,7 @@
     "Kremlin": 23,
     "Goliath": 21,
     "Conqueror": 6,
-    "Mainz": 6,
+    "Mainz": 7,
     "Des Moines": 41,
     "Großer Kurfürst": 22,
     "Midway": 24,
@@ -16,7 +16,7 @@
     "Montana": 27,
     "Georgia": 20,
     "Flint": 2,
-    "Atlanta": 5,
+    "Atlanta": 6,
     "Moskva": 12,
     "Minotaur": 25,
     "Bourgogne": 4,
@@ -30,7 +30,7 @@
     "Daring": 20,
     "Hakuryū": 20,
     "Prinz Eugen": 1,
-    "Gearing": 19,
+    "Gearing": 20,
     "Kaga": 6,
     "Khabarovsk": 9,
     "Shimakaze": 15,
@@ -60,7 +60,7 @@
     "Thunderer": 5,
     "Grozovoi": 14,
     "Katori": 1,
-    "Salem": 1,
+    "Salem": 2,
     "Nelson": 3,
     "Audacious": 6,
     "Riga": 6,
@@ -115,9 +115,9 @@
     "Missouri": 1
   },
   "emptySkills": {
-    "Mainz": 6,
+    "Mainz": 7,
     "Flint": 2,
-    "Atlanta": 5,
+    "Atlanta": 6,
     "Marceau": 1,
     "Odin": 7,
     "Błyskawica": 3,
@@ -159,9 +159,9 @@
     "Rhein": 1
   },
   "emptyUpgrades": {
-    "Mainz": 6,
+    "Mainz": 7,
     "Flint": 2,
-    "Atlanta": 3,
+    "Atlanta": 4,
     "Odin": 7,
     "Kaga": 4,
     "Atago": 6,
@@ -261,7 +261,7 @@
     "v25": 1,
     "starlingrade": 1,
     "shoukaku": 1,
-    "desmoines": 3,
+    "desmoines": 4,
     "grozovi": 1,
     "harugamo": 1,
     "manfred": 2,
@@ -328,6 +328,7 @@
     "shiatsuyu": 1,
     "n. carolina": 1,
     "maas": 1,
-    "liber": 1
+    "liber": 1,
+    "desmoin": 1
   }
 }
