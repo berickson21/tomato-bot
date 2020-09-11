@@ -1,14 +1,14 @@
 {
-  "totalMessages": 1396,
+  "totalMessages": 1410,
   "totalShipRequests": {
     "Kléber": 26,
-    "Harugumo": 41,
+    "Harugumo": 42,
     "Hindenburg": 35,
     "Kremlin": 23,
-    "Goliath": 21,
+    "Goliath": 22,
     "Conqueror": 7,
     "Mainz": 7,
-    "Des Moines": 42,
+    "Des Moines": 43,
     "Großer Kurfürst": 22,
     "Midway": 24,
     "Massachusetts": 15,
@@ -18,7 +18,7 @@
     "Flint": 2,
     "Atlanta": 6,
     "Moskva": 12,
-    "Minotaur": 25,
+    "Minotaur": 26,
     "Bourgogne": 4,
     "Marceau": 1,
     "Henri IV": 13,
@@ -28,7 +28,7 @@
     "Halland": 32,
     "Tallinn": 15,
     "Daring": 21,
-    "Hakuryū": 20,
+    "Hakuryū": 21,
     "Prinz Eugen": 1,
     "Gearing": 20,
     "Kaga": 6,
@@ -40,7 +40,7 @@
     "Venezia": 30,
     "Yoshino": 10,
     "Worcester": 17,
-    "Alexander Nevsky": 31,
+    "Alexander Nevsky": 34,
     "Alaska": 21,
     "Błyskawica": 3,
     "Asashio": 1,
@@ -72,7 +72,7 @@
     "République": 7,
     "Enterprise": 1,
     "Graf Zeppelin": 2,
-    "Puerto Rico": 3,
+    "Puerto Rico": 4,
     "Molotov": 1,
     "Musashi": 2,
     "Warspite": 5,
@@ -112,7 +112,8 @@
     "Erich Loewenhardt": 2,
     "Hayate": 1,
     "Rhein": 1,
-    "Missouri": 1
+    "Missouri": 1,
+    "Krasny Krym": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -156,7 +157,8 @@
     "Pyotr Bagration": 1,
     "Erich Loewenhardt": 2,
     "Hayate": 1,
-    "Rhein": 1
+    "Rhein": 1,
+    "Krasny Krym": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -213,7 +215,8 @@
     "Erich Loewenhardt": 2,
     "Rhein": 1,
     "Missouri": 1,
-    "Kirov": 1
+    "Kirov": 1,
+    "Krasny Krym": 1
   },
   "wrongName": {
     "hinden": 4,
@@ -330,6 +333,10 @@
     "maas": 1,
     "liber": 1,
     "desmoin": 1,
-    "player30": 1
+    "player30": 1,
+    "peurto rico": 1,
+    "krasny": 1,
+    "alexander nevesky": 1,
+    "rus ca": 1
   }
 }
