@@ -1,9 +1,9 @@
 {
-  "totalMessages": 1502,
+  "totalMessages": 1510,
   "totalShipRequests": {
     "Kléber": 28,
     "Harugumo": 47,
-    "Hindenburg": 36,
+    "Hindenburg": 37,
     "Kremlin": 23,
     "Goliath": 24,
     "Conqueror": 10,
@@ -30,7 +30,7 @@
     "Daring": 22,
     "Hakuryū": 24,
     "Prinz Eugen": 1,
-    "Gearing": 21,
+    "Gearing": 22,
     "Kaga": 6,
     "Khabarovsk": 10,
     "Shimakaze": 18,
@@ -40,8 +40,8 @@
     "Venezia": 34,
     "Yoshino": 11,
     "Worcester": 18,
-    "Alexander Nevsky": 38,
-    "Alaska": 22,
+    "Alexander Nevsky": 39,
+    "Alaska": 23,
     "Błyskawica": 3,
     "Asashio": 1,
     "Mikoyan": 2,
@@ -57,7 +57,7 @@
     "Yueyang": 6,
     "Sims": 2,
     "Benham": 2,
-    "Thunderer": 6,
+    "Thunderer": 7,
     "Grozovoi": 16,
     "Katori": 1,
     "Salem": 3,
@@ -69,7 +69,7 @@
     "Ark Royal": 1,
     "T-61": 2,
     "Huanghe": 4,
-    "République": 7,
+    "République": 8,
     "Enterprise": 2,
     "Graf Zeppelin": 2,
     "Puerto Rico": 4,
@@ -116,7 +116,9 @@
     "Krasny Krym": 1,
     "Bayard": 1,
     "August von Parseval": 1,
-    "Murmansk": 1
+    "Murmansk": 1,
+    "Exeter": 1,
+    "Gascogne": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -225,7 +227,9 @@
     "Krasny Krym": 1,
     "Bayard": 1,
     "August von Parseval": 1,
-    "Murmansk": 1
+    "Murmansk": 1,
+    "Exeter": 1,
+    "Gascogne": 1
   },
   "wrongName": {
     "hinden": 4,
