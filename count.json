@@ -1,5 +1,5 @@
 {
-  "totalMessages": 1546,
+  "totalMessages": 1556,
   "totalShipRequests": {
     "Kléber": 30,
     "Harugumo": 49,
@@ -8,9 +8,9 @@
     "Goliath": 24,
     "Conqueror": 10,
     "Mainz": 7,
-    "Des Moines": 45,
+    "Des Moines": 46,
     "Großer Kurfürst": 23,
-    "Midway": 25,
+    "Midway": 27,
     "Massachusetts": 15,
     "Zaō": 21,
     "Montana": 31,
@@ -18,26 +18,26 @@
     "Flint": 2,
     "Atlanta": 8,
     "Moskva": 14,
-    "Minotaur": 27,
+    "Minotaur": 28,
     "Bourgogne": 5,
     "Marceau": 1,
     "Henri IV": 17,
     "Odin": 9,
     "Smolensk": 12,
     "Stalingrad": 12,
-    "Halland": 33,
+    "Halland": 34,
     "Tallinn": 15,
-    "Daring": 23,
+    "Daring": 24,
     "Hakuryū": 24,
     "Prinz Eugen": 1,
-    "Gearing": 23,
+    "Gearing": 24,
     "Kaga": 6,
     "Khabarovsk": 10,
     "Shimakaze": 20,
     "Admiral Graf Spee": 25,
     "Atago": 6,
-    "Cossack": 3,
-    "Venezia": 35,
+    "Cossack": 4,
+    "Venezia": 36,
     "Yoshino": 12,
     "Worcester": 20,
     "Alexander Nevsky": 40,
@@ -119,7 +119,8 @@
     "Murmansk": 1,
     "Exeter": 1,
     "Gascogne": 1,
-    "Kii": 1
+    "Kii": 1,
+    "Hill": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -167,7 +168,8 @@
     "Krasny Krym": 1,
     "Bayard": 1,
     "August von Parseval": 1,
-    "Murmansk": 1
+    "Murmansk": 1,
+    "Hill": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -208,7 +210,7 @@
     "Shinonome": 2,
     "Haida": 2,
     "London": 1,
-    "Cossack": 2,
+    "Cossack": 3,
     "Nelson": 2,
     "Alabama": 1,
     "Friesland": 6,
@@ -231,7 +233,8 @@
     "Murmansk": 1,
     "Exeter": 1,
     "Gascogne": 1,
-    "Kii": 1
+    "Kii": 1,
+    "Hill": 1
   },
   "wrongName": {
     "hinden": 5,
