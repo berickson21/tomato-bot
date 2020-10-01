@@ -825,7 +825,7 @@
     "type": "destroyer",
     "nation": "italy",
     "tier": 10,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5545,7 +5545,7 @@
     "type": "Battleship",
     "nation": "usa",
     "tier": 7,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5671,6 +5671,111 @@
     "type": "Cruiser",
     "nation": "uk",
     "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Hizen": {
+    "name": "Hizen",
+    "aliases": [
+      "hizen"
+    ],
+    "ship_id": 3750704848,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Strasbourg": {
+    "name": "Strasbourg",
+    "aliases": [
+      "strasbourg"
+    ],
+    "ship_id": 3763287888,
+    "type": "Battleship",
+    "nation": "france",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Plymouth": {
+    "name": "Plymouth",
+    "aliases": [
+      "plymouth"
+    ],
+    "ship_id": 3760109520,
+    "type": "Cruiser",
+    "nation": "uk",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Mysore": {
+    "name": "Mysore",
+    "aliases": [
+      "mysore"
+    ],
+    "ship_id": 3753817456,
+    "type": "Cruiser",
+    "nation": "commonwealth",
+    "tier": 6,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Z-44": {
+    "name": "Z-44",
+    "aliases": [
+      "z-44"
+    ],
+    "ship_id": 3750639408,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 9,
     "is_premium": false,
     "is_special": true,
     "skills": [
