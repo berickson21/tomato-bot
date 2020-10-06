@@ -804,12 +804,7 @@
       "Soon™"
     ],
     "upgrades": [
-      "---",
-      "---",
-      "---",
-      "---",
-      "---",
-      "---"
+      "Soon™"
     ],
     "signals": [
       "Soon™"
@@ -819,6 +814,9 @@
     "name": "Paolo Emilio",
     "aliases": [
       "paolo emilio",
+      "paolo",
+      "paulo",
+      "polo",
       "emilio"
     ],
     "ship_id": 3760076528,
@@ -5573,7 +5571,11 @@
   "Vermont": {
     "name": "Vermont",
     "aliases": [
-      "vermont"
+      "vermont",
+      "kansas",
+      "minnesota",
+      "minesota",
+      "thicc boi"
     ],
     "ship_id": 4179572720,
     "type": "Battleship",
@@ -5582,52 +5584,21 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Soon™"
+      "Priority Target",
+      "Adrenaline Rush",
+      "Superintendent",
+      "Concealment Expert",
+      "Expert Marksman",
+      "Fire Prevention",
+      "Basics of Survivability"
     ],
     "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "Minnesota": {
-    "name": "Minnesota",
-    "aliases": [
-      "minnesota"
-    ],
-    "ship_id": 4180621296,
-    "type": "Battleship",
-    "nation": "usa",
-    "tier": 9,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "Kansas": {
-    "name": "Kansas",
-    "aliases": [
-      "kansas"
-    ],
-    "ship_id": 4181669872,
-    "type": "Battleship",
-    "nation": "usa",
-    "tier": 8,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
+      "Damage Control Party Modification 1",
+      "Damage Control Modification 1",
+      "Plotting Room Modification 1",
+      "Damage Control Modification 2",
+      "Concealment System Modification 1",
+      "Artillery Plotting Room Modification 2"
     ],
     "signals": [
       "Soon™"
@@ -5789,6 +5760,48 @@
     "type": "Destroyer",
     "nation": "germany",
     "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Minnesota": {
+    "name": "Minnesota",
+    "aliases": [
+      "minnesota"
+    ],
+    "ship_id": 4180621296,
+    "type": "Battleship",
+    "nation": "usa",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Kansas": {
+    "name": "Kansas",
+    "aliases": [
+      "kansas"
+    ],
+    "ship_id": 4181669872,
+    "type": "Battleship",
+    "nation": "usa",
+    "tier": 8,
     "is_premium": false,
     "is_special": true,
     "skills": [
