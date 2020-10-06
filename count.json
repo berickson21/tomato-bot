@@ -1,15 +1,15 @@
 {
-  "totalMessages": 1705,
+  "totalMessages": 1710,
   "totalShipRequests": {
     "Kléber": 32,
     "Harugumo": 54,
     "Hindenburg": 44,
     "Kremlin": 26,
-    "Goliath": 27,
+    "Goliath": 28,
     "Conqueror": 12,
     "Mainz": 7,
     "Des Moines": 48,
-    "Großer Kurfürst": 28,
+    "Großer Kurfürst": 29,
     "Midway": 30,
     "Massachusetts": 17,
     "Zaō": 25,
@@ -33,7 +33,7 @@
     "Gearing": 27,
     "Kaga": 6,
     "Khabarovsk": 11,
-    "Shimakaze": 22,
+    "Shimakaze": 23,
     "Admiral Graf Spee": 25,
     "Atago": 6,
     "Cossack": 4,
@@ -123,7 +123,8 @@
     "Hill": 1,
     "Vanguard": 1,
     "Irian": 1,
-    "Anchorage": 1
+    "Anchorage": 1,
+    "Duca d'Aosta": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -174,7 +175,8 @@
     "Murmansk": 1,
     "Hill": 1,
     "Irian": 1,
-    "Anchorage": 1
+    "Anchorage": 1,
+    "Duca d'Aosta": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -242,7 +244,8 @@
     "Hill": 1,
     "Vanguard": 1,
     "Irian": 1,
-    "Anchorage": 1
+    "Anchorage": 1,
+    "Duca d'Aosta": 1
   },
   "wrongName": {
     "hinden": 5,
@@ -392,6 +395,7 @@
     "alg": 1,
     "parseval": 1,
     "a. parseval": 1,
-    "grosser kürfurst": 1
+    "grosser kürfurst": 1,
+    "paolo": 1
   }
 }
