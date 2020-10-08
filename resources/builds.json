@@ -4282,33 +4282,24 @@
   "Manfred von Richthofen": {
     "name": "Manfred von Richthofen",
     "aliases": [
-      "manfred von richthofen"
+      "manfred von richthofen",
+      "manfred von richtoffen",
+      "manfred von richtofen",
+      "manfred von richtoffen",
+      "manfred",
+      "richtofen",
+      "rhein",
+      "rhine",
+      "august von parseval",
+      "august von parceval",
+      "august",
+      "parseval",
+      "von parseval"
     ],
     "ship_id": 4179605296,
     "type": "AirCarrier",
     "nation": "germany",
     "tier": 10,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "August von Parseval": {
-    "name": "August von Parseval",
-    "aliases": [
-      "august von parseval"
-    ],
-    "ship_id": 4181702448,
-    "type": "AirCarrier",
-    "nation": "germany",
-    "tier": 8,
     "is_premium": false,
     "is_special": true,
     "skills": [
@@ -4330,27 +4321,6 @@
     "type": "AirCarrier",
     "nation": "germany",
     "tier": 6,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ]
-  },
-  "Rhein": {
-    "name": "Rhein",
-    "aliases": [
-      "rhein"
-    ],
-    "ship_id": 4185896752,
-    "type": "AirCarrier",
-    "nation": "germany",
-    "tier": 4,
     "is_premium": false,
     "is_special": true,
     "skills": [
