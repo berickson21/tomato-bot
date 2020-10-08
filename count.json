@@ -1,11 +1,11 @@
 {
-  "totalMessages": 1723,
+  "totalMessages": 1729,
   "totalShipRequests": {
-    "Kléber": 32,
+    "Kléber": 33,
     "Harugumo": 54,
     "Hindenburg": 44,
     "Kremlin": 27,
-    "Goliath": 28,
+    "Goliath": 29,
     "Conqueror": 12,
     "Mainz": 7,
     "Des Moines": 48,
@@ -23,7 +23,7 @@
     "Marceau": 2,
     "Henri IV": 19,
     "Odin": 10,
-    "Smolensk": 13,
+    "Smolensk": 14,
     "Stalingrad": 13,
     "Halland": 36,
     "Tallinn": 15,
@@ -65,7 +65,7 @@
     "Audacious": 6,
     "Riga": 6,
     "Scharnhorst": 3,
-    "Petropavlovsk": 34,
+    "Petropavlovsk": 35,
     "Ark Royal": 1,
     "T-61": 2,
     "Huanghe": 5,
@@ -123,7 +123,7 @@
     "Hill": 1,
     "Vanguard": 1,
     "Irian": 1,
-    "Anchorage": 1,
+    "Anchorage": 3,
     "Duca d'Aosta": 1
   },
   "emptySkills": {
@@ -175,7 +175,6 @@
     "Murmansk": 1,
     "Hill": 1,
     "Irian": 1,
-    "Anchorage": 1,
     "Duca d'Aosta": 1
   },
   "emptyUpgrades": {
@@ -244,7 +243,6 @@
     "Hill": 1,
     "Vanguard": 1,
     "Irian": 1,
-    "Anchorage": 1,
     "Duca d'Aosta": 1
   },
   "wrongName": {
