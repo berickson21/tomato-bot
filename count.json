@@ -1,5 +1,5 @@
 {
-  "totalMessages": 1729,
+  "totalMessages": 1734,
   "totalShipRequests": {
     "Kléber": 33,
     "Harugumo": 54,
@@ -18,14 +18,14 @@
     "Flint": 2,
     "Atlanta": 8,
     "Moskva": 17,
-    "Minotaur": 31,
+    "Minotaur": 32,
     "Bourgogne": 6,
     "Marceau": 2,
-    "Henri IV": 19,
+    "Henri IV": 20,
     "Odin": 10,
     "Smolensk": 14,
     "Stalingrad": 13,
-    "Halland": 36,
+    "Halland": 37,
     "Tallinn": 15,
     "Daring": 27,
     "Hakuryū": 28,
@@ -62,7 +62,7 @@
     "Katori": 1,
     "Salem": 3,
     "Nelson": 4,
-    "Audacious": 6,
+    "Audacious": 7,
     "Riga": 6,
     "Scharnhorst": 3,
     "Petropavlovsk": 35,
@@ -394,6 +394,7 @@
     "parseval": 1,
     "a. parseval": 1,
     "grosser kürfurst": 1,
-    "paolo": 1
+    "paolo": 1,
+    "indomtable": 1
   }
 }
