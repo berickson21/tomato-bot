@@ -4303,10 +4303,21 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Soon™"
+      "Air Supremacy",
+      "Improved Engines",
+      "Aircraft Armor",
+      "Concealment Expert",
+      "Improved Engine Boost",
+      "Advanced Firing Training",
+      "Survivability Expert"
     ],
     "upgrades": [
-      "Soon™"
+      "Air Groups Modification 1",
+      "Aircraft Engines Modification 1",
+      "Secondary Battery Modification 2",
+      "Bombers Modification 2",
+      "Flight Control Modification 1",
+      "Flight Control Modification 2"
     ],
     "signals": [
       "Soon™"
