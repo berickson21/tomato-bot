@@ -1,11 +1,11 @@
 {
-  "totalMessages": 1803,
+  "totalMessages": 1810,
   "totalShipRequests": {
-    "Kléber": 34,
+    "Kléber": 35,
     "Harugumo": 56,
     "Hindenburg": 46,
     "Kremlin": 29,
-    "Goliath": 29,
+    "Goliath": 30,
     "Conqueror": 12,
     "Mainz": 7,
     "Des Moines": 52,
@@ -20,12 +20,12 @@
     "Moskva": 19,
     "Minotaur": 32,
     "Bourgogne": 6,
-    "Marceau": 2,
+    "Marceau": 3,
     "Henri IV": 21,
     "Odin": 10,
     "Smolensk": 14,
     "Stalingrad": 14,
-    "Halland": 37,
+    "Halland": 38,
     "Tallinn": 15,
     "Daring": 28,
     "Hakuryū": 28,
@@ -37,9 +37,9 @@
     "Admiral Graf Spee": 25,
     "Atago": 6,
     "Cossack": 4,
-    "Venezia": 43,
+    "Venezia": 44,
     "Yoshino": 15,
-    "Worcester": 24,
+    "Worcester": 25,
     "Alexander Nevsky": 46,
     "Alaska": 24,
     "Błyskawica": 3,
@@ -125,13 +125,14 @@
     "Irian": 1,
     "Anchorage": 6,
     "Duca d'Aosta": 1,
-    "Vermont": 2
+    "Vermont": 2,
+    "Leningrad": 1
   },
   "emptySkills": {
     "Mainz": 7,
     "Flint": 2,
     "Atlanta": 8,
-    "Marceau": 2,
+    "Marceau": 3,
     "Odin": 10,
     "Błyskawica": 3,
     "Mikoyan": 2,
@@ -244,7 +245,8 @@
     "Vanguard": 1,
     "Irian": 1,
     "Duca d'Aosta": 1,
-    "Shikishima": 1
+    "Shikishima": 1,
+    "Leningrad": 1
   },
   "wrongName": {
     "hinden": 5,
