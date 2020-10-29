@@ -5626,7 +5626,7 @@
     "type": "Battleship",
     "nation": "usa",
     "tier": 5,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5647,7 +5647,7 @@
     "type": "Cruiser",
     "nation": "uk",
     "tier": 8,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -5796,6 +5796,342 @@
     "tier": 8,
     "is_premium": false,
     "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Kaga B": {
+    "name": "Kaga B",
+    "aliases": [
+      "kaga b"
+    ],
+    "ship_id": 3667900112,
+    "type": "AirCarrier",
+    "nation": "japan",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Werner Voss": {
+    "name": "Werner Voss",
+    "aliases": [
+      "werner voss"
+    ],
+    "ship_id": 3760174896,
+    "type": "AirCarrier",
+    "nation": "germany",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Ise 3": {
+    "name": "Ise 3",
+    "aliases": [
+      "ise 3"
+    ],
+    "ship_id": 3334420176,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 6,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Ise 2": {
+    "name": "Ise 2",
+    "aliases": [
+      "ise 2"
+    ],
+    "ship_id": 3344905936,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 6,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Ise": {
+    "name": "Ise",
+    "aliases": [
+      "ise"
+    ],
+    "ship_id": 3743364816,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 6,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Jean Bart B": {
+    "name": "Jean Bart B",
+    "aliases": [
+      "jean bart b"
+    ],
+    "ship_id": 3666818896,
+    "type": "Battleship",
+    "nation": "france",
+    "tier": 9,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Cristoforo Colombo": {
+    "name": "Cristoforo Colombo",
+    "aliases": [
+      "cristoforo colombo"
+    ],
+    "ship_id": 4179572464,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Vittorio Veneto": {
+    "name": "Vittorio Veneto",
+    "aliases": [
+      "vittorio veneto"
+    ],
+    "ship_id": 4181669616,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Francesco Caracciolo": {
+    "name": "Francesco Caracciolo",
+    "aliases": [
+      "francesco caracciolo"
+    ],
+    "ship_id": 4182718192,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Andrea Doria": {
+    "name": "Andrea Doria",
+    "aliases": [
+      "andrea doria"
+    ],
+    "ship_id": 4183766768,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 6,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Atlanta B": {
+    "name": "Atlanta B",
+    "aliases": [
+      "atlanta b"
+    ],
+    "ship_id": 3679369200,
+    "type": "Cruiser",
+    "nation": "usa",
+    "tier": 7,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Tone 3": {
+    "name": "Tone 3",
+    "aliases": [
+      "tone 3"
+    ],
+    "ship_id": 3331241680,
+    "type": "Cruiser",
+    "nation": "japan",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Tone 2": {
+    "name": "Tone 2",
+    "aliases": [
+      "tone 2"
+    ],
+    "ship_id": 3332290256,
+    "type": "Cruiser",
+    "nation": "japan",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Tone": {
+    "name": "Tone",
+    "aliases": [
+      "tone"
+    ],
+    "ship_id": 4276008656,
+    "type": "Cruiser",
+    "nation": "japan",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Almirante Abreu": {
+    "name": "Almirante Abreu",
+    "aliases": [
+      "almirante abreu"
+    ],
+    "ship_id": 3768497488,
+    "type": "Cruiser",
+    "nation": "pan_america",
+    "tier": 2,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Cossack B": {
+    "name": "Cossack B",
+    "aliases": [
+      "cossack b"
+    ],
+    "ship_id": 3667802064,
+    "type": "Destroyer",
+    "nation": "uk",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
     "skills": [
       "Soon™"
     ],
