@@ -1,17 +1,17 @@
 {
-  "totalMessages": 2031,
+  "totalMessages": 2041,
   "totalShipRequests": {
     "Kléber": 38,
     "Harugumo": 60,
     "Hindenburg": 50,
-    "Kremlin": 32,
-    "Goliath": 35,
+    "Kremlin": 33,
+    "Goliath": 36,
     "Conqueror": 15,
     "Mainz": 7,
     "Des Moines": 63,
     "Großer Kurfürst": 33,
     "Midway": 34,
-    "Massachusetts": 18,
+    "Massachusetts": 19,
     "Zaō": 28,
     "Montana": 45,
     "Georgia": 27,
@@ -25,10 +25,10 @@
     "Odin": 12,
     "Smolensk": 17,
     "Stalingrad": 18,
-    "Halland": 45,
+    "Halland": 46,
     "Tallinn": 15,
     "Daring": 30,
-    "Hakuryū": 33,
+    "Hakuryū": 34,
     "Prinz Eugen": 1,
     "Gearing": 34,
     "Kaga": 6,
@@ -37,7 +37,7 @@
     "Admiral Graf Spee": 25,
     "Atago": 6,
     "Cossack": 4,
-    "Venezia": 46,
+    "Venezia": 47,
     "Yoshino": 16,
     "Worcester": 30,
     "Alexander Nevsky": 53,
@@ -81,7 +81,7 @@
     "Lenin": 4,
     "Slava": 3,
     "Yamato": 29,
-    "Manfred von Richthofen": 15,
+    "Manfred von Richthofen": 17,
     "Paolo Emilio": 1,
     "Azuma": 3,
     "Roma": 4,
@@ -127,7 +127,8 @@
     "Duca d'Aosta": 1,
     "Vermont": 4,
     "Leningrad": 1,
-    "Kronshtadt": 2
+    "Kronshtadt": 2,
+    "Belfast": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -177,7 +178,8 @@
     "Hill": 1,
     "Irian": 1,
     "Duca d'Aosta": 1,
-    "Kronshtadt": 2
+    "Kronshtadt": 2,
+    "Belfast": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -247,7 +249,8 @@
     "Duca d'Aosta": 1,
     "Shikishima": 1,
     "Leningrad": 1,
-    "Kronshtadt": 2
+    "Kronshtadt": 2,
+    "Belfast": 1
   },
   "wrongName": {
     "hinden": 5,
@@ -268,7 +271,7 @@
     "charlestone": 1,
     "raimondo": 1,
     "kurfurst": 10,
-    "hak": 4,
+    "hak": 5,
     "jean": 1,
     "poop": 1,
     "massa": 2,
