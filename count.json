@@ -1,7 +1,7 @@
 {
-  "totalMessages": 2117,
+  "totalMessages": 2124,
   "totalShipRequests": {
-    "Kléber": 40,
+    "Kléber": 41,
     "Harugumo": 62,
     "Hindenburg": 52,
     "Kremlin": 36,
@@ -9,7 +9,7 @@
     "Conqueror": 15,
     "Mainz": 7,
     "Des Moines": 63,
-    "Großer Kurfürst": 33,
+    "Großer Kurfürst": 34,
     "Midway": 36,
     "Massachusetts": 20,
     "Zaō": 29,
@@ -18,7 +18,7 @@
     "Flint": 3,
     "Atlanta": 9,
     "Moskva": 20,
-    "Minotaur": 41,
+    "Minotaur": 42,
     "Bourgogne": 6,
     "Marceau": 6,
     "Henri IV": 23,
@@ -27,7 +27,7 @@
     "Stalingrad": 18,
     "Halland": 50,
     "Tallinn": 15,
-    "Daring": 32,
+    "Daring": 33,
     "Hakuryū": 36,
     "Prinz Eugen": 1,
     "Gearing": 35,
@@ -74,7 +74,7 @@
     "Graf Zeppelin": 3,
     "Puerto Rico": 6,
     "Molotov": 1,
-    "Musashi": 2,
+    "Musashi": 3,
     "Warspite": 8,
     "Aigle": 3,
     "Loyang": 1,
@@ -129,7 +129,8 @@
     "Leningrad": 1,
     "Kronshtadt": 2,
     "Belfast": 1,
-    "Ashitaka": 1
+    "Ashitaka": 1,
+    "Florida": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -181,7 +182,8 @@
     "Duca d'Aosta": 1,
     "Kronshtadt": 2,
     "Belfast": 1,
-    "Ashitaka": 1
+    "Ashitaka": 1,
+    "Florida": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -208,7 +210,7 @@
     "Enterprise": 2,
     "Graf Zeppelin": 2,
     "Molotov": 1,
-    "Musashi": 2,
+    "Musashi": 3,
     "Warspite": 8,
     "Aigle": 2,
     "Lenin": 4,
@@ -254,7 +256,8 @@
     "Kronshtadt": 2,
     "Belfast": 1,
     "Ashitaka": 1,
-    "Hayate": 1
+    "Hayate": 1,
+    "Florida": 1
   },
   "wrongName": {
     "hinden": 5,
@@ -291,7 +294,7 @@
     "z46": 2,
     "petropavlosk": 2,
     "soyuz": 3,
-    "sovetsky": 1,
+    "sovetsky": 2,
     "talkin": 1,
     "auguat von parseval": 1,
     "porto rico": 2,
