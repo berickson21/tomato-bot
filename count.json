@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2124,
+  "totalMessages": 2131,
   "totalShipRequests": {
     "Kléber": 41,
     "Harugumo": 62,
@@ -21,7 +21,7 @@
     "Minotaur": 42,
     "Bourgogne": 6,
     "Marceau": 6,
-    "Henri IV": 23,
+    "Henri IV": 24,
     "Odin": 12,
     "Smolensk": 18,
     "Stalingrad": 18,
@@ -37,7 +37,7 @@
     "Admiral Graf Spee": 25,
     "Atago": 6,
     "Cossack": 4,
-    "Venezia": 50,
+    "Venezia": 51,
     "Yoshino": 16,
     "Worcester": 31,
     "Alexander Nevsky": 56,
@@ -58,14 +58,14 @@
     "Sims": 3,
     "Benham": 3,
     "Thunderer": 15,
-    "Grozovoi": 23,
+    "Grozovoi": 24,
     "Katori": 2,
     "Salem": 3,
     "Nelson": 4,
     "Audacious": 10,
     "Riga": 6,
     "Scharnhorst": 3,
-    "Petropavlovsk": 50,
+    "Petropavlovsk": 51,
     "Ark Royal": 1,
     "T-61": 2,
     "Huanghe": 5,
@@ -81,7 +81,7 @@
     "Lenin": 4,
     "Slava": 3,
     "Yamato": 30,
-    "Manfred von Richthofen": 18,
+    "Manfred von Richthofen": 19,
     "Paolo Emilio": 1,
     "Azuma": 3,
     "Roma": 4,
@@ -130,7 +130,8 @@
     "Kronshtadt": 2,
     "Belfast": 1,
     "Ashitaka": 1,
-    "Florida": 1
+    "Florida": 1,
+    "Texas": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -257,7 +258,8 @@
     "Belfast": 1,
     "Ashitaka": 1,
     "Hayate": 1,
-    "Florida": 1
+    "Florida": 1,
+    "Texas": 1
   },
   "wrongName": {
     "hinden": 5,
@@ -387,7 +389,7 @@
     "hara": 1,
     "wesser": 1,
     "august": 1,
-    "mvr": 4,
+    "mvr": 5,
     "m richtofen": 1,
     "henry": 1,
     "room": 1,
