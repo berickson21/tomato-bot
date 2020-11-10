@@ -1,15 +1,15 @@
 {
-  "totalMessages": 2148,
+  "totalMessages": 2156,
   "totalShipRequests": {
     "Kléber": 43,
     "Harugumo": 62,
     "Hindenburg": 54,
-    "Kremlin": 37,
+    "Kremlin": 38,
     "Goliath": 37,
     "Conqueror": 15,
     "Mainz": 7,
     "Des Moines": 65,
-    "Großer Kurfürst": 34,
+    "Großer Kurfürst": 35,
     "Midway": 36,
     "Massachusetts": 20,
     "Zaō": 29,
@@ -18,7 +18,7 @@
     "Flint": 3,
     "Atlanta": 9,
     "Moskva": 20,
-    "Minotaur": 43,
+    "Minotaur": 46,
     "Bourgogne": 6,
     "Marceau": 6,
     "Henri IV": 24,
@@ -38,7 +38,7 @@
     "Atago": 6,
     "Cossack": 4,
     "Venezia": 52,
-    "Yoshino": 16,
+    "Yoshino": 17,
     "Worcester": 31,
     "Alexander Nevsky": 56,
     "Alaska": 29,
@@ -279,7 +279,7 @@
     "hinderburg": 1,
     "charlestone": 1,
     "raimondo": 1,
-    "kurfurst": 10,
+    "kurfurst": 11,
     "hak": 6,
     "jean": 1,
     "poop": 1,
@@ -445,6 +445,7 @@
     "rico": 1,
     "fdr": 1,
     "petra": 1,
-    "newmexico": 1
+    "newmexico": 1,
+    "kur": 1
   }
 }
