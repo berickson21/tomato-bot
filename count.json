@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2170,
+  "totalMessages": 2173,
   "totalShipRequests": {
     "Kléber": 43,
     "Harugumo": 62,
@@ -54,7 +54,7 @@
     "W. Virginia 1941": 1,
     "Z-52": 26,
     "Giulio Cesare": 1,
-    "Yueyang": 14,
+    "Yueyang": 15,
     "Sims": 4,
     "Benham": 3,
     "Thunderer": 15,
@@ -64,7 +64,7 @@
     "Nelson": 5,
     "Audacious": 10,
     "Riga": 6,
-    "Scharnhorst": 3,
+    "Scharnhorst": 4,
     "Petropavlovsk": 53,
     "Ark Royal": 1,
     "T-61": 2,
@@ -131,7 +131,8 @@
     "Belfast": 1,
     "Ashitaka": 1,
     "Florida": 1,
-    "Texas": 1
+    "Texas": 1,
+    "Oklahoma": 1
   },
   "emptySkills": {
     "Mainz": 7,
@@ -146,7 +147,7 @@
     "Perth": 6,
     "Sims": 4,
     "Katori": 2,
-    "Scharnhorst": 3,
+    "Scharnhorst": 4,
     "Ark Royal": 1,
     "Huanghe": 5,
     "Graf Zeppelin": 4,
@@ -184,7 +185,8 @@
     "Kronshtadt": 2,
     "Belfast": 1,
     "Ashitaka": 1,
-    "Florida": 1
+    "Florida": 1,
+    "Oklahoma": 1
   },
   "emptyUpgrades": {
     "Mainz": 7,
@@ -204,7 +206,7 @@
     "Sims": 4,
     "Benham": 3,
     "Katori": 2,
-    "Scharnhorst": 3,
+    "Scharnhorst": 4,
     "Ark Royal": 1,
     "T-61": 2,
     "Huanghe": 4,
@@ -259,7 +261,8 @@
     "Ashitaka": 1,
     "Hayate": 1,
     "Florida": 1,
-    "Texas": 1
+    "Texas": 1,
+    "Oklahoma": 1
   },
   "wrongName": {
     "hinden": 5,
