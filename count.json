@@ -1,8 +1,8 @@
 {
-  "totalMessages": 2250,
+  "totalMessages": 2260,
   "totalShipRequests": {
     "Kléber": 45,
-    "Harugumo": 63,
+    "Harugumo": 64,
     "Hindenburg": 59,
     "Kremlin": 40,
     "Goliath": 39,
@@ -11,9 +11,9 @@
     "Des Moines": 68,
     "Großer Kurfürst": 36,
     "Midway": 38,
-    "Massachusetts": 20,
+    "Massachusetts": 21,
     "Zaō": 32,
-    "Montana": 51,
+    "Montana": 52,
     "Georgia": 31,
     "Flint": 3,
     "Atlanta": 9,
@@ -25,7 +25,7 @@
     "Odin": 12,
     "Smolensk": 18,
     "Stalingrad": 19,
-    "Halland": 56,
+    "Halland": 57,
     "Tallinn": 15,
     "Daring": 36,
     "Hakuryū": 38,
@@ -37,11 +37,11 @@
     "Admiral Graf Spee": 25,
     "Atago": 6,
     "Cossack": 5,
-    "Venezia": 55,
+    "Venezia": 56,
     "Yoshino": 17,
     "Worcester": 33,
     "Alexander Nevsky": 59,
-    "Alaska": 29,
+    "Alaska": 30,
     "Błyskawica": 3,
     "Asashio": 1,
     "Mikoyan": 2,
@@ -58,7 +58,7 @@
     "Sims": 4,
     "Benham": 3,
     "Thunderer": 19,
-    "Grozovoi": 26,
+    "Grozovoi": 27,
     "Katori": 2,
     "Salem": 3,
     "Nelson": 6,
@@ -87,7 +87,7 @@
     "Roma": 4,
     "AL Littorio": 1,
     "Weser": 12,
-    "Shinonome": 3,
+    "Shinonome": 4,
     "Haida": 3,
     "London": 1,
     "Alabama": 1,
@@ -132,7 +132,7 @@
     "Ashitaka": 1,
     "Florida": 1,
     "Texas": 1,
-    "Oklahoma": 1
+    "Oklahoma": 2
   },
   "emptySkills": {
     "Mainz": 7,
@@ -224,7 +224,7 @@
     "Roma": 4,
     "AL Littorio": 1,
     "Weser": 12,
-    "Shinonome": 3,
+    "Shinonome": 4,
     "Haida": 3,
     "London": 1,
     "Cossack": 4,
@@ -262,7 +262,7 @@
     "Hayate": 1,
     "Florida": 1,
     "Texas": 1,
-    "Oklahoma": 1
+    "Oklahoma": 2
   },
   "wrongName": {
     "hinden": 5,
@@ -451,6 +451,7 @@
     "newmexico": 1,
     "kur": 1,
     "desmones": 1,
-    "lexi": 1
+    "lexi": 1,
+    "asteras": 1
   }
 }
