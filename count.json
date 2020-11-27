@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2273,
+  "totalMessages": 2278,
   "totalShipRequests": {
     "Kléber": 45,
     "Harugumo": 64,
@@ -16,7 +16,7 @@
     "Montana": 52,
     "Georgia": 31,
     "Flint": 3,
-    "Atlanta": 9,
+    "Atlanta": 10,
     "Moskva": 20,
     "Minotaur": 48,
     "Bourgogne": 6,
@@ -49,7 +49,7 @@
     "Kirov": 3,
     "Ohio": 3,
     "Kidd": 4,
-    "Jean Bart": 3,
+    "Jean Bart": 4,
     "Perth": 6,
     "W. Virginia 1941": 1,
     "Z-52": 31,
@@ -58,7 +58,7 @@
     "Sims": 4,
     "Benham": 3,
     "Thunderer": 19,
-    "Grozovoi": 27,
+    "Grozovoi": 28,
     "Katori": 2,
     "Salem": 3,
     "Nelson": 6,
@@ -80,7 +80,7 @@
     "Loyang": 1,
     "Lenin": 4,
     "Slava": 4,
-    "Yamato": 32,
+    "Yamato": 33,
     "Manfred von Richthofen": 20,
     "Paolo Emilio": 1,
     "Azuma": 3,
@@ -137,7 +137,7 @@
   "emptySkills": {
     "Mainz": 7,
     "Flint": 3,
-    "Atlanta": 9,
+    "Atlanta": 10,
     "Marceau": 6,
     "Odin": 12,
     "Błyskawica": 3,
@@ -191,7 +191,7 @@
   "emptyUpgrades": {
     "Mainz": 7,
     "Flint": 3,
-    "Atlanta": 7,
+    "Atlanta": 8,
     "Odin": 12,
     "Kaga": 4,
     "Atago": 7,
@@ -199,7 +199,7 @@
     "Asashio": 1,
     "Charleston": 2,
     "Kidd": 4,
-    "Jean Bart": 2,
+    "Jean Bart": 3,
     "Perth": 4,
     "W. Virginia 1941": 1,
     "Giulio Cesare": 1,
@@ -454,6 +454,7 @@
     "lexi": 1,
     "asteras": 1,
     "roosevelt": 1,
-    "charles": 1
+    "charles": 1,
+    "grozo": 1
   }
 }
