@@ -5752,7 +5752,7 @@
     "type": "Destroyer",
     "nation": "germany",
     "tier": 9,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6132,6 +6132,132 @@
     "tier": 8,
     "is_premium": true,
     "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Marco Polo": {
+    "name": "Marco Polo",
+    "aliases": [
+      "marco polo"
+    ],
+    "ship_id": 3761190640,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Lepanto": {
+    "name": "Lepanto",
+    "aliases": [
+      "lepanto"
+    ],
+    "ship_id": 4180621040,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Conte di Cavour": {
+    "name": "Conte di Cavour",
+    "aliases": [
+      "conte di cavour"
+    ],
+    "ship_id": 4184815344,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 5,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Dante Alighieri": {
+    "name": "Dante Alighieri",
+    "aliases": [
+      "dante alighieri"
+    ],
+    "ship_id": 4185863920,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 4,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Fen Yang": {
+    "name": "Fen Yang",
+    "aliases": [
+      "fen yang"
+    ],
+    "ship_id": 3751687376,
+    "type": "Destroyer",
+    "nation": "pan_asia",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Vampire II": {
+    "name": "Vampire II",
+    "aliases": [
+      "vampire ii"
+    ],
+    "ship_id": 3760076144,
+    "type": "Destroyer",
+    "nation": "commonwealth",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
     "skills": [
       "Soon™"
     ],
