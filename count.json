@@ -1,19 +1,19 @@
 {
-  "totalMessages": 2485,
+  "totalMessages": 2501,
   "totalShipRequests": {
-    "Kléber": 50,
+    "Kléber": 51,
     "Harugumo": 70,
     "Hindenburg": 63,
     "Kremlin": 40,
     "Goliath": 45,
     "Conqueror": 18,
     "Mainz": 8,
-    "Des Moines": 73,
+    "Des Moines": 74,
     "Großer Kurfürst": 38,
     "Midway": 42,
-    "Massachusetts": 24,
-    "Zaō": 34,
-    "Montana": 53,
+    "Massachusetts": 25,
+    "Zaō": 35,
+    "Montana": 54,
     "Georgia": 32,
     "Flint": 3,
     "Atlanta": 12,
@@ -24,16 +24,16 @@
     "Henri IV": 27,
     "Odin": 12,
     "Smolensk": 19,
-    "Stalingrad": 20,
+    "Stalingrad": 21,
     "Halland": 64,
     "Tallinn": 15,
-    "Daring": 41,
+    "Daring": 44,
     "Hakuryū": 42,
     "Prinz Eugen": 2,
     "Gearing": 37,
     "Kaga": 8,
-    "Khabarovsk": 20,
-    "Shimakaze": 39,
+    "Khabarovsk": 21,
+    "Shimakaze": 40,
     "Admiral Graf Spee": 25,
     "Atago": 8,
     "Cossack": 10,
@@ -57,7 +57,7 @@
     "Yueyang": 19,
     "Sims": 4,
     "Benham": 4,
-    "Thunderer": 22,
+    "Thunderer": 23,
     "Grozovoi": 32,
     "Katori": 2,
     "Salem": 3,
@@ -65,7 +65,7 @@
     "Audacious": 14,
     "Riga": 6,
     "Scharnhorst": 5,
-    "Petropavlovsk": 62,
+    "Petropavlovsk": 63,
     "Ark Royal": 1,
     "T-61": 2,
     "Huanghe": 5,
@@ -125,7 +125,7 @@
     "Irian": 1,
     "Anchorage": 15,
     "Duca d'Aosta": 2,
-    "Vermont": 9,
+    "Vermont": 10,
     "Leningrad": 1,
     "Kronshtadt": 3,
     "Belfast": 1,
@@ -138,7 +138,8 @@
     "Wichita": 1,
     "Neustrashimy": 2,
     "Mikhail Kutuzov": 1,
-    "Ochakov": 1
+    "Ochakov": 1,
+    "Admiral Makarov": 1
   },
   "emptySkills": {
     "Mainz": 8,
@@ -196,7 +197,8 @@
     "Siroco": 1,
     "Neustrashimy": 2,
     "Mikhail Kutuzov": 1,
-    "Ochakov": 1
+    "Ochakov": 1,
+    "Admiral Makarov": 1
   },
   "emptyUpgrades": {
     "Mainz": 8,
@@ -279,7 +281,8 @@
     "Neustrashimy": 2,
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
-    "Prinz Eugen": 1
+    "Prinz Eugen": 1,
+    "Admiral Makarov": 1
   },
   "wrongName": {
     "hinden": 6,
@@ -481,7 +484,7 @@
     "kita": 1,
     "smilensk": 1,
     "yamaot": 2,
-    "makarov": 1,
+    "makarov": 2,
     "hidenburg": 1,
     "neustra": 1
   }
