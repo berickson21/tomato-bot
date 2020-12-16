@@ -1,7 +1,7 @@
 {
-  "totalMessages": 2501,
+  "totalMessages": 2509,
   "totalShipRequests": {
-    "Kléber": 51,
+    "Kléber": 52,
     "Harugumo": 70,
     "Hindenburg": 63,
     "Kremlin": 40,
@@ -10,11 +10,11 @@
     "Mainz": 8,
     "Des Moines": 74,
     "Großer Kurfürst": 38,
-    "Midway": 42,
-    "Massachusetts": 25,
+    "Midway": 43,
+    "Massachusetts": 26,
     "Zaō": 35,
-    "Montana": 54,
-    "Georgia": 32,
+    "Montana": 55,
+    "Georgia": 33,
     "Flint": 3,
     "Atlanta": 12,
     "Moskva": 21,
@@ -25,7 +25,7 @@
     "Odin": 12,
     "Smolensk": 19,
     "Stalingrad": 21,
-    "Halland": 64,
+    "Halland": 65,
     "Tallinn": 15,
     "Daring": 44,
     "Hakuryū": 42,
@@ -43,7 +43,7 @@
     "Alexander Nevsky": 64,
     "Alaska": 38,
     "Błyskawica": 3,
-    "Asashio": 2,
+    "Asashio": 3,
     "Mikoyan": 2,
     "Charleston": 2,
     "Kirov": 5,
@@ -139,7 +139,8 @@
     "Neustrashimy": 2,
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
-    "Admiral Makarov": 1
+    "Admiral Makarov": 1,
+    "Arizona": 1
   },
   "emptySkills": {
     "Mainz": 8,
@@ -208,7 +209,7 @@
     "Kaga": 6,
     "Atago": 8,
     "Błyskawica": 2,
-    "Asashio": 2,
+    "Asashio": 3,
     "Charleston": 2,
     "Kidd": 5,
     "Jean Bart": 11,
@@ -282,7 +283,8 @@
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
     "Prinz Eugen": 1,
-    "Admiral Makarov": 1
+    "Admiral Makarov": 1,
+    "Arizona": 1
   },
   "wrongName": {
     "hinden": 6,
