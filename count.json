@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2575,
+  "totalMessages": 2581,
   "totalShipRequests": {
     "Kléber": 52,
     "Harugumo": 71,
@@ -8,7 +8,7 @@
     "Goliath": 46,
     "Conqueror": 18,
     "Mainz": 9,
-    "Des Moines": 78,
+    "Des Moines": 79,
     "Großer Kurfürst": 38,
     "Midway": 44,
     "Massachusetts": 26,
@@ -24,8 +24,8 @@
     "Henri IV": 27,
     "Odin": 12,
     "Smolensk": 19,
-    "Stalingrad": 21,
-    "Halland": 68,
+    "Stalingrad": 22,
+    "Halland": 69,
     "Tallinn": 15,
     "Daring": 46,
     "Hakuryū": 42,
@@ -125,7 +125,7 @@
     "Irian": 1,
     "Anchorage": 15,
     "Duca d'Aosta": 3,
-    "Vermont": 12,
+    "Vermont": 13,
     "Leningrad": 2,
     "Kronshtadt": 4,
     "Belfast": 1,
@@ -493,6 +493,8 @@
     "a. nevsky": 1,
     "edinbrugh": 1,
     "fleacher": 1,
-    "podvvoisky": 1
+    "podvvoisky": 1,
+    "nueve": 1,
+    "skåne": 1
   }
 }
