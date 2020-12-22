@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2581,
+  "totalMessages": 2590,
   "totalShipRequests": {
     "Kléber": 52,
     "Harugumo": 71,
@@ -8,9 +8,9 @@
     "Goliath": 46,
     "Conqueror": 18,
     "Mainz": 9,
-    "Des Moines": 79,
-    "Großer Kurfürst": 38,
-    "Midway": 44,
+    "Des Moines": 80,
+    "Großer Kurfürst": 40,
+    "Midway": 45,
     "Massachusetts": 26,
     "Zaō": 36,
     "Montana": 55,
@@ -33,7 +33,7 @@
     "Gearing": 38,
     "Kaga": 8,
     "Khabarovsk": 24,
-    "Shimakaze": 41,
+    "Shimakaze": 42,
     "Admiral Graf Spee": 25,
     "Atago": 8,
     "Cossack": 10,
@@ -140,7 +140,8 @@
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
     "Admiral Makarov": 1,
-    "Arizona": 1
+    "Arizona": 1,
+    "Viribus Unitis": 1
   },
   "emptySkills": {
     "Mainz": 9,
@@ -199,7 +200,8 @@
     "Neustrashimy": 3,
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
-    "Admiral Makarov": 1
+    "Admiral Makarov": 1,
+    "Viribus Unitis": 1
   },
   "emptyUpgrades": {
     "Mainz": 9,
@@ -469,7 +471,7 @@
     "ash": 1,
     "porto": 1,
     "rico": 1,
-    "fdr": 3,
+    "fdr": 4,
     "petra": 1,
     "newmexico": 1,
     "kur": 1,
@@ -495,6 +497,7 @@
     "fleacher": 1,
     "podvvoisky": 1,
     "nueve": 1,
-    "skåne": 1
+    "skåne": 1,
+    "fd roosevelt": 1
   }
 }
