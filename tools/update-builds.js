@@ -39,7 +39,7 @@ async function main() {
   });
   jetpack.write(`${jetpack.cwd()}/resources/config.json`, config);
   jetpack.write(`${jetpack.cwd()}/resources/builds.json`, builds);
-  
+
   console.log("done!");
 }
 
@@ -141,7 +141,8 @@ async function getShipsByNationType(type) {
       is_special: buildsShip.is_special || ship.is_special,
       skills: buildsShip.skills || ["Soon™"],
       upgrades: buildsShip.upgrades || ["Soon™"],
-      signals: buildsShip.signals || ["Soon™"]
+      signals: buildsShip.signals || ["Soon™"],
+      note: buildsShip.note || ""
     };
   }
 }
