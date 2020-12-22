@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2575,
+  "totalMessages": 2590,
   "totalShipRequests": {
     "Kléber": 52,
     "Harugumo": 71,
@@ -8,9 +8,9 @@
     "Goliath": 46,
     "Conqueror": 18,
     "Mainz": 9,
-    "Des Moines": 78,
-    "Großer Kurfürst": 38,
-    "Midway": 44,
+    "Des Moines": 80,
+    "Großer Kurfürst": 40,
+    "Midway": 45,
     "Massachusetts": 26,
     "Zaō": 36,
     "Montana": 55,
@@ -24,8 +24,8 @@
     "Henri IV": 27,
     "Odin": 12,
     "Smolensk": 19,
-    "Stalingrad": 21,
-    "Halland": 68,
+    "Stalingrad": 22,
+    "Halland": 69,
     "Tallinn": 15,
     "Daring": 46,
     "Hakuryū": 42,
@@ -33,7 +33,7 @@
     "Gearing": 38,
     "Kaga": 8,
     "Khabarovsk": 24,
-    "Shimakaze": 41,
+    "Shimakaze": 42,
     "Admiral Graf Spee": 25,
     "Atago": 8,
     "Cossack": 10,
@@ -125,7 +125,7 @@
     "Irian": 1,
     "Anchorage": 15,
     "Duca d'Aosta": 3,
-    "Vermont": 12,
+    "Vermont": 13,
     "Leningrad": 2,
     "Kronshtadt": 4,
     "Belfast": 1,
@@ -140,7 +140,8 @@
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
     "Admiral Makarov": 1,
-    "Arizona": 1
+    "Arizona": 1,
+    "Viribus Unitis": 1
   },
   "emptySkills": {
     "Mainz": 9,
@@ -199,7 +200,8 @@
     "Neustrashimy": 3,
     "Mikhail Kutuzov": 1,
     "Ochakov": 1,
-    "Admiral Makarov": 1
+    "Admiral Makarov": 1,
+    "Viribus Unitis": 1
   },
   "emptyUpgrades": {
     "Mainz": 9,
@@ -469,7 +471,7 @@
     "ash": 1,
     "porto": 1,
     "rico": 1,
-    "fdr": 3,
+    "fdr": 4,
     "petra": 1,
     "newmexico": 1,
     "kur": 1,
@@ -493,6 +495,9 @@
     "a. nevsky": 1,
     "edinbrugh": 1,
     "fleacher": 1,
-    "podvvoisky": 1
+    "podvvoisky": 1,
+    "nueve": 1,
+    "skåne": 1,
+    "fd roosevelt": 1
   }
 }
