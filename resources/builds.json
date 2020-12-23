@@ -1,7 +1,9 @@
 {
   "Georgia": {
     "name": "Georgia",
-    "aliases": ["georgia"],
+    "aliases": [
+      "georgia"
+    ],
     "ship_id": 3530504176,
     "type": "battleship",
     "nation": "usa",
@@ -25,12 +27,16 @@
       "Concealment System Modification 1",
       "Artillery Plotting Room Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Salem": {
     "name": "Salem",
-    "aliases": ["salem"],
+    "aliases": [
+      "salem"
+    ],
     "ship_id": 3550394352,
     "type": "cruiser",
     "nation": "usa",
@@ -54,54 +60,84 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Neustrashimy": {
     "name": "Neustrashimy",
-    "aliases": ["neustrashimy", "neuteredshimmy"],
+    "aliases": [
+      "neustrashimy",
+      "neuteredshimmy"
+    ],
     "ship_id": 3551409616,
     "type": "destroyer",
     "nation": "ussr",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Black": {
     "name": "Black",
-    "aliases": ["black"],
+    "aliases": [
+      "black"
+    ],
     "ship_id": 3551410160,
     "type": "destroyer",
     "nation": "usa",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "HSF Harekaze": {
     "name": "HSF Harekaze",
-    "aliases": ["hsf harekaze", "harekaze"],
+    "aliases": [
+      "hsf harekaze",
+      "harekaze"
+    ],
     "ship_id": 3552458448,
     "type": "destroyer",
     "nation": "japan",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Alabama ST": {
     "name": "Alabama ST",
-    "aliases": ["alabama st"],
+    "aliases": [
+      "alabama st"
+    ],
     "ship_id": 3552524272,
     "type": "battleship",
     "nation": "usa",
@@ -117,27 +153,41 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Flint": {
     "name": "Flint",
-    "aliases": ["flint"],
+    "aliases": [
+      "flint"
+    ],
     "ship_id": 3553540080,
     "type": "cruiser",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "California": {
     "name": "California",
-    "aliases": ["california"],
+    "aliases": [
+      "california"
+    ],
     "ship_id": 3553572848,
     "type": "battleship",
     "nation": "usa",
@@ -153,13 +203,19 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Shinonome": {
     "name": "Shinonome",
-    "aliases": ["shinonome"],
+    "aliases": [
+      "shinonome"
+    ],
     "ship_id": 3554555600,
     "type": "destroyer",
     "nation": "japan",
@@ -176,13 +232,19 @@
       "Preventive Maintenance",
       "Basic Firing Training"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Texas": {
     "name": "Texas",
-    "aliases": ["texas"],
+    "aliases": [
+      "texas"
+    ],
     "ship_id": 3555670000,
     "type": "battleship",
     "nation": "usa",
@@ -198,13 +260,22 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Småland": {
     "name": "Småland",
-    "aliases": ["smaland", "smal", "smalad", "small lad"],
+    "aliases": [
+      "smaland",
+      "smal",
+      "smalad",
+      "small lad"
+    ],
     "ship_id": 3655218480,
     "type": "destroyer",
     "nation": "europe",
@@ -229,12 +300,17 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Smolensk": {
     "name": "Smolensk",
-    "aliases": ["smolensk", "smol"],
+    "aliases": [
+      "smolensk",
+      "smol"
+    ],
     "ship_id": 3655251408,
     "type": "cruiser",
     "nation": "ussr",
@@ -258,12 +334,17 @@
       "Concealment System Modification 1",
       "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Puerto Rico": {
     "name": "Puerto Rico",
-    "aliases": ["puerto rico", "pr"],
+    "aliases": [
+      "puerto rico",
+      "pr"
+    ],
     "ship_id": 3655251952,
     "type": "cruiser",
     "nation": "usa",
@@ -288,21 +369,31 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Admiral Makarov": {
     "name": "Admiral Makarov",
-    "aliases": ["admiral makarov"],
+    "aliases": [
+      "admiral makarov"
+    ],
     "ship_id": 3659445712,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Saipan": {
@@ -322,14 +413,23 @@
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Duke of York": {
     "name": "Duke of York",
-    "aliases": ["duke of york", "doy"],
+    "aliases": [
+      "duke of york",
+      "doy"
+    ],
     "ship_id": 3742316496,
     "type": "battleship",
     "nation": "uk",
@@ -345,13 +445,20 @@
       "Fire Prevention",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yoshino": {
     "name": "Yoshino",
-    "aliases": ["yoshino", "yoshi"],
+    "aliases": [
+      "yoshino",
+      "yoshi"
+    ],
     "ship_id": 3749623504,
     "type": "cruiser",
     "nation": "japan",
@@ -375,12 +482,17 @@
       "Concealment System Modification 1",
       "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Asashio": {
     "name": "Asashio",
-    "aliases": ["asashio", "asashio b"],
+    "aliases": [
+      "asashio",
+      "asashio b"
+    ],
     "ship_id": 3751687888,
     "type": "destroyer",
     "nation": "japan",
@@ -397,27 +509,41 @@
       "Preventive Maintenance",
       "Basic Firing Training"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Lazo": {
     "name": "Lazo",
-    "aliases": ["lazo"],
+    "aliases": [
+      "lazo"
+    ],
     "ship_id": 3751720400,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Lenin": {
     "name": "Lenin",
-    "aliases": ["lenin"],
+    "aliases": [
+      "lenin"
+    ],
     "ship_id": 3751753168,
     "type": "battleship",
     "nation": "ussr",
@@ -433,13 +559,19 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Jean Bart": {
     "name": "Jean Bart",
-    "aliases": ["jean bart"],
+    "aliases": [
+      "jean bart"
+    ],
     "ship_id": 3751753552,
     "type": "battleship",
     "nation": "france",
@@ -455,8 +587,12 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Massachusetts": {
@@ -490,12 +626,16 @@
       "Damage Control Modification 2",
       "Concealment System Modification 1"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kaga": {
     "name": "Kaga",
-    "aliases": ["kaga"],
+    "aliases": [
+      "kaga"
+    ],
     "ship_id": 3751786192,
     "type": "aircarrier",
     "nation": "japan",
@@ -511,27 +651,43 @@
       "Torpedo Acceleration",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Graf Zeppelin": {
     "name": "Graf Zeppelin",
-    "aliases": ["graf zeppelin", "gz", "graf zepelin"],
+    "aliases": [
+      "graf zeppelin",
+      "gz",
+      "graf zepelin"
+    ],
     "ship_id": 3751786288,
     "type": "aircarrier",
     "nation": "germany",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Enterprise": {
     "name": "Enterprise",
-    "aliases": ["enterprise"],
+    "aliases": [
+      "enterprise"
+    ],
     "ship_id": 3751786480,
     "type": "aircarrier",
     "nation": "usa",
@@ -547,13 +703,19 @@
       "Torpedo Acceleration",
       "Survivability Expert"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Cossack": {
     "name": "Cossack",
-    "aliases": ["cossack"],
+    "aliases": [
+      "cossack"
+    ],
     "ship_id": 3752736720,
     "type": "destroyer",
     "nation": "uk",
@@ -570,13 +732,19 @@
       "Demolition Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Nelson": {
     "name": "Nelson",
-    "aliases": ["nelson"],
+    "aliases": [
+      "nelson"
+    ],
     "ship_id": 3752802256,
     "type": "battleship",
     "nation": "uk",
@@ -592,27 +760,41 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Varyag": {
     "name": "Varyag",
-    "aliases": ["varyag"],
+    "aliases": [
+      "varyag"
+    ],
     "ship_id": 3756963280,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Friesland": {
     "name": "Friesland",
-    "aliases": ["friesland"],
+    "aliases": [
+      "friesland"
+    ],
     "ship_id": 3760076080,
     "type": "destroyer",
     "nation": "europe",
@@ -628,27 +810,45 @@
       "Basic Firing Training",
       "Adrenaline Rush"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hayate": {
     "name": "Hayate",
-    "aliases": ["hayate"],
+    "aliases": [
+      "hayate"
+    ],
     "ship_id": 3760076496,
     "type": "destroyer",
     "nation": "japan",
     "tier": 10,
     "is_premium": false,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Paolo Emilio": {
     "name": "Paolo Emilio",
-    "aliases": ["paolo emilio", "paolo", "paulo", "polo", "emilio"],
+    "aliases": [
+      "paolo emilio",
+      "paolo",
+      "paulo",
+      "polo",
+      "emilio"
+    ],
     "ship_id": 3760076528,
     "type": "destroyer",
     "nation": "italy",
@@ -674,12 +874,17 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Somers": {
     "name": "Somers",
-    "aliases": ["somers", "summers"],
+    "aliases": [
+      "somers",
+      "summers"
+    ],
     "ship_id": 3760076784,
     "type": "destroyer",
     "nation": "usa",
@@ -704,12 +909,18 @@
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Stalingrad": {
     "name": "Stalingrad",
-    "aliases": ["stalingrad", "stalin", "stalinium"],
+    "aliases": [
+      "stalingrad",
+      "stalin",
+      "stalinium"
+    ],
     "ship_id": 3760109008,
     "type": "cruiser",
     "nation": "ussr",
@@ -733,26 +944,39 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Azuma": {
     "name": "Azuma",
-    "aliases": ["azuma"],
+    "aliases": [
+      "azuma"
+    ],
     "ship_id": 3760109264,
     "type": "cruiser",
     "nation": "japan",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Colbert": {
     "name": "Colbert",
-    "aliases": ["colbert", "colbeert"],
+    "aliases": [
+      "colbert",
+      "colbeert"
+    ],
     "ship_id": 3760109392,
     "type": "cruiser",
     "nation": "france",
@@ -777,12 +1001,17 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Alaska": {
     "name": "Alaska",
-    "aliases": ["alaska", "ak"],
+    "aliases": [
+      "alaska",
+      "ak"
+    ],
     "ship_id": 3760109552,
     "type": "cruiser",
     "nation": "usa",
@@ -807,26 +1036,40 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Slava": {
     "name": "Slava",
-    "aliases": ["slava"],
+    "aliases": [
+      "slava"
+    ],
     "ship_id": 3760141776,
     "type": "battleship",
     "nation": "ussr",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Bourgogne": {
     "name": "Bourgogne",
-    "aliases": ["bourgogne", "borgogne", "baguette"],
+    "aliases": [
+      "bourgogne",
+      "borgogne",
+      "baguette"
+    ],
     "ship_id": 3760142160,
     "type": "battleship",
     "nation": "france",
@@ -850,12 +1093,16 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Thunderer": {
     "name": "Thunderer",
-    "aliases": ["thunderer"],
+    "aliases": [
+      "thunderer"
+    ],
     "ship_id": 3760142288,
     "type": "battleship",
     "nation": "uk",
@@ -879,12 +1126,16 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ohio": {
     "name": "Ohio",
-    "aliases": ["ohio"],
+    "aliases": [
+      "ohio"
+    ],
     "ship_id": 3760142320,
     "type": "battleship",
     "nation": "usa",
@@ -908,12 +1159,16 @@
       "Concealment System Modification 1",
       "Artillery Plotting Room Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Benham": {
     "name": "Benham",
-    "aliases": ["benham"],
+    "aliases": [
+      "benham"
+    ],
     "ship_id": 3761125360,
     "type": "destroyer",
     "nation": "usa",
@@ -930,41 +1185,65 @@
       "Adrenaline Rush",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kronshtadt": {
     "name": "Kronshtadt",
-    "aliases": ["kronshtadt", "kron"],
+    "aliases": [
+      "kronshtadt",
+      "kron"
+    ],
     "ship_id": 3761157584,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Siegfried": {
     "name": "Siegfried",
-    "aliases": ["siegfried", "sigfried"],
+    "aliases": [
+      "siegfried",
+      "sigfried"
+    ],
     "ship_id": 3761157936,
     "type": "cruiser",
     "nation": "germany",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Musashi": {
     "name": "Musashi",
-    "aliases": ["musashi"],
+    "aliases": [
+      "musashi"
+    ],
     "ship_id": 3761190608,
     "type": "battleship",
     "nation": "japan",
@@ -980,13 +1259,23 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Missouri": {
     "name": "Missouri",
-    "aliases": ["missouri", "misourri", "mighty mo", "misouri", "trump wagon"],
+    "aliases": [
+      "missouri",
+      "misourri",
+      "mighty mo",
+      "misouri",
+      "trump wagon"
+    ],
     "ship_id": 3761190896,
     "type": "battleship",
     "nation": "usa",
@@ -1002,27 +1291,44 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Loyang": {
     "name": "Loyang",
-    "aliases": ["loyang", "lo yang"],
+    "aliases": [
+      "loyang",
+      "lo yang"
+    ],
     "ship_id": 3762173136,
     "type": "destroyer",
     "nation": "pan_asia",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Z-39": {
     "name": "Z-39",
-    "aliases": ["z-39", "z39", "z 39"],
+    "aliases": [
+      "z-39",
+      "z39",
+      "z 39"
+    ],
     "ship_id": 3762173744,
     "type": "destroyer",
     "nation": "germany",
@@ -1038,69 +1344,111 @@
       "Superintendent",
       "Torpedo Armament Expertise"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Le Terrible": {
     "name": "Le Terrible",
-    "aliases": ["le terrible", "terrible"],
+    "aliases": [
+      "le terrible",
+      "terrible"
+    ],
     "ship_id": 3762173776,
     "type": "destroyer",
     "nation": "france",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kidd": {
     "name": "Kidd",
-    "aliases": ["kidd", "kid"],
+    "aliases": [
+      "kidd",
+      "kid"
+    ],
     "ship_id": 3762173936,
     "type": "destroyer",
     "nation": "usa",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Irian": {
     "name": "Irian",
-    "aliases": ["irian"],
+    "aliases": [
+      "irian"
+    ],
     "ship_id": 3762205904,
     "type": "cruiser",
     "nation": "pan_asia",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mikhail Kutuzov": {
     "name": "Mikhail Kutuzov",
-    "aliases": ["mikhail kutuzov", "kutuzov", "kut"],
+    "aliases": [
+      "mikhail kutuzov",
+      "kutuzov",
+      "kut"
+    ],
     "ship_id": 3762206160,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Prinz Eugen": {
     "name": "Prinz Eugen",
-    "aliases": ["prinz eugen"],
+    "aliases": [
+      "prinz eugen"
+    ],
     "ship_id": 3762206512,
     "type": "cruiser",
     "nation": "germany",
@@ -1117,27 +1465,41 @@
       "Expert Loader",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Bayard": {
     "name": "Bayard",
-    "aliases": ["bayard"],
+    "aliases": [
+      "bayard"
+    ],
     "ship_id": 3762206544,
     "type": "cruiser",
     "nation": "france",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Wichita": {
     "name": "Wichita",
-    "aliases": ["wichita"],
+    "aliases": [
+      "wichita"
+    ],
     "ship_id": 3762206704,
     "type": "cruiser",
     "nation": "usa",
@@ -1154,13 +1516,19 @@
       "Survivability Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kii": {
     "name": "Kii",
-    "aliases": ["kii"],
+    "aliases": [
+      "kii"
+    ],
     "ship_id": 3762239184,
     "type": "battleship",
     "nation": "japan",
@@ -1176,27 +1544,45 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Roma": {
     "name": "Roma",
-    "aliases": ["roma", "rome"],
+    "aliases": [
+      "roma",
+      "rome"
+    ],
     "ship_id": 3762239216,
     "type": "battleship",
     "nation": "italy",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gascogne": {
     "name": "Gascogne",
-    "aliases": ["gascogne", "gas can", "gascone", "gascoigne"],
+    "aliases": [
+      "gascogne",
+      "gas can",
+      "gascone",
+      "gascoigne"
+    ],
     "ship_id": 3762239312,
     "type": "battleship",
     "nation": "france",
@@ -1212,13 +1598,19 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Vanguard": {
     "name": "Vanguard",
-    "aliases": ["vanguard"],
+    "aliases": [
+      "vanguard"
+    ],
     "ship_id": 3762239440,
     "type": "battleship",
     "nation": "uk",
@@ -1234,13 +1626,21 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Alabama": {
     "name": "Alabama",
-    "aliases": ["alabama", "bama", "lucky a"],
+    "aliases": [
+      "alabama",
+      "bama",
+      "lucky a"
+    ],
     "ship_id": 3762239472,
     "type": "battleship",
     "nation": "usa",
@@ -1256,27 +1656,41 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Haida": {
     "name": "Haida",
-    "aliases": ["haida"],
+    "aliases": [
+      "haida"
+    ],
     "ship_id": 3763221872,
     "type": "destroyer",
     "nation": "commonwealth",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Leningrad": {
     "name": "Leningrad",
-    "aliases": ["leningrad"],
+    "aliases": [
+      "leningrad"
+    ],
     "ship_id": 3763221968,
     "type": "destroyer",
     "nation": "ussr",
@@ -1293,55 +1707,86 @@
       "Preventive Maintenance",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yūdachi": {
     "name": "Yūdachi",
-    "aliases": ["yudachi", "yuudachi"],
+    "aliases": [
+      "yudachi",
+      "yuudachi"
+    ],
     "ship_id": 3763222224,
     "type": "destroyer",
     "nation": "japan",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Nueve de Julio": {
     "name": "Nueve de Julio",
-    "aliases": ["nueve de julio"],
+    "aliases": [
+      "nueve de julio"
+    ],
     "ship_id": 3763254608,
     "type": "cruiser",
     "nation": "pan_america",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Belfast": {
     "name": "Belfast",
-    "aliases": ["belfast"],
+    "aliases": [
+      "belfast"
+    ],
     "ship_id": 3763255248,
     "type": "cruiser",
     "nation": "uk",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Indianapolis": {
     "name": "Indianapolis",
-    "aliases": ["indianapolis"],
+    "aliases": [
+      "indianapolis"
+    ],
     "ship_id": 3763255280,
     "type": "cruiser",
     "nation": "usa",
@@ -1358,41 +1803,65 @@
       "Survivability Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ashitaka": {
     "name": "Ashitaka",
-    "aliases": ["ashitaka"],
+    "aliases": [
+      "ashitaka"
+    ],
     "ship_id": 3763287760,
     "type": "battleship",
     "nation": "japan",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Scharnhorst": {
     "name": "Scharnhorst",
-    "aliases": ["scharnhorst", "sharnhorst", "shiny horse"],
+    "aliases": [
+      "scharnhorst",
+      "sharnhorst",
+      "shiny horse"
+    ],
     "ship_id": 3763287856,
     "type": "battleship",
     "nation": "germany",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hood": {
     "name": "Hood",
-    "aliases": ["hood"],
+    "aliases": [
+      "hood"
+    ],
     "ship_id": 3763288016,
     "type": "battleship",
     "nation": "uk",
@@ -1408,8 +1877,12 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "W. Virginia 1941": {
@@ -1435,27 +1908,43 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Anshan": {
     "name": "Anshan",
-    "aliases": ["anshan"],
+    "aliases": [
+      "anshan"
+    ],
     "ship_id": 3764270288,
     "type": "destroyer",
     "nation": "pan_asia",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "T-61": {
     "name": "T-61",
-    "aliases": ["t-61", "t61", "t 61"],
+    "aliases": [
+      "t-61",
+      "t61",
+      "t 61"
+    ],
     "ship_id": 3764270896,
     "type": "destroyer",
     "nation": "germany",
@@ -1471,27 +1960,41 @@
       "Superintendent",
       "Torpedo Armament Expertise"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Aigle": {
     "name": "Aigle",
-    "aliases": ["aigle"],
+    "aliases": [
+      "aigle"
+    ],
     "ship_id": 3764270928,
     "type": "destroyer",
     "nation": "france",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gallant": {
     "name": "Gallant",
-    "aliases": ["gallant"],
+    "aliases": [
+      "gallant"
+    ],
     "ship_id": 3764271056,
     "type": "destroyer",
     "nation": "uk",
@@ -1508,83 +2011,132 @@
       "Demolition Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Monaghan": {
     "name": "Monaghan",
-    "aliases": ["monaghan"],
+    "aliases": [
+      "monaghan"
+    ],
     "ship_id": 3764271088,
     "type": "destroyer",
     "nation": "usa",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Huanghe": {
     "name": "Huanghe",
-    "aliases": ["huanghe"],
+    "aliases": [
+      "huanghe"
+    ],
     "ship_id": 3764303056,
     "type": "cruiser",
     "nation": "pan_asia",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Perth": {
     "name": "Perth",
-    "aliases": ["perth"],
+    "aliases": [
+      "perth"
+    ],
     "ship_id": 3764303216,
     "type": "cruiser",
     "nation": "commonwealth",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Molotov": {
     "name": "Molotov",
-    "aliases": ["molotov"],
+    "aliases": [
+      "molotov"
+    ],
     "ship_id": 3764303312,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Duca d'Aosta": {
     "name": "Duca d'Aosta",
-    "aliases": ["duca d'aosta", "duca"],
+    "aliases": [
+      "duca d'aosta",
+      "duca"
+    ],
     "ship_id": 3764303600,
     "type": "cruiser",
     "nation": "italy",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Admiral Graf Spee": {
     "name": "Admiral Graf Spee",
-    "aliases": ["admiral graf spee", "graf spee", "spee"],
+    "aliases": [
+      "admiral graf spee",
+      "graf spee",
+      "spee"
+    ],
     "ship_id": 3764303664,
     "type": "cruiser",
     "nation": "germany",
@@ -1607,26 +2159,38 @@
       "Aiming Systems Modification 1",
       "Damage Control Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "De Grasse": {
     "name": "De Grasse",
-    "aliases": ["de grasse"],
+    "aliases": [
+      "de grasse"
+    ],
     "ship_id": 3764303696,
     "type": "cruiser",
     "nation": "france",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mutsu": {
     "name": "Mutsu",
-    "aliases": ["mutsu"],
+    "aliases": [
+      "mutsu"
+    ],
     "ship_id": 3764336336,
     "type": "battleship",
     "nation": "japan",
@@ -1642,27 +2206,44 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Prinz Eitel Friedrich": {
     "name": "Prinz Eitel Friedrich",
-    "aliases": ["prinz eitel friedrich"],
+    "aliases": [
+      "prinz eitel friedrich"
+    ],
     "ship_id": 3764336432,
     "type": "battleship",
     "nation": "germany",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Dunkerque": {
     "name": "Dunkerque",
-    "aliases": ["dunkerque", "dunkerk", "dunkirk", "dunk"],
+    "aliases": [
+      "dunkerque",
+      "dunkerk",
+      "dunkirk",
+      "dunk"
+    ],
     "ship_id": 3764336464,
     "type": "battleship",
     "nation": "france",
@@ -1678,13 +2259,19 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Arizona": {
     "name": "Arizona",
-    "aliases": ["arizona"],
+    "aliases": [
+      "arizona"
+    ],
     "ship_id": 3764336624,
     "type": "battleship",
     "nation": "usa",
@@ -1700,69 +2287,108 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Okhotnik": {
     "name": "Okhotnik",
-    "aliases": ["okhotnik"],
+    "aliases": [
+      "okhotnik"
+    ],
     "ship_id": 3765319120,
     "type": "destroyer",
     "nation": "ussr",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hill": {
     "name": "Hill",
-    "aliases": ["hill"],
+    "aliases": [
+      "hill"
+    ],
     "ship_id": 3765319664,
     "type": "destroyer",
     "nation": "usa",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Krasny Krym": {
     "name": "Krasny Krym",
-    "aliases": ["krasny krym", "krispy kreme"],
+    "aliases": [
+      "krasny krym",
+      "krispy kreme"
+    ],
     "ship_id": 3765351888,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yahagi": {
     "name": "Yahagi",
-    "aliases": ["yahagi"],
+    "aliases": [
+      "yahagi"
+    ],
     "ship_id": 3765352144,
     "type": "cruiser",
     "nation": "japan",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Exeter": {
     "name": "Exeter",
-    "aliases": ["exeter"],
+    "aliases": [
+      "exeter"
+    ],
     "ship_id": 3765352400,
     "type": "cruiser",
     "nation": "uk",
@@ -1779,27 +2405,43 @@
       "Demolition Expert",
       "Jack of All Trades"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Oktyabrskaya Revolutsiya": {
     "name": "Oktyabrskaya Revolutsiya",
-    "aliases": ["oktyabrskaya revolutsiya", "october revolution"],
+    "aliases": [
+      "oktyabrskaya revolutsiya",
+      "october revolution"
+    ],
     "ship_id": 3765384656,
     "type": "battleship",
     "nation": "ussr",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Giulio Cesare": {
     "name": "Giulio Cesare",
-    "aliases": ["giulio cesare", "julio cesare"],
+    "aliases": [
+      "giulio cesare",
+      "julio cesare"
+    ],
     "ship_id": 3765384944,
     "type": "battleship",
     "nation": "italy",
@@ -1815,83 +2457,131 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Viribus Unitis": {
     "name": "Viribus Unitis",
-    "aliases": ["viribus unitis"],
+    "aliases": [
+      "viribus unitis"
+    ],
     "ship_id": 3766433072,
     "type": "battleship",
     "nation": "europe",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Vampire": {
     "name": "Vampire",
-    "aliases": ["vampire"],
+    "aliases": [
+      "vampire"
+    ],
     "ship_id": 3767416176,
     "type": "destroyer",
     "nation": "commonwealth",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Campbeltown": {
     "name": "Campbeltown",
-    "aliases": ["campbeltown"],
+    "aliases": [
+      "campbeltown"
+    ],
     "ship_id": 3767416784,
     "type": "destroyer",
     "nation": "uk",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Katori": {
     "name": "Katori",
-    "aliases": ["katori"],
+    "aliases": [
+      "katori"
+    ],
     "ship_id": 3767449296,
     "type": "cruiser",
     "nation": "japan",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Charleston": {
     "name": "Charleston",
-    "aliases": ["charleston"],
+    "aliases": [
+      "charleston"
+    ],
     "ship_id": 3767449584,
     "type": "cruiser",
     "nation": "usa",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "König Albert": {
     "name": "König Albert",
-    "aliases": ["konig albert", "king albert", "albert"],
+    "aliases": [
+      "konig albert",
+      "king albert",
+      "albert"
+    ],
     "ship_id": 3767482160,
     "type": "battleship",
     "nation": "germany",
@@ -1907,64 +2597,103 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Dreadnought": {
     "name": "Dreadnought",
-    "aliases": ["dreadnought", "dreadnot"],
+    "aliases": [
+      "dreadnought",
+      "dreadnot"
+    ],
     "ship_id": 3767482320,
     "type": "battleship",
     "nation": "uk",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Smith": {
     "name": "Smith",
-    "aliases": ["smith"],
+    "aliases": [
+      "smith"
+    ],
     "ship_id": 3768465392,
     "type": "destroyer",
     "nation": "usa",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Emden": {
     "name": "Emden",
-    "aliases": ["emden"],
+    "aliases": [
+      "emden"
+    ],
     "ship_id": 3768497968,
     "type": "cruiser",
     "nation": "germany",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Błyskawica": {
     "name": "Błyskawica",
-    "aliases": ["blyskawica", "blys", "blysk"],
+    "aliases": [
+      "blyskawica",
+      "blys",
+      "blysk"
+    ],
     "ship_id": 3769513264,
     "type": "destroyer",
     "nation": "europe",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Grozovoi": {
@@ -2005,7 +2734,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Recoilless Main Battery Guns"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Harugumo": {
@@ -2042,7 +2773,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Goliath": {
@@ -2079,7 +2812,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Worcester": {
@@ -2117,12 +2852,20 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Audacious": {
     "name": "Audacious",
-    "aliases": ["audacious", "hermes", "furious", "implacable", "indomitable"],
+    "aliases": [
+      "audacious",
+      "hermes",
+      "furious",
+      "implacable",
+      "indomitable"
+    ],
     "ship_id": 4074747856,
     "type": "aircarrier",
     "nation": "uk",
@@ -2147,7 +2890,9 @@
       "Flight Control Modification 1",
       "Air Groups Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yueyang": {
@@ -2188,7 +2933,9 @@
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Halland": {
@@ -2233,12 +2980,20 @@
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Khabarovsk": {
     "name": "Khabarovsk",
-    "aliases": ["khabarovsk", "khaba", "khab", "kiev", "tashkent"],
+    "aliases": [
+      "khabarovsk",
+      "khaba",
+      "khab",
+      "kiev",
+      "tashkent"
+    ],
     "ship_id": 4179506640,
     "type": "destroyer",
     "nation": "ussr",
@@ -2263,7 +3018,9 @@
       "Rudder Modification 2/Heavyweight Artillery",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Z-52": {
@@ -2306,7 +3063,9 @@
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2/Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kléber": {
@@ -2351,7 +3110,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Daring": {
@@ -2391,12 +3152,17 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Moskva": {
     "name": "Moskva",
-    "aliases": ["moskva", "moscow"],
+    "aliases": [
+      "moskva",
+      "moscow"
+    ],
     "ship_id": 4179539408,
     "type": "cruiser",
     "nation": "ussr",
@@ -2420,7 +3186,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Heavyweight Main Battery Guns"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Venezia": {
@@ -2462,7 +3230,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hindenburg": {
@@ -2504,7 +3274,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Henri IV": {
@@ -2546,7 +3318,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Minotaur": {
@@ -2588,7 +3362,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kremlin": {
@@ -2629,7 +3405,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Großer Kurfürst": {
@@ -2678,7 +3456,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "République": {
@@ -2721,7 +3501,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Conqueror": {
@@ -2761,12 +3543,20 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hakuryū": {
     "name": "Hakuryū",
-    "aliases": ["hakuryu", "haku", "hosho", "ryujo", "shokaku"],
+    "aliases": [
+      "hakuryu",
+      "haku",
+      "hosho",
+      "ryujo",
+      "shokaku"
+    ],
     "ship_id": 4179605200,
     "type": "aircarrier",
     "nation": "japan",
@@ -2790,12 +3580,21 @@
       "Flight Control Modification 1",
       "Air Groups Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Midway": {
     "name": "Midway",
-    "aliases": ["midway", "langley", "ranger", "lexington", "saipan", "midway"],
+    "aliases": [
+      "midway",
+      "langley",
+      "ranger",
+      "lexington",
+      "saipan",
+      "midway"
+    ],
     "ship_id": 4179605488,
     "type": "aircarrier",
     "nation": "usa",
@@ -2819,23 +3618,35 @@
       "Flight Control Modification 1",
       "Air Groups Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gryf": {
     "name": "Gryf",
-    "aliases": ["gryf"],
+    "aliases": [
+      "gryf"
+    ],
     "ship_id": 4188976432,
     "type": "cruiser",
     "nation": "europe",
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Marblehead": {
     "name": "Marblehead",
-    "aliases": ["marblehead"],
+    "aliases": [
+      "marblehead"
+    ],
     "ship_id": 4248745968,
     "type": "cruiser",
     "nation": "usa",
@@ -2852,13 +3663,19 @@
       "Survivability Expert",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Atago": {
     "name": "Atago",
-    "aliases": ["atago"],
+    "aliases": [
+      "atago"
+    ],
     "ship_id": 4255037136,
     "type": "cruiser",
     "nation": "japan",
@@ -2875,8 +3692,12 @@
       "Survivability Expert",
       "Demolition Expert"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Zaō": {
@@ -2918,40 +3739,62 @@
       "Concealment System Modification 1",
       "Gun Fire Control System Modification 2/Enhanced Main Battery and Steering Gears"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Sims": {
     "name": "Sims",
-    "aliases": ["sims"],
+    "aliases": [
+      "sims"
+    ],
     "ship_id": 4264441840,
     "type": "destroyer",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Iwaki Alpha": {
     "name": "Iwaki Alpha",
-    "aliases": ["iwaki alpha"],
+    "aliases": [
+      "iwaki alpha"
+    ],
     "ship_id": 4267620048,
     "type": "cruiser",
     "nation": "japan",
     "tier": 4,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kamikaze": {
     "name": "Kamikaze",
-    "aliases": ["kamikaze", "kamikaze r", "fujin"],
+    "aliases": [
+      "kamikaze",
+      "kamikaze r",
+      "fujin"
+    ],
     "ship_id": 4268635856,
     "type": "destroyer",
     "nation": "japan",
@@ -2968,8 +3811,12 @@
       "Preventive Maintenance",
       "Expert Marksman"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Des Moines": {
@@ -3012,7 +3859,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Enhanced Propulsion"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yamato": {
@@ -3053,7 +3902,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3/Enhanced Main Battery Guns"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Montana": {
@@ -3100,21 +3951,31 @@
       "Concealment System Modification 1",
       "Artillery Plotting Room Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tachibana Lima": {
     "name": "Tachibana Lima",
-    "aliases": ["tachibana lima"],
+    "aliases": [
+      "tachibana lima"
+    ],
     "ship_id": 4280170192,
     "type": "destroyer",
     "nation": "japan",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gearing": {
@@ -3155,12 +4016,16 @@
       "Concealment System Modification 1/Modified Hull",
       "Torpedo Tubes Modification 2/Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Arkansas Beta": {
     "name": "Arkansas Beta",
-    "aliases": ["arkansas beta"],
+    "aliases": [
+      "arkansas beta"
+    ],
     "ship_id": 4281284592,
     "type": "battleship",
     "nation": "usa",
@@ -3176,8 +4041,12 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Shimakaze": {
@@ -3218,26 +4087,39 @@
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mikasa": {
     "name": "Mikasa",
-    "aliases": ["mikasa"],
+    "aliases": [
+      "mikasa"
+    ],
     "ship_id": 4283381456,
     "type": "battleship",
     "nation": "japan",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ishizuchi": {
     "name": "Ishizuchi",
-    "aliases": ["ishizuchi", "itchy sushi"],
+    "aliases": [
+      "ishizuchi",
+      "itchy sushi"
+    ],
     "ship_id": 4286527184,
     "type": "battleship",
     "nation": "japan",
@@ -3253,69 +4135,107 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Atlanta": {
     "name": "Atlanta",
-    "aliases": ["atlanta"],
+    "aliases": [
+      "atlanta"
+    ],
     "ship_id": 4288591856,
     "type": "cruiser",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Yūbari": {
     "name": "Yūbari",
-    "aliases": ["yubari"],
+    "aliases": [
+      "yubari"
+    ],
     "ship_id": 4290688720,
     "type": "cruiser",
     "nation": "japan",
     "tier": 4,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Murmansk": {
     "name": "Murmansk",
-    "aliases": ["murmansk"],
+    "aliases": [
+      "murmansk"
+    ],
     "ship_id": 4291737040,
     "type": "cruiser",
     "nation": "ussr",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Albany": {
     "name": "Albany",
-    "aliases": ["albany"],
+    "aliases": [
+      "albany"
+    ],
     "ship_id": 4291737584,
     "type": "cruiser",
     "nation": "usa",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tirpitz": {
     "name": "Tirpitz",
-    "aliases": ["tirpitz"],
+    "aliases": [
+      "tirpitz"
+    ],
     "ship_id": 4292818736,
     "type": "battleship",
     "nation": "germany",
@@ -3331,13 +4251,19 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Warspite": {
     "name": "Warspite",
-    "aliases": ["warspite"],
+    "aliases": [
+      "warspite"
+    ],
     "ship_id": 4292818896,
     "type": "battleship",
     "nation": "uk",
@@ -3353,13 +4279,20 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gremyashchy": {
     "name": "Gremyashchy",
-    "aliases": ["gremyaschy", "gremy"],
+    "aliases": [
+      "gremyaschy",
+      "gremy"
+    ],
     "ship_id": 4293801424,
     "type": "destroyer",
     "nation": "ussr",
@@ -3376,22 +4309,34 @@
       "Preventive Maintenance",
       "Superintendent"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tachibana": {
     "name": "Tachibana",
-    "aliases": ["tachibana"],
+    "aliases": [
+      "tachibana"
+    ],
     "ship_id": 4293801680,
     "type": "destroyer",
     "nation": "japan",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Imperator Nikolai I": {
@@ -3418,8 +4363,12 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Unknown Ship": {
@@ -3427,37 +4376,59 @@
     "aliases": [],
     "ship_id": 0,
     "type": "",
-    "skills": ["shrug"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "shrug"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Franklin D. Roosevelt": {
     "name": "Franklin D. Roosevelt",
-    "aliases": ["franklin d. roosevelt"],
+    "aliases": [
+      "franklin d. roosevelt"
+    ],
     "ship_id": 3760175088,
     "type": "AirCarrier",
     "nation": "usa",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Erich Loewenhardt": {
     "name": "Erich Loewenhardt",
-    "aliases": ["erich loewenhardt"],
+    "aliases": [
+      "erich loewenhardt"
+    ],
     "ship_id": 3764369200,
     "type": "AirCarrier",
     "nation": "germany",
     "tier": 6,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Manfred von Richthofen": {
@@ -3500,82 +4471,126 @@
       "Flight Control Modification 1",
       "Flight Control Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Weser": {
     "name": "Weser",
-    "aliases": ["weser"],
+    "aliases": [
+      "weser"
+    ],
     "ship_id": 4183799600,
     "type": "AirCarrier",
     "nation": "germany",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ark Royal": {
     "name": "Ark Royal",
-    "aliases": ["ark royal"],
+    "aliases": [
+      "ark royal"
+    ],
     "ship_id": 3751786448,
     "type": "AirCarrier",
     "nation": "uk",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Indomitable": {
     "name": "Indomitable",
-    "aliases": ["indomitable"],
+    "aliases": [
+      "indomitable"
+    ],
     "ship_id": 3762272208,
     "type": "AirCarrier",
     "nation": "uk",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ragnarok": {
     "name": "Ragnarok",
-    "aliases": ["ragnarok"],
+    "aliases": [
+      "ragnarok"
+    ],
     "ship_id": 3363780304,
     "type": "Battleship",
     "nation": "japan",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ignis Purgatio": {
     "name": "Ignis Purgatio",
-    "aliases": ["ignis purgatio"],
+    "aliases": [
+      "ignis purgatio"
+    ],
     "ship_id": 3374266064,
     "type": "Battleship",
     "nation": "japan",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Shikishima": {
     "name": "Shikishima",
-    "aliases": ["shikishima"],
+    "aliases": [
+      "shikishima"
+    ],
     "ship_id": 3760142032,
     "type": "Battleship",
     "nation": "japan",
@@ -3591,125 +4606,196 @@
       "Fire Prevention",
       "Basics of Survivability"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ludendorff": {
     "name": "Ludendorff",
-    "aliases": ["ludendorff"],
+    "aliases": [
+      "ludendorff"
+    ],
     "ship_id": 3761190704,
     "type": "Battleship",
     "nation": "germany",
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Odin": {
     "name": "Odin",
-    "aliases": ["odin"],
+    "aliases": [
+      "odin"
+    ],
     "ship_id": 3762239280,
     "type": "Battleship",
     "nation": "germany",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Champagne": {
     "name": "Champagne",
-    "aliases": ["champagne"],
+    "aliases": [
+      "champagne"
+    ],
     "ship_id": 3741267792,
     "type": "Battleship",
     "nation": "france",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Bajie": {
     "name": "Bajie",
-    "aliases": ["bajie"],
+    "aliases": [
+      "bajie"
+    ],
     "ship_id": 3761190096,
     "type": "Battleship",
     "nation": "pan_asia",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Impero": {
     "name": "Impero",
-    "aliases": ["impero"],
+    "aliases": [
+      "impero"
+    ],
     "ship_id": 3552524016,
     "type": "Battleship",
     "nation": "italy",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "AL Montpelier": {
     "name": "AL Montpelier",
-    "aliases": ["al montpelier"],
+    "aliases": [
+      "al montpelier"
+    ],
     "ship_id": 3542005744,
     "type": "Cruiser",
     "nation": "usa",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Boise": {
     "name": "Boise",
-    "aliases": ["boise"],
+    "aliases": [
+      "boise"
+    ],
     "ship_id": 3668883440,
     "type": "Cruiser",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Marblehead Lima": {
     "name": "Marblehead Lima",
-    "aliases": ["marblehead lima"],
+    "aliases": [
+      "marblehead lima"
+    ],
     "ship_id": 4247697392,
     "type": "Cruiser",
     "nation": "usa",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "HSF Admiral Graf Spee": {
     "name": "HSF Admiral Graf Spee",
-    "aliases": ["hsf admiral graf spee", "hsf graf spee"],
+    "aliases": [
+      "hsf admiral graf spee",
+      "hsf graf spee"
+    ],
     "ship_id": 3554588464,
     "type": "Cruiser",
     "nation": "germany",
@@ -3732,215 +4818,333 @@
       "Aiming Systems Modification 1",
       "Damage Control Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ägir": {
     "name": "Ägir",
-    "aliases": ["ägir"],
+    "aliases": [
+      "ägir"
+    ],
     "ship_id": 3750672176,
     "type": "Cruiser",
     "nation": "germany",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mainz": {
     "name": "Mainz",
-    "aliases": ["mainz"],
+    "aliases": [
+      "mainz"
+    ],
     "ship_id": 3751720752,
     "type": "Cruiser",
     "nation": "germany",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Wukong": {
     "name": "Wukong",
-    "aliases": ["wukong"],
+    "aliases": [
+      "wukong"
+    ],
     "ship_id": 3751720144,
     "type": "Cruiser",
     "nation": "pan_asia",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Gorizia": {
     "name": "Gorizia",
-    "aliases": ["gorizia"],
+    "aliases": [
+      "gorizia"
+    ],
     "ship_id": 3658397424,
     "type": "Cruiser",
     "nation": "italy",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Duca degli Abruzzi": {
     "name": "Duca degli Abruzzi",
-    "aliases": ["duca degli abruzzi"],
+    "aliases": [
+      "duca degli abruzzi"
+    ],
     "ship_id": 3763255024,
     "type": "Cruiser",
     "nation": "italy",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Genova": {
     "name": "Genova",
-    "aliases": ["genova"],
+    "aliases": [
+      "genova"
+    ],
     "ship_id": 3765352176,
     "type": "Cruiser",
     "nation": "italy",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "London": {
     "name": "London",
-    "aliases": ["london"],
+    "aliases": [
+      "london"
+    ],
     "ship_id": 3753818064,
     "type": "Cruiser",
     "nation": "uk",
     "tier": 6,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Cheshire": {
     "name": "Cheshire",
-    "aliases": ["cheshire"],
+    "aliases": [
+      "cheshire"
+    ],
     "ship_id": 3762206672,
     "type": "Cruiser",
     "nation": "uk",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Arashi": {
     "name": "Arashi",
-    "aliases": ["arashi"],
+    "aliases": [
+      "arashi"
+    ],
     "ship_id": 3248371408,
     "type": "Destroyer",
     "nation": "japan",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "AL Yukikaze": {
     "name": "AL Yukikaze",
-    "aliases": ["al yukikaze"],
+    "aliases": [
+      "al yukikaze"
+    ],
     "ship_id": 3541972688,
     "type": "Destroyer",
     "nation": "japan",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kamikaze R": {
     "name": "Kamikaze R",
-    "aliases": ["kamikaze r"],
+    "aliases": [
+      "kamikaze r"
+    ],
     "ship_id": 4267587280,
     "type": "Destroyer",
     "nation": "japan",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Fūjin": {
     "name": "Fūjin",
-    "aliases": ["fūjin"],
+    "aliases": [
+      "fūjin"
+    ],
     "ship_id": 4277024464,
     "type": "Destroyer",
     "nation": "japan",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Z-35": {
     "name": "Z-35",
-    "aliases": ["z-35"],
+    "aliases": [
+      "z-35"
+    ],
     "ship_id": 3751687984,
     "type": "Destroyer",
     "nation": "germany",
     "tier": 8,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Siroco": {
     "name": "Siroco",
-    "aliases": ["siroco"],
+    "aliases": [
+      "siroco"
+    ],
     "ship_id": 3766368080,
     "type": "Destroyer",
     "nation": "france",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Marceau": {
     "name": "Marceau",
-    "aliases": ["marceau"],
+    "aliases": [
+      "marceau"
+    ],
     "ship_id": 4074649424,
     "type": "Destroyer",
     "nation": "france",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
@@ -3949,152 +5153,236 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Siliwangi": {
     "name": "Siliwangi",
-    "aliases": ["siliwangi"],
+    "aliases": [
+      "siliwangi"
+    ],
     "ship_id": 4076745936,
     "type": "Destroyer",
     "nation": "pan_asia",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Leone": {
     "name": "Leone",
-    "aliases": ["leone"],
+    "aliases": [
+      "leone"
+    ],
     "ship_id": 3764270832,
     "type": "Destroyer",
     "nation": "italy",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Lappland": {
     "name": "Lappland",
-    "aliases": ["lappland"],
+    "aliases": [
+      "lappland"
+    ],
     "ship_id": 3340645680,
     "type": "Destroyer",
     "nation": "europe",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Orkan": {
     "name": "Orkan",
-    "aliases": ["orkan"],
+    "aliases": [
+      "orkan"
+    ],
     "ship_id": 3762173232,
     "type": "Destroyer",
     "nation": "europe",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Zarya Svobody": {
     "name": "Zarya Svobody",
-    "aliases": ["zarya svobody"],
+    "aliases": [
+      "zarya svobody"
+    ],
     "ship_id": 3551475152,
     "type": "Battleship",
     "nation": "ussr",
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "V. I. Lenin": {
     "name": "V. I. Lenin",
-    "aliases": ["v. i. lenin"],
+    "aliases": [
+      "v. i. lenin"
+    ],
     "ship_id": 3730781648,
     "type": "Battleship",
     "nation": "ussr",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Borodino": {
     "name": "Borodino",
-    "aliases": ["borodino"],
+    "aliases": [
+      "borodino"
+    ],
     "ship_id": 3741267408,
     "type": "Battleship",
     "nation": "ussr",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Poltava": {
     "name": "Poltava",
-    "aliases": ["poltava"],
+    "aliases": [
+      "poltava"
+    ],
     "ship_id": 3762238928,
     "type": "Battleship",
     "nation": "ussr",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Pyotr Bagration": {
     "name": "Pyotr Bagration",
-    "aliases": ["pyotr bagration"],
+    "aliases": [
+      "pyotr bagration"
+    ],
     "ship_id": 3730748880,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ochakov": {
     "name": "Ochakov",
-    "aliases": ["ochakov"],
+    "aliases": [
+      "ochakov"
+    ],
     "ship_id": 3741234640,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kirov": {
     "name": "Kirov",
-    "aliases": ["kirov"],
+    "aliases": [
+      "kirov"
+    ],
     "ship_id": 3744380368,
     "type": "Cruiser",
     "nation": "ussr",
@@ -4111,36 +5399,56 @@
       "Expert Marksman",
       "Preventive Maintenance"
     ],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mikoyan": {
     "name": "Mikoyan",
-    "aliases": ["mikoyan"],
+    "aliases": [
+      "mikoyan"
+    ],
     "ship_id": 3754866128,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 5,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Oleg": {
     "name": "Oleg",
-    "aliases": ["oleg"],
+    "aliases": [
+      "oleg"
+    ],
     "ship_id": 3767449040,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Petropavlovsk": {
@@ -4180,7 +5488,9 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Alexander Nevsky": {
@@ -4222,96 +5532,148 @@
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Diana Lima": {
     "name": "Diana Lima",
-    "aliases": ["diana lima"],
+    "aliases": [
+      "diana lima"
+    ],
     "ship_id": 4284397008,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Diana": {
     "name": "Diana",
-    "aliases": ["diana"],
+    "aliases": [
+      "diana"
+    ],
     "ship_id": 4292785616,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Aurora": {
     "name": "Aurora",
-    "aliases": ["aurora"],
+    "aliases": [
+      "aurora"
+    ],
     "ship_id": 4293834192,
     "type": "Cruiser",
     "nation": "ussr",
     "tier": 3,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "AL Sov. Rossiya": {
     "name": "AL Sov. Rossiya",
-    "aliases": ["al sov. rossiya"],
+    "aliases": [
+      "al sov. rossiya"
+    ],
     "ship_id": 3551475152,
     "type": "Battleship",
     "nation": "ussr",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Pommern": {
     "name": "Pommern",
-    "aliases": ["pommern"],
+    "aliases": [
+      "pommern"
+    ],
     "ship_id": 3761190704,
     "type": "Battleship",
     "nation": "germany",
     "tier": 9,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "AL Littorio": {
     "name": "AL Littorio",
-    "aliases": ["al littorio"],
+    "aliases": [
+      "al littorio"
+    ],
     "ship_id": 3552524016,
     "type": "Battleship",
     "nation": "italy",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Anchorage": {
     "name": "Anchorage",
-    "aliases": ["anchorage"],
+    "aliases": [
+      "anchorage"
+    ],
     "ship_id": 3751720944,
     "type": "Cruiser",
     "nation": "usa",
@@ -4335,54 +5697,86 @@
       "Propulsion Modification 1",
       "Concealment System Modification 1"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "München": {
     "name": "München",
-    "aliases": ["münchen"],
+    "aliases": [
+      "münchen"
+    ],
     "ship_id": 3763255088,
     "type": "Cruiser",
     "nation": "germany",
     "tier": 7,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "DD R-10": {
     "name": "DD R-10",
-    "aliases": ["dd r-10"],
+    "aliases": [
+      "dd r-10"
+    ],
     "ship_id": 3445503440,
     "type": "Destroyer",
     "nation": "ussr",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Florida": {
     "name": "Florida",
-    "aliases": ["florida"],
+    "aliases": [
+      "florida"
+    ],
     "ship_id": 3752802288,
     "type": "Battleship",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Vermont": {
     "name": "Vermont",
-    "aliases": ["vermont", "kansas", "minnesota", "minesota", "thicc boi"],
+    "aliases": [
+      "vermont",
+      "kansas",
+      "minnesota",
+      "minesota",
+      "thicc boi"
+    ],
     "ship_id": 4179572720,
     "type": "Battleship",
     "nation": "usa",
@@ -4406,455 +5800,713 @@
       "Concealment System Modification 1",
       "Artillery Plotting Room Modification 2"
     ],
-    "signals": ["Soon™"],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kitakami": {
     "name": "Kitakami",
-    "aliases": ["kitakami"],
+    "aliases": [
+      "kitakami"
+    ],
     "ship_id": 4280202960,
     "type": "Cruiser",
     "nation": "japan",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Oklahoma": {
     "name": "Oklahoma",
-    "aliases": ["oklahoma"],
+    "aliases": [
+      "oklahoma"
+    ],
     "ship_id": 3765385200,
     "type": "Battleship",
     "nation": "usa",
     "tier": 5,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Belfast '43": {
     "name": "Belfast '43",
-    "aliases": ["belfast '43"],
+    "aliases": [
+      "belfast '43"
+    ],
     "ship_id": 3741235152,
     "type": "Cruiser",
     "nation": "uk",
     "tier": 8,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Hizen": {
     "name": "Hizen",
-    "aliases": ["hizen"],
+    "aliases": [
+      "hizen"
+    ],
     "ship_id": 3750704848,
     "type": "Battleship",
     "nation": "japan",
     "tier": 9,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Strasbourg": {
     "name": "Strasbourg",
-    "aliases": ["strasbourg"],
+    "aliases": [
+      "strasbourg"
+    ],
     "ship_id": 3763287888,
     "type": "Battleship",
     "nation": "france",
     "tier": 7,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Plymouth": {
     "name": "Plymouth",
-    "aliases": ["plymouth"],
+    "aliases": [
+      "plymouth"
+    ],
     "ship_id": 3760109520,
     "type": "Cruiser",
     "nation": "uk",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Mysore": {
     "name": "Mysore",
-    "aliases": ["mysore"],
+    "aliases": [
+      "mysore"
+    ],
     "ship_id": 3753817456,
     "type": "Cruiser",
     "nation": "commonwealth",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Z-44": {
     "name": "Z-44",
-    "aliases": ["z-44"],
+    "aliases": [
+      "z-44"
+    ],
     "ship_id": 3750639408,
     "type": "Destroyer",
     "nation": "germany",
     "tier": 9,
     "is_premium": true,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Minnesota": {
     "name": "Minnesota",
-    "aliases": ["minnesota"],
+    "aliases": [
+      "minnesota"
+    ],
     "ship_id": 4180621296,
     "type": "Battleship",
     "nation": "usa",
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kansas": {
     "name": "Kansas",
-    "aliases": ["kansas"],
+    "aliases": [
+      "kansas"
+    ],
     "ship_id": 4181669872,
     "type": "Battleship",
     "nation": "usa",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Kaga B": {
     "name": "Kaga B",
-    "aliases": ["kaga b"],
+    "aliases": [
+      "kaga b"
+    ],
     "ship_id": 3667900112,
     "type": "AirCarrier",
     "nation": "japan",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Werner Voss": {
     "name": "Werner Voss",
-    "aliases": ["werner voss"],
+    "aliases": [
+      "werner voss"
+    ],
     "ship_id": 3760174896,
     "type": "AirCarrier",
     "nation": "germany",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ise 3": {
     "name": "Ise 3",
-    "aliases": ["ise 3"],
+    "aliases": [
+      "ise 3"
+    ],
     "ship_id": 3334420176,
     "type": "Battleship",
     "nation": "japan",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ise 2": {
     "name": "Ise 2",
-    "aliases": ["ise 2"],
+    "aliases": [
+      "ise 2"
+    ],
     "ship_id": 3344905936,
     "type": "Battleship",
     "nation": "japan",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Ise": {
     "name": "Ise",
-    "aliases": ["ise"],
+    "aliases": [
+      "ise"
+    ],
     "ship_id": 3743364816,
     "type": "Battleship",
     "nation": "japan",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Jean Bart B": {
     "name": "Jean Bart B",
-    "aliases": ["jean bart b"],
+    "aliases": [
+      "jean bart b"
+    ],
     "ship_id": 3666818896,
     "type": "Battleship",
     "nation": "france",
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Cristoforo Colombo": {
     "name": "Cristoforo Colombo",
-    "aliases": ["cristoforo colombo"],
+    "aliases": [
+      "cristoforo colombo"
+    ],
     "ship_id": 4179572464,
     "type": "Battleship",
     "nation": "italy",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Vittorio Veneto": {
     "name": "Vittorio Veneto",
-    "aliases": ["vittorio veneto"],
+    "aliases": [
+      "vittorio veneto"
+    ],
     "ship_id": 4181669616,
     "type": "Battleship",
     "nation": "italy",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Francesco Caracciolo": {
     "name": "Francesco Caracciolo",
-    "aliases": ["francesco caracciolo"],
+    "aliases": [
+      "francesco caracciolo"
+    ],
     "ship_id": 4182718192,
     "type": "Battleship",
     "nation": "italy",
     "tier": 7,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Andrea Doria": {
     "name": "Andrea Doria",
-    "aliases": ["andrea doria"],
+    "aliases": [
+      "andrea doria"
+    ],
     "ship_id": 4183766768,
     "type": "Battleship",
     "nation": "italy",
     "tier": 6,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Atlanta B": {
     "name": "Atlanta B",
-    "aliases": ["atlanta b"],
+    "aliases": [
+      "atlanta b"
+    ],
     "ship_id": 3679369200,
     "type": "Cruiser",
     "nation": "usa",
     "tier": 7,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tone 3": {
     "name": "Tone 3",
-    "aliases": ["tone 3"],
+    "aliases": [
+      "tone 3"
+    ],
     "ship_id": 3331241680,
     "type": "Cruiser",
     "nation": "japan",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tone 2": {
     "name": "Tone 2",
-    "aliases": ["tone 2"],
+    "aliases": [
+      "tone 2"
+    ],
     "ship_id": 3332290256,
     "type": "Cruiser",
     "nation": "japan",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Tone": {
     "name": "Tone",
-    "aliases": ["tone"],
+    "aliases": [
+      "tone"
+    ],
     "ship_id": 4276008656,
     "type": "Cruiser",
     "nation": "japan",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Almirante Abreu": {
     "name": "Almirante Abreu",
-    "aliases": ["almirante abreu"],
+    "aliases": [
+      "almirante abreu"
+    ],
     "ship_id": 3768497488,
     "type": "Cruiser",
     "nation": "pan_america",
     "tier": 2,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Cossack B": {
     "name": "Cossack B",
-    "aliases": ["cossack b"],
+    "aliases": [
+      "cossack b"
+    ],
     "ship_id": 3667802064,
     "type": "Destroyer",
     "nation": "uk",
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Marco Polo": {
     "name": "Marco Polo",
-    "aliases": ["marco polo"],
+    "aliases": [
+      "marco polo"
+    ],
     "ship_id": 3761190640,
     "type": "Battleship",
     "nation": "italy",
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Lepanto": {
     "name": "Lepanto",
-    "aliases": ["lepanto"],
+    "aliases": [
+      "lepanto"
+    ],
     "ship_id": 4180621040,
     "type": "Battleship",
     "nation": "italy",
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Conte di Cavour": {
     "name": "Conte di Cavour",
-    "aliases": ["conte di cavour"],
+    "aliases": [
+      "conte di cavour"
+    ],
     "ship_id": 4184815344,
     "type": "Battleship",
     "nation": "italy",
     "tier": 5,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Dante Alighieri": {
     "name": "Dante Alighieri",
-    "aliases": ["dante alighieri"],
+    "aliases": [
+      "dante alighieri"
+    ],
     "ship_id": 4185863920,
     "type": "Battleship",
     "nation": "italy",
     "tier": 4,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Fen Yang": {
     "name": "Fen Yang",
-    "aliases": ["fen yang"],
+    "aliases": [
+      "fen yang"
+    ],
     "ship_id": 3751687376,
     "type": "Destroyer",
     "nation": "pan_asia",
     "tier": 8,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   },
   "Vampire II": {
     "name": "Vampire II",
-    "aliases": ["vampire ii"],
+    "aliases": [
+      "vampire ii"
+    ],
     "ship_id": 3760076144,
     "type": "Destroyer",
     "nation": "commonwealth",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
   }
 }
