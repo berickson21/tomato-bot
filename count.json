@@ -1,16 +1,16 @@
 {
-  "totalMessages": 2608,
+  "totalMessages": 2615,
   "totalShipRequests": {
-    "Kléber": 52,
+    "Kléber": 53,
     "Harugumo": 72,
     "Hindenburg": 65,
     "Kremlin": 42,
     "Goliath": 46,
-    "Conqueror": 18,
+    "Conqueror": 19,
     "Mainz": 9,
     "Des Moines": 82,
     "Großer Kurfürst": 41,
-    "Midway": 46,
+    "Midway": 47,
     "Massachusetts": 26,
     "Zaō": 36,
     "Montana": 56,
@@ -32,7 +32,7 @@
     "Prinz Eugen": 2,
     "Gearing": 38,
     "Kaga": 8,
-    "Khabarovsk": 24,
+    "Khabarovsk": 25,
     "Shimakaze": 43,
     "Admiral Graf Spee": 25,
     "Atago": 8,
@@ -52,12 +52,12 @@
     "Jean Bart": 13,
     "Perth": 6,
     "W. Virginia 1941": 1,
-    "Z-52": 36,
+    "Z-52": 37,
     "Giulio Cesare": 1,
     "Yueyang": 21,
     "Sims": 4,
     "Benham": 5,
-    "Thunderer": 25,
+    "Thunderer": 26,
     "Grozovoi": 34,
     "Katori": 2,
     "Salem": 5,
@@ -142,7 +142,8 @@
     "Admiral Makarov": 1,
     "Arizona": 1,
     "Viribus Unitis": 1,
-    "Strasbourg": 1
+    "Strasbourg": 1,
+    "California": 1
   },
   "emptySkills": {
     "Mainz": 9,
@@ -212,11 +213,17 @@
     "Hakuryū": 1,
     "Harugumo": 1,
     "Cossack": 1,
-    "Midway": 1,
+    "Midway": 2,
     "Alabama": 1,
     "Petropavlovsk": 1,
     "Shimakaze": 1,
-    "Montana": 1
+    "Montana": 1,
+    "Khabarovsk": 1,
+    "Z-52": 1,
+    "Thunderer": 1,
+    "California": 1,
+    "Conqueror": 1,
+    "Kléber": 1
   },
   "emptyUpgrades": {
     "Mainz": 9,
@@ -303,7 +310,8 @@
     "Admiral Makarov": 1,
     "Arizona": 1,
     "Loyang": 1,
-    "Strasbourg": 1
+    "Strasbourg": 1,
+    "California": 1
   },
   "wrongName": {
     "hinden": 7,
