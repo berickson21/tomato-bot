@@ -5946,7 +5946,7 @@
     "type": "Cruiser",
     "nation": "commonwealth",
     "tier": 6,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6474,7 +6474,7 @@
     "type": "Destroyer",
     "nation": "pan_asia",
     "tier": 8,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6508,5 +6508,131 @@
       "Soon™"
     ],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+  },
+  "Max Immelmann": {
+    "name": "Max Immelmann",
+    "aliases": [
+      "max immelmann"
+    ],
+    "ship_id": 3655317296,
+    "type": "AirCarrier",
+    "nation": "germany",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Sanzang": {
+    "name": "Sanzang",
+    "aliases": [
+      "sanzang"
+    ],
+    "ship_id": 3762271440,
+    "type": "AirCarrier",
+    "nation": "pan_asia",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Flandre": {
+    "name": "Flandre",
+    "aliases": [
+      "flandre"
+    ],
+    "ship_id": 3730782032,
+    "type": "Battleship",
+    "nation": "france",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Wujing": {
+    "name": "Wujing",
+    "aliases": [
+      "wujing"
+    ],
+    "ship_id": 3750704336,
+    "type": "Battleship",
+    "nation": "pan_asia",
+    "tier": 9,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Austin": {
+    "name": "Austin",
+    "aliases": [
+      "austin"
+    ],
+    "ship_id": 3445536752,
+    "type": "Cruiser",
+    "nation": "usa",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Juruá": {
+    "name": "Juruá",
+    "aliases": [
+      "juruá"
+    ],
+    "ship_id": 3764270416,
+    "type": "Destroyer",
+    "nation": "pan_america",
+    "tier": 6,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
   }
 }
