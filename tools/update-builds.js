@@ -164,7 +164,7 @@ async function updateSheetSkills() {
   return map(newSkills, skills => {
     const shipName = skills[0];
 
-    if (builds[shipName]) {
+    if (builds[shipName] && skills.length > 1) {
       builds[shipName]["skills"] = skills.slice(1);
     } else {
       console.log(shipName);
