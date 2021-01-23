@@ -295,7 +295,7 @@
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
-      "Torpedo Tubes Modification 1",
+      "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
       "Concealment System Modification 1",
       "Main Battery Modification 3"
@@ -2768,9 +2768,9 @@
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
-      "Aiming Systems Modification 1",
+      "Smoke Generator Mod 1/Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
-      "Concealment System Modification 1",
+      "Additional Smoke Generators/Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
     "signals": [
@@ -2928,7 +2928,7 @@
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
-      "Torpedo Tubes Modification 1",
+      "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
       "Concealment System Modification 1",
       "Torpedo Tubes Modification 2"
@@ -3015,7 +3015,7 @@
       "Speed Boost Modification 2/Engine Room Protection",
       "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
-      "Rudder Modification 2/Heavyweight Artillery",
+      "Master Fire Control Director/Steering Gears Modification 2",
       "Main Battery Modification 3"
     ],
     "signals": [
@@ -3058,10 +3058,10 @@
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
-      "Torpedo Tubes Modification 1",
+      "Aiming Systems Modification 1",
       "Propulsion Modification 1 ",
       "Concealment System Modification 1",
-      "Torpedo Tubes Modification 2/Main Battery Modification 3"
+      "Main Battery Modification 3"
     ],
     "signals": [
       "Soon™"
