@@ -119,7 +119,7 @@ async function getCaptainSkills(auth) {
   const sheets = google.sheets({ version: "v4", auth });
   let res = await sheets.spreadsheets.values.get({
     spreadsheetId: "1gviI0FbwIpUGk1yEKru9sJcycaE45c3AjS4oM4a0gx4",
-    range: "0.10.0 Captain Skills"
+    range: "0.10.0 Skills"
   });
   if (res.err)
     return console.error("The Sheets API returned an error: " + res.err);

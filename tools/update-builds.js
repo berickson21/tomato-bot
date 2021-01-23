@@ -166,6 +166,13 @@ async function updateSheetSkills() {
 
     if (builds[shipName] && skills.length > 1) {
       builds[shipName]["skills"] = skills.slice(1);
+      builds[shipName]["note"] =
+        builds[shipName]["note"] &&
+        builds[shipName]["note"].includes(
+          "This build uses pre-0.10.0 captain skills"
+        )
+          ? ""
+          : builds[shipName]["note"];
     } else {
       console.log(shipName);
     }
