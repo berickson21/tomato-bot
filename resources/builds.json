@@ -283,14 +283,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Preventive Maintenance",
       "Last Stand",
       "Survivability Expert",
-      "Concealment Expert",
-      "Superintendent",
+      "Main Battery and AA Expert",
+      "Fearless Brawler",
       "Adrenaline Rush",
-      "Basic Firing Training",
-      "Preventive Maintenance"
+      "Main Battery and AA Specialist",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -303,7 +303,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Smolensk": {
     "name": "Smolensk",
@@ -830,7 +830,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Soon™"
+      "Liquidator",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Main Battery and AA Expert",
+      "Adrenaline Rush",
+      "Fill the Tubes",
+      "Preventive Maintenance"
     ],
     "upgrades": [
       "Soon™"
@@ -838,7 +845,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Paolo Emilio": {
     "name": "Paolo Emilio",
@@ -892,13 +899,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
+      "Liquidator",
       "Last Stand",
       "Survivability Expert",
       "Concealment Expert",
-      "Torpedo Armament Expertise",
-      "Superintendent",
+      "Fill the Tubes",
       "Adrenaline Rush",
+      "Swift Fish",
+      "Consumables Enhancements",
       "Preventive Maintenance"
     ],
     "upgrades": [
@@ -912,7 +920,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Stalingrad": {
     "name": "Stalingrad",
@@ -2717,14 +2725,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
+      "Preventive Maintenance",
       "Priority Target",
-      "Last Stand",
-      "Superintendent",
-      "Advanced Firing Training",
-      "Basic Firing Training",
-      "Demolition Expert",
+      "Survivability Expert",
+      "Main Battery and AA Expert",
+      "Fearless Brawler",
       "Adrenaline Rush",
-      "Preventive Maintenance"
+      "Main Battery and AA Specialist",
+      "Gun Feeder"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -2737,7 +2745,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Harugumo": {
     "name": "Harugumo",
@@ -2757,13 +2765,15 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
+      "Preventive Maintenance",
+      "Pyrotechnician",
+      "Survivability Expert",
+      "Main Battery and AA Expert",
+      "Main Battery and AA Specialist",
+      "Adrenaline Rush",
       "Priority Target",
-      "Last Stand",
-      "Basic Firing Training",
-      "Inertia Fuse for HE Shells",
-      "Advanced Firing Training",
-      "Demolition Expert",
-      "Adrenaline Rush"
+      "Consumables Enhancements",
+      "Consumables Specialist"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -2776,7 +2786,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Goliath": {
     "name": "Goliath",
@@ -2916,14 +2926,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Preventive Maintenance",
       "Last Stand",
       "Survivability Expert",
       "Concealment Expert",
-      "Torpedo Armament Expertise",
-      "Basic Firing Training",
       "Adrenaline Rush",
-      "Preventive Maintenance"
+      "Fill the Tubes",
+      "Main Battery and AA Specialist",
+      "Pyrotechnician"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -2936,7 +2946,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Halland": {
     "name": "Halland",
@@ -2963,14 +2973,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Liquidator",
       "Last Stand",
-      "Torpedo Armament Expertise",
-      "Concealment Expert",
       "Survivability Expert",
+      "Concealment Expert",
       "Adrenaline Rush",
-      "Superintendent",
-      "Preventive Maintenance"
+      "Fill the Tubes",
+      "Main Battery and AA Specialist",
+      "Priority Target"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -2983,7 +2993,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Khabarovsk": {
     "name": "Khabarovsk",
@@ -3001,14 +3011,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Last Stand",
-      "Basic Firing Training",
-      "Advanced Firing Training",
-      "Adrenaline Rush",
-      "Demolition Expert",
       "Preventive Maintenance",
-      "Superintendent"
+      "Priority Target",
+      "Survivability Expert",
+      "Main Battery and AA Expert",
+      "Fearless Brawler",
+      "Adrenaline Rush",
+      "Main Battery and AA Specialist",
+      "Gun Feeder"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -3021,7 +3031,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Z-52": {
     "name": "Z-52",
@@ -3047,13 +3057,13 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Preventive Maintenance",
       "Last Stand",
       "Survivability Expert",
-      "Concealment Expert",
-      "Basic Firing Training",
-      "Superintendent",
-      "Torpedo Armament Expertise"
+      "Main Battery and AA Expert",
+      "Adrenaline Rush",
+      "Main Battery and AA Specialist",
+      "Extra-Heavy AP Shells"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -3066,7 +3076,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Kléber": {
     "name": "Kléber",
@@ -3093,14 +3103,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
+      "Preventive Maintenance",
       "Priority Target",
-      "Last Stand",
-      "Basic Firing Training",
-      "Advanced Firing Training",
       "Survivability Expert",
-      "Demolition Expert",
+      "Fearless Brawler",
+      "Main Battery and AA Expert",
       "Adrenaline Rush",
-      "Preventive Maintenance"
+      "Main Battery and AA Specialist",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -3113,7 +3123,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Daring": {
     "name": "Daring",
@@ -3135,14 +3145,15 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Preventive Maintenance",
       "Last Stand",
       "Survivability Expert",
       "Concealment Expert",
       "Adrenaline Rush",
-      "Basic Firing Training",
-      "Demolition Expert",
-      "Preventive Maintenance"
+      "Main Battery and AA Specialist",
+      "Priority Target",
+      "Pyrotechnician",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -3155,7 +3166,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Moskva": {
     "name": "Moskva",
@@ -3999,13 +4010,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Liquidator",
       "Last Stand",
       "Survivability Expert",
       "Concealment Expert",
-      "Torpedo Armament Expertise",
-      "Basic Firing Training",
+      "Fill the Tubes",
       "Adrenaline Rush",
+      "Swift Fish",
+      "Consumables Enhancements",
       "Preventive Maintenance"
     ],
     "upgrades": [
@@ -4019,7 +4031,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Arkansas Beta": {
     "name": "Arkansas Beta",
@@ -4070,14 +4082,15 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Liquidator",
       "Last Stand",
       "Survivability Expert",
       "Concealment Expert",
+      "Fill the Tubes",
       "Adrenaline Rush",
-      "Torpedo Armament Expertise",
-      "Preventive Maintenance",
-      "Basic Firing Training"
+      "Swift Fish",
+      "Consumables Enhancements",
+      "Preventive Maintenance"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -4090,7 +4103,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Mikasa": {
     "name": "Mikasa",
@@ -5143,7 +5156,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Soon™"
+      "Preventive Maintenance",
+      "Last Stand",
+      "Survivability Expert",
+      "Concealment Expert",
+      "Main Battery and AA Expert",
+      "Adrenaline Rush",
+      "Main Battery and AA Specialist",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1 ",
@@ -5156,7 +5176,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Siliwangi": {
     "name": "Siliwangi",
