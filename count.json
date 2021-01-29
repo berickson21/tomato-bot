@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2934,
+  "totalMessages": 2935,
   "totalShipRequests": {
     "Kléber": 60,
     "Harugumo": 79,
@@ -7,7 +7,7 @@
     "Kremlin": 47,
     "Goliath": 53,
     "Conqueror": 22,
-    "Mainz": 10,
+    "Mainz": 11,
     "Des Moines": 85,
     "Großer Kurfürst": 43,
     "Midway": 53,
@@ -150,7 +150,7 @@
     "Okhotnik": 1
   },
   "emptySkills": {
-    "Mainz": 10,
+    "Mainz": 11,
     "Flint": 3,
     "Atlanta": 14,
     "Marceau": 10,
@@ -271,7 +271,7 @@
     "Anchorage": 1
   },
   "emptyUpgrades": {
-    "Mainz": 10,
+    "Mainz": 11,
     "Flint": 3,
     "Atlanta": 12,
     "Odin": 13,
