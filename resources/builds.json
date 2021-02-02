@@ -44,13 +44,16 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
+      "Grease the Gears",
       "Priority Target",
-      "Expert Marksman",
-      "Demolition Expert",
+      "Superintendent",
       "Concealment Expert",
       "Adrenaline Rush",
+      "Pyrotechnician",
+      "Gun Feeder",
+      "Incoming Fire Alert",
       "Survivability Expert",
-      "Superintendent"
+      "Last Stand"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -63,7 +66,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Neustrashimy": {
     "name": "Neustrashimy",
@@ -318,13 +321,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
-      "Basic Firing Training",
-      "Advanced Firing Training",
+      "Last Stand",
+      "Pyrotechnician",
+      "Superintendent",
       "Concealment Expert",
-      "Demolition Expert",
-      "Jack of All Trades"
+      "Heavy HE and SAP Shells",
+      "Adrenaline Rush",
+      "Survivability Expert",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -337,7 +341,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Puerto Rico": {
     "name": "Puerto Rico",
@@ -352,14 +356,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Preventive Credit Card Limit",
-      "Expert Memer",
-      "Gold Rush",
-      "Superdirectives",
-      "Whaling Expert",
-      "Basics of False Advertisement",
-      "Refund Prevention",
-      "Expert Grindsman"
+      "Grease the Gears",
+      "Priority Target",
+      "Superintendent",
+      "Concealment Expert",
+      "Adrenaline Rush",
+      "Heavy AP Shells",
+      "Eye in the Sky",
+      "Consumables Specialist"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -372,7 +376,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Admiral Makarov": {
     "name": "Admiral Makarov",
@@ -466,13 +470,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Eye in the Sky",
       "Superintendent",
       "Concealment Expert",
-      "Inertia Fuse for HE Shells",
+      "Top Grade Gunner",
       "Adrenaline Rush",
-      "Demolition Expert"
+      "Heavy HE and SAP Shells",
+      "Gun Feeder"
     ],
     "upgrades": [
       "Main Armaments Modification 1/Spotting Aircraft Modification 1",
@@ -485,7 +490,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Asashio": {
     "name": "Asashio",
@@ -936,13 +941,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Gun Feeder",
+      "Consumables Enhancements",
       "Superintendent",
       "Concealment Expert",
       "Adrenaline Rush",
-      "Fire Prevention",
-      "Basics of Survivability"
+      "Heavy AP Shells",
+      "Grease the Gears",
+      "Heavy HE and SAP Shells"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -955,7 +961,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Azuma": {
     "name": "Azuma",
@@ -992,14 +998,13 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
+      "Incoming Fire Alert",
+      "Pyrotechnician",
+      "Superintendent",
+      "Concealment Expert",
       "Adrenaline Rush",
-      "Basic Firing Training",
-      "Advanced Firing Training",
-      "Demolition Expert",
-      "Survivability Expert",
-      "Preventive Maintenance",
-      "Last Stand"
+      "Heavy HE and SAP Shells",
+      "Consumables Enhancements"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -1012,7 +1017,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Alaska": {
     "name": "Alaska",
@@ -1027,14 +1032,14 @@
     "is_premium": true,
     "is_special": false,
     "skills": [
+      "Grease the Gears",
       "Priority Target",
-      "Adrenaline Rush",
       "Superintendent",
       "Concealment Expert",
-      "Expert Loader",
-      "Expert Marksman",
-      "Fire Prevention",
-      "Jack of All Trades"
+      "Adrenaline Rush",
+      "Heavy AP Shells",
+      "Eye in the Sky",
+      "Consumables Specialist"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -1047,7 +1052,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Slava": {
     "name": "Slava",
@@ -2805,14 +2810,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
+      "Gun Feeder",
+      "Pyrotechnician",
       "Superintendent",
       "Concealment Expert",
-      "Expert Loader",
-      "Survivability Expert",
-      "Demolition Expert",
-      "Jack of All Trades"
+      "Top Grade Gunner",
+      "Adrenaline Rush",
+      "Heavy HE and SAP Shells",
+      "Grease the Gears"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -2825,7 +2830,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Worcester": {
     "name": "Worcester",
@@ -2846,13 +2851,15 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
+      "Last Stand",
+      "Consumables Enhancements",
       "Superintendent",
       "Concealment Expert",
       "Inertia Fuse for HE Shells",
-      "Demolition Expert",
-      "Jack of All Trades"
+      "Adrenaline Rush",
+      "Survivability Expert",
+      "Incoming Fire Alert",
+      "Last Stand"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -2865,7 +2872,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Audacious": {
     "name": "Audacious",
@@ -3181,13 +3188,15 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Consumables Enhancements",
       "Superintendent",
-      "Concealment Expert",
+      "Top Grade Gunner",
       "Adrenaline Rush",
-      "Fire Prevention",
-      "Basics of Survivability"
+      "Heavy AP Shells",
+      "Heavy HE and SAP Shells",
+      "Gun Feeder",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3200,7 +3209,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Venezia": {
     "name": "Venezia",
@@ -3223,15 +3232,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
+      "Gun Feeder",
+      "Eye in the Sky",
       "Superintendent",
       "Concealment Expert",
-      "Expert Marksman",
-      "Jack of All Trades",
-      "Preventive Maintenance",
-      "Expert Loader",
-      "Survivability Expert"
+      "Adrenaline Rush",
+      "Heavy HE and SAP Shells",
+      "Survivability Expert",
+      "Consumables Enhancements"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3244,7 +3252,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Hindenburg": {
     "name": "Hindenburg",
@@ -3268,14 +3276,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Gun Feeder",
+      "Eye in the Sky",
       "Adrenaline Rush",
-      "Demolition Expert",
       "Concealment Expert",
-      "Superintendent",
-      "Survivability Expert",
-      "Expert Loader",
-      "Jack of All Trades"
+      "Heavy HE and SAP Shells",
+      "Heavy AP Shells",
+      "Grease the Gears",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Spotter Plane Modification 1",
@@ -3288,7 +3296,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Henri IV": {
     "name": "Henri IV",
@@ -3312,14 +3320,16 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Consumables Enhancements",
       "Superintendent",
-      "Concealment Expert",
+      "Top Grade Gunner",
       "Adrenaline Rush",
-      "Demolition Expert",
-      "Survivability Expert",
-      "Expert Loader"
+      "Heavy HE and SAP Shells",
+      "Gun Feeder",
+      "Consumables Enhancements",
+      "Consumables Specialist",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3332,7 +3342,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Minotaur": {
     "name": "Minotaur",
@@ -3356,14 +3366,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
+      "Incoming Fire Alert",
+      "Expert AA Marksman",
       "Superintendent",
       "Concealment Expert",
-      "Jack of All Trades",
-      "Torpedo Armament Expertise",
+      "Adrenaline Rush",
+      "AA Gunner",
       "Survivability Expert",
-      "Preventive Maintenance"
+      "Swift Fish"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3376,7 +3386,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Kremlin": {
     "name": "Kremlin",
@@ -3733,14 +3743,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Eye in the Sky",
       "Superintendent",
       "Concealment Expert",
       "Adrenaline Rush",
-      "Expert Loader",
-      "Survivability Expert",
-      "Demolition Expert"
+      "Gun Feeder",
+      "Heavy AP Shells",
+      "Survivability Expert"
     ],
     "upgrades": [
       "Main Armaments Modification 1/Spotting Aircraft Modification 1",
@@ -3753,7 +3763,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Sims": {
     "name": "Sims",
@@ -3853,14 +3863,15 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Consumables Enhancements",
       "Superintendent",
       "Concealment Expert",
+      "Heavy AP Shells",
       "Adrenaline Rush",
-      "Demolition Expert",
+      "Gun Feeder",
       "Survivability Expert",
-      "Preventive Maintenance"
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3873,7 +3884,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Yamato": {
     "name": "Yamato",
@@ -5492,13 +5503,15 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
+      "Grease the Gears",
+      "Consumables Enhancements",
       "Superintendent",
       "Concealment Expert",
       "Adrenaline Rush",
-      "Fire Prevention",
-      "Basics of Survivability"
+      "Heavy AP Shells",
+      "Gun Feeder",
+      "Survivability Expert",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -5511,7 +5524,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Alexander Nevsky": {
     "name": "Alexander Nevsky",
@@ -5535,14 +5548,14 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Adrenaline Rush",
+      "Gun Feeder",
+      "Consumables Enhancements",
       "Superintendent",
       "Concealment Expert",
-      "Demolition Expert",
-      "Survivability Expert",
-      "Expert Marksman",
-      "Preventive Maintenance"
+      "Inertia Fuse for HE Shells",
+      "Adrenaline Rush",
+      "Heavy HE and SAP Shells",
+      "Incoming Fire Alert"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -5555,7 +5568,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Diana Lima": {
     "name": "Diana Lima",
@@ -5947,7 +5960,13 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Soon™"
+      "Incoming Fire Alert",
+      "Consumables Enhancements",
+      "Superintendent",
+      "Concealment Expert",
+      "Top Grade Gunner",
+      "Adrenaline Rush",
+      "Priority Target"
     ],
     "upgrades": [
       "Soon™"
@@ -5955,7 +5974,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Mysore": {
     "name": "Mysore",
