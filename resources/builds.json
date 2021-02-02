@@ -11,12 +11,12 @@
     "is_premium": true,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -30,7 +30,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Salem": {
     "name": "Salem",
@@ -634,7 +634,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Kaga": {
     "name": "Kaga",
@@ -1066,7 +1066,12 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Soon™"
+      "Gun Feeder",
+      "Grease the Gears",
+      "Adrenaline Rush",
+      "Dead Eye",
+      "Concealment Expert",
+      "Emergency Repair Expert"
     ],
     "upgrades": [
       "Soon™"
@@ -1074,7 +1079,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Bourgogne": {
     "name": "Bourgogne",
@@ -1090,13 +1095,14 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Expert Loader",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
+      "Emergency Repair Expert",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
-      "Basics of Survivability"
+      "Consumables Enhancements",
+      "Consumables Specialist"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -1109,7 +1115,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Thunderer": {
     "name": "Thunderer",
@@ -1123,12 +1129,12 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Expert Loader",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -1142,7 +1148,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Ohio": {
     "name": "Ohio",
@@ -1156,12 +1162,12 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -1175,7 +1181,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Benham": {
     "name": "Benham",
@@ -3410,13 +3416,13 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Emergency Repair Specialist",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
-      "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
-      "Basics of Survivability"
+      "Emergency Repair Expert",
+      "Top Grade Gunner",
+      "Fire Prevention Expert",
+      "Long-Range Seconday Battery Shells"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3429,7 +3435,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Großer Kurfürst": {
     "name": "Großer Kurfürst",
@@ -3461,12 +3467,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Emergency Repair Specialist",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
-      "Fire Prevention",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
+      "Fire Prevention",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3480,7 +3486,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "République": {
     "name": "République",
@@ -3506,12 +3512,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Preventive Maintenance",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
+      "Emergency Repair Expert",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3525,7 +3531,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Conqueror": {
     "name": "Conqueror",
@@ -3548,13 +3554,13 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Expert Loader",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Basics of Survivability",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
-      "Superintendent"
+      "Emergency Repair Expert",
+      "Basics of Survivability"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3567,7 +3573,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Hakuryū": {
     "name": "Hakuryū",
@@ -3908,11 +3914,11 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
-      "Superintendent",
-      "Concealment Expert",
+      "Emergency Repair Specialist",
+      "Grease the Gears",
       "Adrenaline Rush",
+      "Dead Eye",
+      "Concealment Expert",
       "Fire Prevention",
       "Basics of Survivability"
     ],
@@ -3927,7 +3933,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Montana": {
     "name": "Montana",
@@ -3957,12 +3963,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3976,7 +3982,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Tachibana Lima": {
     "name": "Tachibana Lima",
@@ -4622,11 +4628,11 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
-      "Expert Marksman",
-      "Superintendent",
-      "Concealment Expert",
+      "Emergency Repair Specialist",
+      "Grease the Gears",
       "Adrenaline Rush",
+      "Dead Eye",
+      "Concealment Expert",
       "Fire Prevention",
       "Basics of Survivability"
     ],
@@ -4636,7 +4642,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Ludendorff": {
     "name": "Ludendorff",
@@ -5817,12 +5823,12 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Priority Target",
+      "Gun Feeder",
+      "Grease the Gears",
       "Adrenaline Rush",
-      "Superintendent",
+      "Dead Eye",
       "Concealment Expert",
-      "Expert Marksman",
-      "Fire Prevention",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -5836,7 +5842,7 @@
     "signals": [
       "Soon™"
     ],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
+    "note": ""
   },
   "Kitakami": {
     "name": "Kitakami",
