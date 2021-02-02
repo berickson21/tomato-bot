@@ -21,11 +21,11 @@
     ],
     "upgrades": [
       "Damage Control Party Modification 1",
-      "Damage Control Modification 1/Engine Boost Modification 1",
-      "Plotting Room Modification 1",
-      "Damage Control Modification 2",
+      "Damage Control System Modification 1/Engine Boost Modification 1",
+      "Artillery Plotting Room Modification 1",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 2"
+      "Main Battery Modification 3"
     ],
     "signals": [
       "Soon™"
@@ -626,9 +626,9 @@
     ],
     "upgrades": [
       "Secondary Battery Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Secondary Battery Modification 2",
-      "Damage Control Modification 2",
+      "Propulsion Modification 1",
       "Concealment System Modification 1"
     ],
     "signals": [
@@ -1100,7 +1100,7 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
       "Damage Control Modification 2/Propulsion Modification 1",
       "Concealment System Modification 1",
@@ -1133,9 +1133,9 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
-      "Damage Control Modification 2",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
@@ -1166,11 +1166,11 @@
     ],
     "upgrades": [
       "Damage Control Party Modification 1",
-      "Damage Control Modification 1",
-      "Plotting Room Modification 1/Secondary Modification 1",
-      "Damage Control Modification 2",
+      "Damage Control System Modification 1",
+      "Artillery Plotting Room Modification 1/Secondary Modification 1",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 2"
+      "Main Battery Modification 3"
     ],
     "signals": [
       "Soon™"
@@ -3420,7 +3420,7 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
       "Propulsion Modification 1",
       "Concealment System Modification 1",
@@ -3471,9 +3471,9 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
-      "Damage Control Modification 2",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
@@ -3516,7 +3516,7 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
       "Damage Control Modification 2/Propulsion Modification 1",
       "Concealment System Modification 1",
@@ -3558,10 +3558,10 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
-      "Damage Control Modification 2",
-      "Concealment System Modification 1",
+      "Propulsion Modification 1",
+      "Enhanced Engineering Systems/Concealment System Modification 1",
       "Main Battery Modification 3"
     ],
     "signals": [
@@ -3918,7 +3918,7 @@
     ],
     "upgrades": [
       "Main Armaments Modification 1",
-      "Damage Control Modification 1",
+      "Damage Control System Modification 1",
       "Aiming Systems Modification 1",
       "Damage Control Modification 2",
       "Concealment System Modification 1",
@@ -3967,11 +3967,11 @@
     ],
     "upgrades": [
       "Damage Control Party Modification 1",
-      "Damage Control Modification 1",
-      "Plotting Room Modification 1",
-      "Damage Control Modification 2",
+      "Damage Control System Modification 1",
+      "Artillery Plotting Room Modification 1",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 2"
+      "Main Battery Modification 3"
     ],
     "signals": [
       "Soon™"
@@ -5827,11 +5827,11 @@
     ],
     "upgrades": [
       "Damage Control Party Modification 1",
-      "Damage Control Modification 1",
-      "Plotting Room Modification 1",
-      "Damage Control Modification 2",
+      "Damage Control System Modification 1",
+      "Artillery Plotting Room Modification 1",
+      "Propulsion Modification 1",
       "Concealment System Modification 1",
-      "Artillery Plotting Room Modification 2"
+      "Main Battery Modification 3"
     ],
     "signals": [
       "Soon™"
