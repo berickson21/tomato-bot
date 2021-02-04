@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2955,
+  "totalMessages": 2959,
   "totalShipRequests": {
     "Kléber": 60,
     "Harugumo": 79,
@@ -25,7 +25,7 @@
     "Odin": 13,
     "Smolensk": 21,
     "Stalingrad": 24,
-    "Halland": 86,
+    "Halland": 87,
     "Tallinn": 15,
     "Daring": 56,
     "Hakuryū": 45,
@@ -33,7 +33,7 @@
     "Gearing": 45,
     "Kaga": 10,
     "Khabarovsk": 31,
-    "Shimakaze": 51,
+    "Shimakaze": 52,
     "Admiral Graf Spee": 25,
     "Atago": 9,
     "Cossack": 12,
@@ -41,7 +41,7 @@
     "Yoshino": 21,
     "Worcester": 45,
     "Alexander Nevsky": 69,
-    "Alaska": 44,
+    "Alaska": 45,
     "Błyskawica": 3,
     "Asashio": 4,
     "Mikoyan": 3,
@@ -242,7 +242,6 @@
     "Minotaur": 5,
     "Exeter": 1,
     "Lenin": 1,
-    "Alaska": 5,
     "Alexander Nevsky": 4,
     "Nelson": 1,
     "Småland": 6,
@@ -595,6 +594,7 @@
     "öland": 1,
     "hindenberg": 1,
     "graf zepp": 1,
-    "zepplin": 1
+    "zepplin": 1,
+    "alask": 1
   }
 }
