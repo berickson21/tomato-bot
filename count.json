@@ -1,5 +1,5 @@
 {
-  "totalMessages": 2964,
+  "totalMessages": 2971,
   "totalShipRequests": {
     "Kléber": 60,
     "Harugumo": 79,
@@ -25,7 +25,7 @@
     "Odin": 13,
     "Smolensk": 21,
     "Stalingrad": 24,
-    "Halland": 87,
+    "Halland": 88,
     "Tallinn": 15,
     "Daring": 56,
     "Hakuryū": 45,
@@ -41,7 +41,7 @@
     "Yoshino": 21,
     "Worcester": 45,
     "Alexander Nevsky": 69,
-    "Alaska": 46,
+    "Alaska": 47,
     "Błyskawica": 3,
     "Asashio": 4,
     "Mikoyan": 3,
@@ -80,7 +80,7 @@
     "Loyang": 2,
     "Lenin": 6,
     "Slava": 4,
-    "Yamato": 54,
+    "Yamato": 55,
     "Manfred von Richthofen": 30,
     "Paolo Emilio": 1,
     "Azuma": 4,
@@ -93,10 +93,10 @@
     "Alabama": 2,
     "Champagne": 1,
     "Somers": 8,
-    "Friesland": 14,
+    "Friesland": 15,
     "Gallant": 1,
     "Black": 1,
-    "Småland": 25,
+    "Småland": 26,
     "Shikishima": 2,
     "Yūdachi": 2,
     "Yūbari": 1,
@@ -147,7 +147,8 @@
     "Genova": 1,
     "Dunkerque": 1,
     "Franklin D. Roosevelt": 1,
-    "Okhotnik": 1
+    "Okhotnik": 1,
+    "Hizen": 1
   },
   "emptySkills": {
     "Mainz": 11,
@@ -254,7 +255,7 @@
     "Audacious": 5,
     "Asashio": 1,
     "Franklin D. Roosevelt": 1,
-    "Friesland": 1,
+    "Friesland": 2,
     "Grozovoi": 5,
     "Ohio": 4,
     "Smolensk": 2,
@@ -308,7 +309,7 @@
     "Cossack": 11,
     "Nelson": 6,
     "Alabama": 2,
-    "Friesland": 14,
+    "Friesland": 15,
     "Gallant": 1,
     "Pommern": 9,
     "Lazo": 3,
@@ -358,7 +359,8 @@
     "Dunkerque": 1,
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
-    "Mikoyan": 1
+    "Mikoyan": 1,
+    "Hizen": 1
   },
   "wrongName": {
     "hinden": 7,
@@ -466,7 +468,7 @@
     "aud": 1,
     "georgia yoshino": 1,
     "starlingrad": 1,
-    "hall and": 1,
+    "hall and": 2,
     "demoines": 1,
     "waspite": 1,
     "frielsnad": 1,
