@@ -1,8 +1,8 @@
 {
-  "totalMessages": 2973,
+  "totalMessages": 2976,
   "totalShipRequests": {
     "Kléber": 60,
-    "Harugumo": 79,
+    "Harugumo": 80,
     "Hindenburg": 70,
     "Kremlin": 47,
     "Goliath": 53,
@@ -40,7 +40,7 @@
     "Venezia": 70,
     "Yoshino": 21,
     "Worcester": 45,
-    "Alexander Nevsky": 69,
+    "Alexander Nevsky": 70,
     "Alaska": 47,
     "Błyskawica": 3,
     "Asashio": 4,
@@ -596,6 +596,7 @@
     "hindenberg": 1,
     "graf zepp": 1,
     "zepplin": 1,
-    "alask": 1
+    "alask": 1,
+    "duca d aosta": 1
   }
 }
