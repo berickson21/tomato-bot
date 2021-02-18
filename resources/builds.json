@@ -284,7 +284,7 @@
     "nation": "europe",
     "tier": 10,
     "is_premium": false,
-    "is_special": false,
+    "is_special": true,
     "skills": [
       "Preventive Maintenance",
       "Last Stand",
@@ -5226,7 +5226,7 @@
     "type": "Destroyer",
     "nation": "italy",
     "tier": 6,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6685,5 +6685,173 @@
       "Soon™"
     ],
     "note": ""
+  },
+  "Hyūga": {
+    "name": "Hyūga",
+    "aliases": [
+      "hyūga"
+    ],
+    "ship_id": 3752802000,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Agincourt": {
+    "name": "Agincourt",
+    "aliases": [
+      "agincourt"
+    ],
+    "ship_id": 3765385168,
+    "type": "Battleship",
+    "nation": "uk",
+    "tier": 5,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "ZF-6": {
+    "name": "ZF-6",
+    "aliases": [
+      "zf-6"
+    ],
+    "ship_id": 3740153648,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Elbing": {
+    "name": "Elbing",
+    "aliases": [
+      "elbing"
+    ],
+    "ship_id": 4074649392,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Felix Schultz": {
+    "name": "Felix Schultz",
+    "aliases": [
+      "felix schultz"
+    ],
+    "ship_id": 4075697968,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 9,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Gustav Julius Maerker": {
+    "name": "Gustav Julius Maerker",
+    "aliases": [
+      "gustav julius maerker"
+    ],
+    "ship_id": 4076746544,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Z-31": {
+    "name": "Z-31",
+    "aliases": [
+      "z-31"
+    ],
+    "ship_id": 4077795120,
+    "type": "Destroyer",
+    "nation": "germany",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Fenyang": {
+    "name": "Fenyang",
+    "aliases": [
+      "fenyang"
+    ],
+    "ship_id": 3751687376,
+    "type": "Destroyer",
+    "nation": "pan_asia",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
   }
 }
