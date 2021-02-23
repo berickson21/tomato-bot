@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3047,
+  "totalMessages": 3053,
   "totalShipRequests": {
     "Kléber": 62,
     "Harugumo": 80,
@@ -18,7 +18,7 @@
     "Flint": 3,
     "Atlanta": 14,
     "Moskva": 25,
-    "Minotaur": 60,
+    "Minotaur": 61,
     "Bourgogne": 8,
     "Marceau": 13,
     "Henri IV": 32,
@@ -27,7 +27,7 @@
     "Stalingrad": 24,
     "Halland": 90,
     "Tallinn": 15,
-    "Daring": 62,
+    "Daring": 63,
     "Hakuryū": 45,
     "Prinz Eugen": 3,
     "Gearing": 46,
@@ -40,7 +40,7 @@
     "Venezia": 72,
     "Yoshino": 21,
     "Worcester": 46,
-    "Alexander Nevsky": 72,
+    "Alexander Nevsky": 73,
     "Alaska": 50,
     "Błyskawica": 3,
     "Asashio": 5,
@@ -52,12 +52,12 @@
     "Jean Bart": 18,
     "Perth": 6,
     "W. Virginia 1941": 1,
-    "Z-52": 47,
+    "Z-52": 48,
     "Giulio Cesare": 1,
     "Yueyang": 28,
     "Sims": 5,
     "Benham": 5,
-    "Thunderer": 35,
+    "Thunderer": 36,
     "Grozovoi": 40,
     "Katori": 2,
     "Salem": 5,
@@ -148,7 +148,8 @@
     "Dunkerque": 1,
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
-    "Hizen": 1
+    "Hizen": 1,
+    "Lepanto": 1
   },
   "emptySkills": {
     "Mainz": 11,
@@ -222,7 +223,6 @@
     "Shimakaze": 9,
     "Khabarovsk": 7,
     "Z-52": 9,
-    "Thunderer": 10,
     "California": 1,
     "Kléber": 8,
     "Worcester": 5,
@@ -253,7 +253,8 @@
     "Missouri": 1,
     "Prinz Eugen": 1,
     "Kirov": 1,
-    "Anchorage": 1
+    "Anchorage": 1,
+    "Lepanto": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -348,7 +349,8 @@
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
     "Mikoyan": 1,
-    "Hizen": 1
+    "Hizen": 1,
+    "Lepanto": 1
   },
   "wrongName": {
     "hinden": 7,
