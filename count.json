@@ -1,11 +1,11 @@
 {
-  "totalMessages": 3107,
+  "totalMessages": 3110,
   "totalShipRequests": {
     "Kléber": 64,
     "Harugumo": 85,
     "Hindenburg": 74,
     "Kremlin": 50,
-    "Goliath": 54,
+    "Goliath": 55,
     "Conqueror": 24,
     "Mainz": 11,
     "Des Moines": 92,
@@ -96,7 +96,7 @@
     "Friesland": 16,
     "Gallant": 1,
     "Black": 1,
-    "Småland": 26,
+    "Småland": 27,
     "Shikishima": 2,
     "Yūdachi": 2,
     "Yūbari": 1,
@@ -595,6 +595,7 @@
     "leap to": 1,
     "hendenburg": 1,
     "richto": 1,
-    "henri vi": 1
+    "henri vi": 1,
+    "ablemarle": 1
   }
 }
