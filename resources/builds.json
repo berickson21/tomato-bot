@@ -6431,7 +6431,7 @@
     "type": "Battleship",
     "nation": "italy",
     "tier": 9,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6607,7 +6607,7 @@
     "type": "Battleship",
     "nation": "france",
     "tier": 8,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6861,5 +6861,68 @@
       "Soon™"
     ],
     "note": ""
+  },
+  "Alabama VL": {
+    "name": "Alabama VL",
+    "aliases": [
+      "alabama vl"
+    ],
+    "ship_id": 3741267952,
+    "type": "Battleship",
+    "nation": "usa",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Weimar": {
+    "name": "Weimar",
+    "aliases": [
+      "weimar"
+    ],
+    "ship_id": 3752769328,
+    "type": "Cruiser",
+    "nation": "germany",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Tiger '59": {
+    "name": "Tiger '59",
+    "aliases": [
+      "tiger '59"
+    ],
+    "ship_id": 3751720912,
+    "type": "Cruiser",
+    "nation": "uk",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
   }
 }
