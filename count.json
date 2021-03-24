@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3167,
+  "totalMessages": 3172,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 86,
@@ -8,8 +8,8 @@
     "Goliath": 56,
     "Conqueror": 25,
     "Mainz": 11,
-    "Des Moines": 93,
-    "Großer Kurfürst": 49,
+    "Des Moines": 94,
+    "Großer Kurfürst": 50,
     "Midway": 61,
     "Massachusetts": 31,
     "Zaō": 45,
@@ -65,7 +65,7 @@
     "Audacious": 20,
     "Riga": 6,
     "Scharnhorst": 5,
-    "Petropavlovsk": 85,
+    "Petropavlovsk": 86,
     "Ark Royal": 3,
     "T-61": 2,
     "Huanghe": 6,
@@ -218,7 +218,6 @@
     "Cossack": 3,
     "Midway": 16,
     "Alabama": 1,
-    "Petropavlovsk": 15,
     "Shimakaze": 9,
     "Khabarovsk": 7,
     "Z-52": 9,
@@ -361,7 +360,7 @@
     "%lightning": 1,
     "bisbmark": 1,
     "bismark": 4,
-    "des moine": 2,
+    "des moine": 3,
     "des": 6,
     "hinderburg": 2,
     "charlestone": 1,
@@ -600,6 +599,7 @@
     "da rong": 1,
     "nevski": 1,
     "a. nevski": 1,
-    "alexander nevski": 1
+    "alexander nevski": 1,
+    "grosser kurfürst": 1
   }
 }
