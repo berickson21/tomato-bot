@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3186,
+  "totalMessages": 3189,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 87,
@@ -18,7 +18,7 @@
     "Flint": 3,
     "Atlanta": 14,
     "Moskva": 25,
-    "Minotaur": 65,
+    "Minotaur": 66,
     "Bourgogne": 8,
     "Marceau": 14,
     "Henri IV": 32,
@@ -33,7 +33,7 @@
     "Gearing": 48,
     "Kaga": 10,
     "Khabarovsk": 32,
-    "Shimakaze": 56,
+    "Shimakaze": 57,
     "Admiral Graf Spee": 25,
     "Atago": 9,
     "Cossack": 13,
@@ -149,7 +149,8 @@
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
     "Hizen": 1,
-    "Lepanto": 2
+    "Lepanto": 2,
+    "Marco Polo": 1
   },
   "emptySkills": {
     "Mainz": 11,
@@ -249,7 +250,8 @@
     "Kirov": 1,
     "Anchorage": 1,
     "Lepanto": 2,
-    "Musashi": 1
+    "Musashi": 1,
+    "Marco Polo": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -345,7 +347,8 @@
     "Okhotnik": 1,
     "Mikoyan": 1,
     "Hizen": 1,
-    "Lepanto": 2
+    "Lepanto": 2,
+    "Marco Polo": 1
   },
   "wrongName": {
     "hinden": 7,
