@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3208,
+  "totalMessages": 3210,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 87,
@@ -40,7 +40,7 @@
     "Venezia": 79,
     "Yoshino": 21,
     "Worcester": 47,
-    "Alexander Nevsky": 79,
+    "Alexander Nevsky": 80,
     "Alaska": 54,
     "Błyskawica": 3,
     "Asashio": 5,
@@ -604,6 +604,7 @@
     "alexander nevski": 1,
     "grosser kurfürst": 1,
     "småland": 1,
-    "p.bagation": 1
+    "p.bagation": 1,
+    "caracciolo": 1
   }
 }
