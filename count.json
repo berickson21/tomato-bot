@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3212,
+  "totalMessages": 3213,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 87,
@@ -150,7 +150,7 @@
     "Okhotnik": 1,
     "Hizen": 1,
     "Lepanto": 2,
-    "Marco Polo": 1
+    "Marco Polo": 2
   },
   "emptySkills": {
     "Mainz": 11,
@@ -250,7 +250,7 @@
     "Anchorage": 1,
     "Lepanto": 2,
     "Musashi": 1,
-    "Marco Polo": 1
+    "Marco Polo": 2
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -347,7 +347,7 @@
     "Mikoyan": 1,
     "Hizen": 1,
     "Lepanto": 2,
-    "Marco Polo": 1
+    "Marco Polo": 2
   },
   "wrongName": {
     "hinden": 7,
