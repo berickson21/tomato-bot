@@ -1,8 +1,8 @@
 {
-  "totalMessages": 3219,
+  "totalMessages": 3224,
   "totalShipRequests": {
     "Kléber": 66,
-    "Harugumo": 87,
+    "Harugumo": 88,
     "Hindenburg": 75,
     "Kremlin": 54,
     "Goliath": 57,
@@ -65,7 +65,7 @@
     "Audacious": 21,
     "Riga": 6,
     "Scharnhorst": 5,
-    "Petropavlovsk": 92,
+    "Petropavlovsk": 93,
     "Ark Royal": 3,
     "T-61": 2,
     "Huanghe": 6,
@@ -149,7 +149,7 @@
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
     "Hizen": 1,
-    "Lepanto": 2,
+    "Lepanto": 3,
     "Marco Polo": 2
   },
   "emptySkills": {
@@ -248,7 +248,7 @@
     "Prinz Eugen": 1,
     "Kirov": 1,
     "Anchorage": 1,
-    "Lepanto": 2,
+    "Lepanto": 3,
     "Musashi": 1,
     "Marco Polo": 2
   },
@@ -346,7 +346,7 @@
     "Okhotnik": 1,
     "Mikoyan": 1,
     "Hizen": 1,
-    "Lepanto": 2,
+    "Lepanto": 3,
     "Marco Polo": 2
   },
   "wrongName": {
@@ -605,6 +605,8 @@
     "grosser kurfürst": 1,
     "småland": 1,
     "p.bagation": 1,
-    "caracciolo": 1
+    "caracciolo": 1,
+    "cavour": 1,
+    "f. caracciolo": 1
   }
 }
