@@ -6695,7 +6695,7 @@
     "type": "Battleship",
     "nation": "japan",
     "tier": 7,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6739,7 +6739,7 @@
     "type": "Destroyer",
     "nation": "germany",
     "tier": 9,
-    "is_premium": false,
+    "is_premium": true,
     "is_special": true,
     "skills": [
       "Soon™"
@@ -6927,5 +6927,152 @@
       "Soon™"
     ],
     "note": ""
+  },
+  "Constellation": {
+    "name": "Constellation",
+    "aliases": [
+      "constellation"
+    ],
+    "ship_id": 3730782192,
+    "type": "Battleship",
+    "nation": "usa",
+    "tier": 8,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "HSF Hiei": {
+    "name": "HSF Hiei",
+    "aliases": [
+      "hsf hiei"
+    ],
+    "ship_id": 3545183952,
+    "type": "Battleship",
+    "nation": "japan",
+    "tier": 5,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Grosser Kurfürst": {
+    "name": "Grosser Kurfürst",
+    "aliases": [
+      "grosser kurfürst"
+    ],
+    "ship_id": 4179572528,
+    "type": "Battleship",
+    "nation": "germany",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Yukon": {
+    "name": "Yukon",
+    "aliases": [
+      "yukon"
+    ],
+    "ship_id": 3763287408,
+    "type": "Battleship",
+    "nation": "commonwealth",
+    "tier": 7,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Napoli": {
+    "name": "Napoli",
+    "aliases": [
+      "napoli"
+    ],
+    "ship_id": 3760109296,
+    "type": "Cruiser",
+    "nation": "italy",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "HSF Harekaze II": {
+    "name": "HSF Harekaze II",
+    "aliases": [
+      "hsf harekaze ii"
+    ],
+    "ship_id": 3741202128,
+    "type": "Destroyer",
+    "nation": "japan",
+    "tier": 8,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
+  },
+  "Druid": {
+    "name": "Druid",
+    "aliases": [
+      "druid"
+    ],
+    "ship_id": 3760076752,
+    "type": "Destroyer",
+    "nation": "uk",
+    "tier": 10,
+    "is_premium": false,
+    "is_special": true,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
   }
 }
