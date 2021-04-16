@@ -6947,7 +6947,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "HSF Hiei": {
     "name": "HSF Hiei",
@@ -6968,7 +6969,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "Grosser Kurfürst": {
     "name": "Grosser Kurfürst",
@@ -6989,7 +6991,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "Yukon": {
     "name": "Yukon",
@@ -7010,7 +7013,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "Napoli": {
     "name": "Napoli",
@@ -7031,7 +7035,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "HSF Harekaze II": {
     "name": "HSF Harekaze II",
@@ -7052,7 +7057,8 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   },
   "Druid": {
     "name": "Druid",
@@ -7073,6 +7079,7 @@
     ],
     "signals": [
       "Soon™"
-    ]
+    ],
+    "note": ""
   }
 }
