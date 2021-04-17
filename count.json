@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3229,
+  "totalMessages": 3233,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -28,7 +28,7 @@
     "Halland": 92,
     "Tallinn": 15,
     "Daring": 68,
-    "Hakuryū": 50,
+    "Hakuryū": 51,
     "Prinz Eugen": 3,
     "Gearing": 48,
     "Kaga": 10,
@@ -65,7 +65,7 @@
     "Audacious": 21,
     "Riga": 6,
     "Scharnhorst": 5,
-    "Petropavlovsk": 93,
+    "Petropavlovsk": 94,
     "Ark Royal": 3,
     "T-61": 2,
     "Huanghe": 6,
@@ -88,7 +88,7 @@
     "AL Littorio": 1,
     "Weser": 15,
     "Shinonome": 4,
-    "Haida": 3,
+    "Haida": 4,
     "London": 3,
     "Alabama": 2,
     "Champagne": 1,
@@ -149,7 +149,7 @@
     "Franklin D. Roosevelt": 1,
     "Okhotnik": 1,
     "Hizen": 1,
-    "Lepanto": 3,
+    "Lepanto": 4,
     "Marco Polo": 2
   },
   "emptySkills": {
@@ -178,7 +178,7 @@
     "Roma": 5,
     "AL Littorio": 1,
     "Weser": 15,
-    "Haida": 3,
+    "Haida": 4,
     "London": 3,
     "Champagne": 1,
     "Black": 1,
@@ -215,7 +215,7 @@
     "Strasbourg": 2,
     "République": 6,
     "Jean Bart": 6,
-    "Hakuryū": 8,
+    "Hakuryū": 9,
     "Cossack": 3,
     "Midway": 17,
     "Alabama": 1,
@@ -248,7 +248,7 @@
     "Prinz Eugen": 1,
     "Kirov": 1,
     "Anchorage": 1,
-    "Lepanto": 3,
+    "Lepanto": 4,
     "Musashi": 1,
     "Marco Polo": 2
   },
@@ -289,7 +289,7 @@
     "AL Littorio": 1,
     "Weser": 15,
     "Shinonome": 4,
-    "Haida": 3,
+    "Haida": 4,
     "London": 3,
     "Cossack": 12,
     "Nelson": 7,
@@ -346,7 +346,7 @@
     "Okhotnik": 1,
     "Mikoyan": 1,
     "Hizen": 1,
-    "Lepanto": 3,
+    "Lepanto": 4,
     "Marco Polo": 2
   },
   "wrongName": {
