@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3235,
+  "totalMessages": 3238,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -57,7 +57,7 @@
     "Yueyang": 32,
     "Sims": 5,
     "Benham": 5,
-    "Thunderer": 38,
+    "Thunderer": 39,
     "Grozovoi": 43,
     "Katori": 2,
     "Salem": 5,
@@ -75,7 +75,7 @@
     "Puerto Rico": 6,
     "Molotov": 1,
     "Musashi": 4,
-    "Warspite": 8,
+    "Warspite": 9,
     "Aigle": 5,
     "Loyang": 2,
     "Lenin": 6,
@@ -250,7 +250,8 @@
     "Anchorage": 1,
     "Lepanto": 4,
     "Musashi": 1,
-    "Marco Polo": 2
+    "Marco Polo": 2,
+    "Warspite": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -278,7 +279,7 @@
     "Graf Zeppelin": 4,
     "Molotov": 1,
     "Musashi": 4,
-    "Warspite": 8,
+    "Warspite": 9,
     "Aigle": 4,
     "Lenin": 6,
     "Slava": 3,
@@ -361,7 +362,7 @@
     "yoshion": 1,
     "%lightning": 1,
     "bisbmark": 1,
-    "bismark": 4,
+    "bismark": 5,
     "des moine": 3,
     "des": 6,
     "hinderburg": 2,
