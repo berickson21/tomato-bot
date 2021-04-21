@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3238,
+  "totalMessages": 3239,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -33,7 +33,7 @@
     "Gearing": 48,
     "Kaga": 10,
     "Khabarovsk": 32,
-    "Shimakaze": 57,
+    "Shimakaze": 58,
     "Admiral Graf Spee": 25,
     "Atago": 9,
     "Cossack": 13,
@@ -219,7 +219,6 @@
     "Cossack": 3,
     "Midway": 18,
     "Alabama": 1,
-    "Shimakaze": 9,
     "Khabarovsk": 7,
     "Z-52": 9,
     "California": 1,
