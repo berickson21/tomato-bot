@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3239,
+  "totalMessages": 3242,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -27,7 +27,7 @@
     "Stalingrad": 26,
     "Halland": 92,
     "Tallinn": 15,
-    "Daring": 68,
+    "Daring": 69,
     "Hakuryū": 51,
     "Prinz Eugen": 3,
     "Gearing": 48,
@@ -607,6 +607,7 @@
     "p.bagation": 1,
     "caracciolo": 1,
     "cavour": 1,
-    "f. caracciolo": 1
+    "f. caracciolo": 1,
+    "myōkō": 1
   }
 }
