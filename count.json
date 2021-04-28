@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3248,
+  "totalMessages": 3250,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -21,7 +21,7 @@
     "Minotaur": 66,
     "Bourgogne": 8,
     "Marceau": 14,
-    "Henri IV": 33,
+    "Henri IV": 34,
     "Odin": 13,
     "Smolensk": 21,
     "Stalingrad": 26,
@@ -608,6 +608,7 @@
     "caracciolo": 1,
     "cavour": 1,
     "f. caracciolo": 1,
-    "myōkō": 1
+    "myōkō": 1,
+    "saint": 1
   }
 }
