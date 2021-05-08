@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3271,
+  "totalMessages": 3281,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 88,
@@ -21,7 +21,7 @@
     "Minotaur": 66,
     "Bourgogne": 8,
     "Marceau": 15,
-    "Henri IV": 34,
+    "Henri IV": 35,
     "Odin": 13,
     "Smolensk": 21,
     "Stalingrad": 26,
@@ -39,7 +39,7 @@
     "Cossack": 13,
     "Venezia": 81,
     "Yoshino": 22,
-    "Worcester": 47,
+    "Worcester": 48,
     "Alexander Nevsky": 82,
     "Alaska": 54,
     "Błyskawica": 3,
@@ -52,9 +52,9 @@
     "Jean Bart": 19,
     "Perth": 6,
     "W. Virginia 1941": 1,
-    "Z-52": 51,
+    "Z-52": 52,
     "Giulio Cesare": 1,
-    "Yueyang": 32,
+    "Yueyang": 33,
     "Sims": 5,
     "Benham": 5,
     "Thunderer": 39,
@@ -67,7 +67,7 @@
     "Scharnhorst": 5,
     "Petropavlovsk": 97,
     "Ark Royal": 3,
-    "T-61": 2,
+    "T-61": 3,
     "Huanghe": 6,
     "République": 22,
     "Enterprise": 5,
@@ -151,7 +151,7 @@
     "Hizen": 1,
     "Lepanto": 4,
     "Marco Polo": 2,
-    "Felix Schultz": 1
+    "Felix Schultz": 3
   },
   "emptySkills": {
     "Mainz": 11,
@@ -252,7 +252,8 @@
     "Musashi": 1,
     "Marco Polo": 2,
     "Warspite": 1,
-    "Felix Schultz": 1
+    "Felix Schultz": 3,
+    "T-61": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -274,7 +275,7 @@
     "Katori": 2,
     "Scharnhorst": 5,
     "Ark Royal": 3,
-    "T-61": 2,
+    "T-61": 3,
     "Huanghe": 5,
     "Enterprise": 5,
     "Graf Zeppelin": 4,
@@ -350,7 +351,7 @@
     "Hizen": 1,
     "Lepanto": 4,
     "Marco Polo": 2,
-    "Felix Schultz": 1
+    "Felix Schultz": 3
   },
   "wrongName": {
     "hinden": 7,
@@ -404,7 +405,7 @@
     "manfred": 6,
     "manfred von richtofen": 1,
     "petrpavlovsk": 1,
-    "henry iv": 2,
+    "henry iv": 3,
     "henryiv": 1,
     "zuma": 1,
     "sovetskaya rossiya": 1,
@@ -612,6 +613,8 @@
     "cavour": 1,
     "f. caracciolo": 1,
     "myōkō": 1,
-    "saint": 1
+    "saint": 1,
+    "p.bagration": 1,
+    "yue": 1
   }
 }
