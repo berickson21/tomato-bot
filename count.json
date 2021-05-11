@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3288,
+  "totalMessages": 3292,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 89,
@@ -33,7 +33,7 @@
     "Gearing": 50,
     "Kaga": 11,
     "Khabarovsk": 32,
-    "Shimakaze": 58,
+    "Shimakaze": 59,
     "Admiral Graf Spee": 25,
     "Atago": 9,
     "Cossack": 13,
@@ -52,7 +52,7 @@
     "Jean Bart": 19,
     "Perth": 6,
     "W. Virginia 1941": 1,
-    "Z-52": 52,
+    "Z-52": 53,
     "Giulio Cesare": 1,
     "Yueyang": 33,
     "Sims": 5,
@@ -65,7 +65,7 @@
     "Audacious": 22,
     "Riga": 6,
     "Scharnhorst": 5,
-    "Petropavlovsk": 97,
+    "Petropavlovsk": 98,
     "Ark Royal": 3,
     "T-61": 3,
     "Huanghe": 6,
@@ -615,6 +615,7 @@
     "myōkō": 1,
     "saint": 1,
     "p.bagration": 1,
-    "yue": 1
+    "yue": 1,
+    "rīga": 1
   }
 }
