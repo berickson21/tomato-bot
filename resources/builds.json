@@ -6205,78 +6205,38 @@
   "Cristoforo Colombo": {
     "name": "Cristoforo Colombo",
     "aliases": [
-      "cristoforo colombo"
+      "cristoforo colombo",
+      "cristoforo columbo",
+      "cristoforo",
+      "cristof",
+      "christoforo colombo",
+      "christoforo columbo",
+      "christoforo",
+      "christof",
+      "marco polo",
+      "marco",
+      "lepanto",
+      "vittorio veneto",
+      "vittorio",
+      "francesco caracciolo",
+      "francesco caraciolo",
+      "francesco",
+      "andrea doria",
+      "andrea",
+      "conte di cavour",
+      "conte de cavour",
+      "conte di cavor",
+      "conte de cavor",
+      "conte",
+      "cavour",
+      "dante alighieri",
+      "dante aleghieri",
+      "dante"
     ],
     "ship_id": 4179572464,
     "type": "Battleship",
     "nation": "italy",
     "tier": 10,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Vittorio Veneto": {
-    "name": "Vittorio Veneto",
-    "aliases": [
-      "vittorio veneto"
-    ],
-    "ship_id": 4181669616,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 8,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Francesco Caracciolo": {
-    "name": "Francesco Caracciolo",
-    "aliases": [
-      "francesco caracciolo"
-    ],
-    "ship_id": 4182718192,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 7,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Andrea Doria": {
-    "name": "Andrea Doria",
-    "aliases": [
-      "andrea doria"
-    ],
-    "ship_id": 4183766768,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 6,
     "is_premium": false,
     "is_special": true,
     "skills": [
@@ -6411,94 +6371,6 @@
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Marco Polo": {
-    "name": "Marco Polo",
-    "aliases": [
-      "marco polo"
-    ],
-    "ship_id": 3761190640,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 9,
-    "is_premium": true,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Lepanto": {
-    "name": "Lepanto",
-    "aliases": [
-      "lepanto"
-    ],
-    "ship_id": 4180621040,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 9,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Conte di Cavour": {
-    "name": "Conte di Cavour",
-    "aliases": [
-      "conte di cavour"
-    ],
-    "ship_id": 4184815344,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 5,
-    "is_premium": false,
-    "is_special": true,
-    "skills": [
-      "Soon™"
-    ],
-    "upgrades": [
-      "Soon™"
-    ],
-    "signals": [
-      "Soon™"
-    ],
-    "note": ""
-  },
-  "Dante Alighieri": {
-    "name": "Dante Alighieri",
-    "aliases": [
-      "dante alighieri"
-    ],
-    "ship_id": 4185863920,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 4,
-    "is_premium": false,
-    "is_special": true,
     "skills": [
       "Soon™"
     ],
