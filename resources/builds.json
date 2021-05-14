@@ -6957,5 +6957,26 @@
       "Soon™"
     ],
     "note": ""
+  },
+  "Marco Polo": {
+    "name": "Marco Polo",
+    "aliases": [
+      "marco polo"
+    ],
+    "ship_id": 3761190640,
+    "type": "Battleship",
+    "nation": "italy",
+    "tier": 9,
+    "is_premium": true,
+    "is_special": false,
+    "skills": [
+      "Soon™"
+    ],
+    "upgrades": [
+      "Soon™"
+    ],
+    "signals": [
+      "Soon™"
+    ]
   }
 }
