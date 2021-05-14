@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3297,
+  "totalMessages": 3302,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 89,
@@ -27,7 +27,7 @@
     "Stalingrad": 26,
     "Halland": 93,
     "Tallinn": 15,
-    "Daring": 69,
+    "Daring": 70,
     "Hakuryū": 51,
     "Prinz Eugen": 3,
     "Gearing": 50,
@@ -58,7 +58,7 @@
     "Sims": 5,
     "Benham": 5,
     "Thunderer": 39,
-    "Grozovoi": 45,
+    "Grozovoi": 46,
     "Katori": 2,
     "Salem": 5,
     "Nelson": 9,
@@ -151,7 +151,9 @@
     "Hizen": 1,
     "Lepanto": 4,
     "Marco Polo": 2,
-    "Felix Schultz": 3
+    "Felix Schultz": 3,
+    "Belfast '43": 1,
+    "Cristoforo Colombo": 1
   },
   "emptySkills": {
     "Mainz": 11,
@@ -253,7 +255,9 @@
     "Marco Polo": 2,
     "Warspite": 1,
     "Felix Schultz": 3,
-    "T-61": 1
+    "T-61": 1,
+    "Belfast '43": 1,
+    "Cristoforo Colombo": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -351,7 +355,9 @@
     "Hizen": 1,
     "Lepanto": 4,
     "Marco Polo": 2,
-    "Felix Schultz": 3
+    "Felix Schultz": 3,
+    "Belfast '43": 1,
+    "Cristoforo Colombo": 1
   },
   "wrongName": {
     "hinden": 7,
@@ -616,6 +622,7 @@
     "saint": 1,
     "p.bagration": 1,
     "yue": 1,
-    "rīga": 1
+    "rīga": 1,
+    "marco": 1
   }
 }
