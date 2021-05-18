@@ -1,5 +1,5 @@
 {
-  "totalMessages": 3316,
+  "totalMessages": 3320,
   "totalShipRequests": {
     "Kléber": 66,
     "Harugumo": 89,
@@ -38,7 +38,7 @@
     "Atago": 9,
     "Cossack": 13,
     "Venezia": 82,
-    "Yoshino": 22,
+    "Yoshino": 23,
     "Worcester": 48,
     "Alexander Nevsky": 82,
     "Alaska": 54,
@@ -153,7 +153,8 @@
     "Marco Polo": 2,
     "Felix Schultz": 3,
     "Belfast '43": 1,
-    "Cristoforo Colombo": 1
+    "Cristoforo Colombo": 2,
+    "Z-31": 1
   },
   "emptySkills": {
     "Mainz": 11,
@@ -257,7 +258,8 @@
     "Felix Schultz": 3,
     "T-61": 1,
     "Belfast '43": 1,
-    "Cristoforo Colombo": 1
+    "Cristoforo Colombo": 2,
+    "Z-31": 1
   },
   "emptyUpgrades": {
     "Mainz": 11,
@@ -357,7 +359,8 @@
     "Marco Polo": 2,
     "Felix Schultz": 3,
     "Belfast '43": 1,
-    "Cristoforo Colombo": 1
+    "Cristoforo Colombo": 2,
+    "Z-31": 1
   },
   "wrongName": {
     "hinden": 7,
@@ -624,6 +627,7 @@
     "yue": 1,
     "rīga": 1,
     "marco": 1,
-    "new": 1
+    "new": 1,
+    "veneto": 1
   }
 }
