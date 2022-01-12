@@ -11,10 +11,10 @@
     "is_premium": true,
     "is_special": false,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
@@ -616,13 +616,13 @@
     "is_premium": true,
     "is_special": false,
     "skills": [
-      "Priority Target",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Superintendent",
-      "Advanced Firing Training",
       "Fire Prevention",
-      "Manual Fire Control for Secondary Armament",
-      "Preventive Maintenance"
+      "Concealment Expert",
+      "Emergency Repair Expert",
+      "Basics of Survivability"
     ],
     "upgrades": [
       "Secondary Battery Modification 1",
@@ -1066,12 +1066,13 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
-      "Emergency Repair Expert"
+      "Emergency Repair Expert",
+      "Basics of Survivability"
     ],
     "upgrades": [
       "Soon™"
@@ -1095,14 +1096,13 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
-      "Emergency Repair Expert",
+      "Fire Prevention",
       "Concealment Expert",
-      "Consumables Enhancements",
-      "Consumables Specialist"
+      "Emergency Repair Expert",
+      "Basics of Survivability"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -1129,10 +1129,10 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
@@ -1162,10 +1162,10 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
@@ -2863,9 +2863,7 @@
       "Concealment Expert",
       "Inertia Fuse for HE Shells",
       "Adrenaline Rush",
-      "Survivability Expert",
-      "Incoming Fire Alert",
-      "Last Stand"
+      "Priority Target"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3073,7 +3071,7 @@
       "Preventive Maintenance",
       "Last Stand",
       "Survivability Expert",
-      "Main Battery and AA Expert",
+      "Concealment Expert",
       "Adrenaline Rush",
       "Main Battery and AA Specialist",
       "Extra-Heavy AP Shells"
@@ -3327,15 +3325,13 @@
     "is_special": false,
     "skills": [
       "Grease the Gears",
-      "Consumables Enhancements",
+      "Priority Target",
       "Superintendent",
       "Top Grade Gunner",
       "Adrenaline Rush",
       "Heavy HE and SAP Shells",
       "Gun Feeder",
-      "Consumables Enhancements",
-      "Consumables Specialist",
-      "Incoming Fire Alert"
+      "Consumables Enhancements"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3416,13 +3412,13 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Emergency Repair Specialist",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
+      "Fire Prevention",
+      "Concealment Expert",
       "Emergency Repair Expert",
-      "Top Grade Gunner",
-      "Fire Prevention Expert",
-      "Long-Range Seconday Battery Shells"
+      "Basics of Survivability"
     ],
     "upgrades": [
       "Main Armaments Modification 1",
@@ -3467,12 +3463,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Emergency Repair Specialist",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
-      "Concealment Expert",
       "Fire Prevention",
+      "Concealment Expert",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3512,12 +3508,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
-      "Emergency Repair Expert",
+      "Fire Prevention",
       "Concealment Expert",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3554,10 +3550,10 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
@@ -3914,12 +3910,12 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Emergency Repair Specialist",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
-      "Concealment Expert",
       "Fire Prevention",
+      "Concealment Expert",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -3963,10 +3959,10 @@
     "is_premium": false,
     "is_special": false,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
@@ -4628,12 +4624,12 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Emergency Repair Specialist",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
-      "Concealment Expert",
       "Fire Prevention",
+      "Concealment Expert",
+      "Emergency Repair Expert",
       "Basics of Survivability"
     ],
     "upgrades": [
@@ -5823,10 +5819,10 @@
     "is_premium": false,
     "is_special": true,
     "skills": [
-      "Gun Feeder",
-      "Grease the Gears",
+      "Preventive Maintainence/Gun Feeder",
+      "Grease the Gears/Priority Target",
       "Adrenaline Rush",
-      "Dead Eye",
+      "Fire Prevention",
       "Concealment Expert",
       "Emergency Repair Expert",
       "Basics of Survivability"
