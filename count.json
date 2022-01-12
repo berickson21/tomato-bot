@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
   "totalMessages": 3809,
-=======
-  "totalMessages": 2591,
->>>>>>> Stashed changes
   "totalShipRequests": {
     "Kléber": 76,
     "Harugumo": 96,
@@ -100,15 +96,9 @@
     "Friesland": 21,
     "Gallant": 2,
     "Black": 1,
-<<<<<<< Updated upstream
     "Småland": 32,
     "Shikishima": 6,
     "Yūdachi": 3,
-=======
-    "Småland": 18,
-    "Shikishima": 2,
-    "Yūdachi": 1,
->>>>>>> Stashed changes
     "Yūbari": 1,
     "Pommern": 12,
     "Lazo": 4,
