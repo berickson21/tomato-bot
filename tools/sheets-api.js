@@ -42,7 +42,12 @@ async function authorize(credentials, callback) {
     oAuth2Client.setCredentials(JSON.parse(token));
     return await callback(oAuth2Client);
   } catch (err) {
-    return await getNewToken(oAuth2Client, callback);
+    if (err.message.indexOf("Unable to parse range") === -1) {
+      return await getNewToken(oAuth2Client, callback);
+    }
+    else {
+      console.error(err.message);
+    }
   }
 
   // Check if we have previously stored a token.
