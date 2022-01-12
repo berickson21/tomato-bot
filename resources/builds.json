@@ -26,15 +26,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -70,15 +65,10 @@
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -94,7 +84,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -105,11 +94,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -126,7 +110,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -137,11 +120,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -158,7 +136,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -169,11 +146,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -199,7 +171,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -207,11 +178,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -228,7 +194,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -239,11 +204,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -269,7 +229,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -277,11 +236,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -308,7 +262,6 @@
       "Basic Firing Training"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -316,11 +269,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -346,7 +294,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -354,11 +301,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -393,15 +335,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -435,15 +372,10 @@
       "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -477,15 +409,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -501,7 +428,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -512,11 +438,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -541,7 +462,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -552,11 +472,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -582,7 +497,6 @@
       "Superintendent"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -590,11 +504,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -629,15 +538,10 @@
       "Gun Fire Control System Modification 2/Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -663,7 +567,6 @@
       "Basic Firing Training"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -671,11 +574,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -692,7 +590,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -703,11 +600,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -733,7 +625,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -741,11 +632,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -771,7 +657,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -779,11 +664,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -822,15 +702,10 @@
       "Concealment System Modification 1"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -855,7 +730,6 @@
       "Survivability Expert"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -863,11 +737,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -884,7 +753,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -895,11 +763,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -925,7 +788,6 @@
       "Survivability Expert"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -933,11 +795,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -964,7 +821,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -972,11 +828,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1002,7 +853,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1010,11 +860,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1031,7 +876,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1042,11 +886,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1072,7 +911,6 @@
       "Adrenaline Rush"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1080,11 +918,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1100,7 +933,6 @@
     "tier": 10,
     "is_premium": false,
     "is_special": false,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Liquidator",
@@ -1119,11 +951,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1159,15 +986,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1202,15 +1024,10 @@
       "Torpedo Tubes Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1244,15 +1061,10 @@
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1268,7 +1080,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1279,11 +1090,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1317,15 +1123,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1359,15 +1160,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1382,7 +1178,6 @@
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Gun Feeder",
@@ -1399,11 +1194,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1438,15 +1228,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1479,15 +1264,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1520,15 +1300,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -1554,7 +1329,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1562,11 +1336,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1583,7 +1352,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1594,11 +1362,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1615,7 +1378,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1626,11 +1388,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1656,7 +1413,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1664,11 +1420,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1694,7 +1445,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1702,11 +1452,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1723,7 +1468,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1734,11 +1478,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1764,7 +1503,6 @@
       "Torpedo Armament Expertise"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1772,11 +1510,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1793,7 +1526,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1804,11 +1536,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1825,7 +1552,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1836,11 +1562,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1857,7 +1578,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1868,11 +1588,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1889,7 +1604,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1900,11 +1614,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -1931,7 +1640,6 @@
       "Jack of All Trades"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -1939,11 +1647,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -1960,7 +1663,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -1971,11 +1673,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2002,7 +1699,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2010,11 +1706,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2040,7 +1731,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2048,11 +1738,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2069,7 +1754,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2080,11 +1764,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2110,7 +1789,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2118,11 +1796,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2148,7 +1821,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2156,11 +1828,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2186,7 +1853,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2194,11 +1860,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2215,7 +1876,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2226,11 +1886,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2257,7 +1912,6 @@
       "Superintendent"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2265,11 +1919,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2286,7 +1935,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2297,11 +1945,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2318,7 +1961,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2329,11 +1971,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2350,7 +1987,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2361,11 +1997,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2392,7 +2023,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2400,11 +2030,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2421,7 +2046,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2432,11 +2056,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2453,7 +2072,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2464,11 +2082,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2494,7 +2107,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2502,11 +2114,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2537,7 +2144,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2545,11 +2151,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2566,7 +2167,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2577,11 +2177,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2607,7 +2202,6 @@
       "Torpedo Armament Expertise"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2615,11 +2209,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2636,7 +2225,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2647,11 +2235,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2678,7 +2261,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2686,11 +2268,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2707,7 +2284,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2718,11 +2294,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2739,7 +2310,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2750,11 +2320,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2771,7 +2336,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2782,11 +2346,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2803,7 +2362,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2814,11 +2372,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2835,7 +2388,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2846,11 +2398,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2883,15 +2430,10 @@
       "Damage Control Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -2907,7 +2449,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2918,11 +2459,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -2948,7 +2484,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -2956,11 +2491,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -2977,7 +2507,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -2988,11 +2517,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3018,7 +2542,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -3026,11 +2549,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -3056,7 +2574,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -3064,11 +2581,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -3085,7 +2597,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3096,11 +2607,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3117,7 +2623,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3128,11 +2633,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3149,7 +2649,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3160,11 +2659,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3181,7 +2675,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3192,11 +2685,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3223,7 +2711,6 @@
       "Jack of All Trades"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -3231,11 +2718,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -3252,7 +2734,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3263,11 +2744,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3293,7 +2769,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -3301,11 +2776,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -3322,7 +2792,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3333,11 +2802,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3354,7 +2818,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3365,11 +2828,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3386,7 +2844,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3397,11 +2854,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3418,7 +2870,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3429,11 +2880,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3450,7 +2896,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3461,11 +2906,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3491,7 +2931,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -3499,11 +2938,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -3520,7 +2954,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3531,11 +2964,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3552,7 +2980,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3563,11 +2990,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3584,7 +3006,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3595,11 +3016,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3616,7 +3032,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -3627,11 +3042,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -3677,15 +3087,10 @@
       "Main Battery Modification 3/Main Gun Automatic Loader"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3728,15 +3133,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3777,15 +3177,10 @@
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3829,15 +3224,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3871,15 +3261,10 @@
       "Air Groups Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3924,15 +3309,10 @@
       "Torpedo Tubes Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -3981,15 +3361,10 @@
       "Torpedo Tubes Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4023,15 +3398,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4078,15 +3448,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4135,15 +3500,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4188,15 +3548,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4231,15 +3586,10 @@
       "Main Battery Modification 3/Heavyweight Main Battery Guns"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4284,15 +3634,10 @@
       "Main Battery Modification 3/Gun Fire Control System Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4338,15 +3683,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4394,15 +3734,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4448,15 +3783,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4501,15 +3831,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4562,15 +3887,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4617,15 +3937,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4669,15 +3984,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4710,15 +4020,10 @@
       "Air Groups Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4751,15 +4056,10 @@
       "Air Groups Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4772,7 +4072,6 @@
     "type": "cruiser",
     "nation": "europe",
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -4783,11 +4082,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -4814,7 +4108,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -4822,11 +4115,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -4853,7 +4141,6 @@
       "Demolition Expert"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -4861,11 +4148,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -4912,15 +4194,10 @@
       "Gun Fire Control System Modification 2/Enhanced Main Battery and Steering Gears"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -4936,7 +4213,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -4947,11 +4223,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -4968,7 +4239,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -4979,11 +4249,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5010,7 +4275,6 @@
       "Expert Marksman"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5018,11 +4282,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5071,15 +4330,10 @@
       "Main Battery Modification 3/Enhanced Propulsion"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5124,15 +4378,10 @@
       "Main Battery Modification 3/Enhanced Main Battery Guns"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5183,15 +4432,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5207,7 +4451,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5218,11 +4461,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5269,15 +4507,10 @@
       "Torpedo Tubes Modification 2/Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5302,7 +4535,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5310,11 +4542,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5361,15 +4588,10 @@
       "Torpedo Tubes Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5385,7 +4607,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5396,11 +4617,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5426,7 +4642,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5434,11 +4649,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5455,7 +4665,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5466,11 +4675,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5487,7 +4691,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5498,11 +4701,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5519,7 +4717,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5530,11 +4727,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5551,7 +4743,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5562,11 +4753,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5592,7 +4778,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5600,11 +4785,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5630,7 +4810,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5638,11 +4817,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5669,7 +4843,6 @@
       "Superintendent"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5677,11 +4850,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5698,7 +4866,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5709,11 +4876,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5745,7 +4907,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -5753,11 +4914,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5770,7 +4926,6 @@
     "ship_id": 0,
     "type": "",
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "shrug"
     ],
@@ -5782,8 +4937,6 @@
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
 =======
-=======
->>>>>>> Stashed changes
     "skills": ["shrug"],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -5800,7 +4953,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5811,11 +4963,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5832,7 +4979,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5843,11 +4989,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5895,15 +5036,10 @@
       "Flight Control Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -5919,7 +5055,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5930,11 +5065,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5951,7 +5081,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5962,11 +5091,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -5983,7 +5107,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -5994,11 +5117,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6015,7 +5133,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6026,11 +5143,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6047,7 +5159,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6058,11 +5169,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6088,7 +5194,6 @@
       "Basics of Survivability"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -6096,11 +5201,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -6117,7 +5217,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6128,11 +5227,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6149,7 +5243,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6160,11 +5253,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6181,7 +5269,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6192,11 +5279,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6213,7 +5295,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6224,11 +5305,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6245,7 +5321,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6256,11 +5331,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6277,7 +5347,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6288,11 +5357,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6309,7 +5373,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6320,11 +5383,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6341,7 +5399,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6352,11 +5409,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6389,15 +5441,10 @@
       "Damage Control Modification 2"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -6413,7 +5460,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6424,11 +5470,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6445,7 +5486,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6456,11 +5496,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6477,7 +5512,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6488,11 +5522,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6509,7 +5538,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6520,11 +5548,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6541,7 +5564,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6552,11 +5574,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6573,7 +5590,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6584,11 +5600,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6605,7 +5616,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6616,11 +5626,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6637,7 +5642,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6648,11 +5652,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6669,7 +5668,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6680,11 +5678,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6701,7 +5694,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6712,11 +5704,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6733,7 +5720,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6744,11 +5730,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6765,7 +5746,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6776,11 +5756,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6797,7 +5772,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6808,11 +5782,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6829,7 +5798,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6840,11 +5808,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6861,7 +5824,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Preventive Maintenance",
       "Last Stand",
@@ -6875,9 +5837,6 @@
 =======
     "skills": ["Soon™"],
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
->>>>>>> Stashed changes
     "upgrades": [
       "Main Armaments Modification 1 ",
       "Speed Boost Modification 2/Engine Room Protection",
@@ -6887,14 +5846,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"]
 >>>>>>> Stashed changes
@@ -6909,7 +5864,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6920,11 +5874,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6941,7 +5890,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6952,11 +5900,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -6973,7 +5916,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -6984,11 +5926,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7005,7 +5942,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7016,11 +5952,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7037,7 +5968,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7048,11 +5978,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7069,7 +5994,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7080,11 +6004,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7101,7 +6020,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7112,11 +6030,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7133,7 +6046,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7144,11 +6056,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7165,7 +6072,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7176,11 +6082,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7197,7 +6098,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7208,11 +6108,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7239,7 +6134,6 @@
       "Preventive Maintenance"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "upgrades": [
       "Soon™"
     ],
@@ -7247,11 +6141,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "upgrades": ["Soon™"],
     "signals": ["Soon™"],
@@ -7268,7 +6157,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7279,11 +6167,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7300,7 +6183,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7311,11 +6193,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7362,15 +6239,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -7416,15 +6288,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -7440,7 +6307,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7451,11 +6317,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7472,7 +6333,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7483,11 +6343,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7504,7 +6359,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7515,11 +6369,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7536,7 +6385,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7547,11 +6395,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7568,7 +6411,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7579,11 +6421,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7600,7 +6437,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7611,11 +6447,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7649,15 +6480,10 @@
       "Concealment System Modification 1"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -7673,7 +6499,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7684,11 +6509,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7705,7 +6525,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7716,11 +6535,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7737,7 +6551,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7748,11 +6561,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7786,15 +6594,10 @@
       "Main Battery Modification 3"
     ],
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "signals": [
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "signals": ["Soon™"],
-    "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
->>>>>>> Stashed changes
 =======
     "signals": ["Soon™"],
     "note": "This build uses pre-0.10.0 captain skills. Builds will be updated when possible, but it will take time. Thanks for your patience!"
@@ -7810,7 +6613,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7821,11 +6623,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7842,7 +6639,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7853,11 +6649,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7874,7 +6665,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7885,11 +6675,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7906,7 +6691,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7917,11 +6701,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -7938,7 +6717,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -7954,11 +6732,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
   },
   "Plymouth": {
     "name": "Plymouth",
@@ -7969,7 +6742,6 @@
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Incoming Fire Alert",
@@ -7992,11 +6764,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
   },
   "Mysore": {
     "name": "Mysore",
@@ -8008,7 +6775,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8019,11 +6785,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8040,7 +6801,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8051,11 +6811,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8072,7 +6827,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8083,11 +6837,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8104,7 +6853,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8115,11 +6863,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8136,7 +6879,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8147,11 +6889,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8168,7 +6905,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8179,11 +6915,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8200,7 +6931,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8211,11 +6941,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8232,7 +6957,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8243,11 +6967,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8264,7 +6983,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8280,11 +6998,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
   },
   "Jean Bart B": {
     "name": "Jean Bart B",
@@ -8295,7 +7008,6 @@
     "tier": 9,
     "is_premium": true,
     "is_special": false,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8352,22 +7064,12 @@
     "name": "Cristoforo Colombo",
     "aliases": ["cristoforo colombo"],
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
-  "Cristoforo Colombo": {
-    "name": "Cristoforo Colombo",
-    "aliases": ["cristoforo colombo"],
->>>>>>> Stashed changes
     "ship_id": 4179572464,
     "type": "Battleship",
     "nation": "italy",
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8380,8 +7082,6 @@
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
 =======
-=======
->>>>>>> Stashed changes
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
@@ -8424,9 +7124,6 @@
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
   },
   "Atlanta B": {
@@ -8439,7 +7136,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8450,11 +7146,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8471,7 +7162,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8482,11 +7172,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8503,7 +7188,6 @@
     "is_premium": false,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8514,11 +7198,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8535,7 +7214,6 @@
     "is_premium": true,
     "is_special": true,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8546,11 +7224,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
@@ -8567,7 +7240,6 @@
     "is_premium": true,
     "is_special": false,
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "skills": [
       "Soon™"
     ],
@@ -8583,11 +7255,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
 >>>>>>> Stashed changes
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
   },
   "Cossack B": {
     "name": "Cossack B",
@@ -8598,7 +7265,6 @@
     "tier": 8,
     "is_premium": true,
     "is_special": false,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8710,12 +7376,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
->>>>>>> Stashed changes
   "Marco Polo": {
     "name": "Marco Polo",
     "aliases": ["marco polo"],
@@ -8728,7 +7388,6 @@
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
-<<<<<<< Updated upstream
   },
   "Lepanto": {
     "name": "Lepanto",
@@ -8757,13 +7416,6 @@
       "wujing"
     ],
     "ship_id": 3750704336,
-=======
-  },
-  "Lepanto": {
-    "name": "Lepanto",
-    "aliases": ["lepanto"],
-    "ship_id": 4180621040,
->>>>>>> Stashed changes
     "type": "Battleship",
     "nation": "pan_asia",
     "tier": 9,
@@ -8791,7 +7443,6 @@
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8859,12 +7510,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
->>>>>>> Stashed changes
   "Conte di Cavour": {
     "name": "Conte di Cavour",
     "aliases": ["conte di cavour"],
@@ -8875,7 +7520,6 @@
     "tier": 5,
     "is_premium": true,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8934,25 +7578,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
-  "Dante Alighieri": {
-    "name": "Dante Alighieri",
-    "aliases": ["dante alighieri"],
-    "ship_id": 4185863920,
-    "type": "Battleship",
-    "nation": "italy",
-    "tier": 4,
-    "is_premium": false,
-    "is_special": true,
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
->>>>>>> Stashed changes
   "Fen Yang": {
     "name": "Fen Yang",
     "aliases": ["fen yang"],
@@ -8963,7 +7588,6 @@
     "tier": 10,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -8987,12 +7611,6 @@
     "upgrades": ["Soon™"],
     "signals": ["Soon™"]
   },
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
-  },
->>>>>>> Stashed changes
   "Vampire II": {
     "name": "Vampire II",
     "aliases": ["vampire ii"],
@@ -9003,7 +7621,6 @@
     "tier": 9,
     "is_premium": false,
     "is_special": true,
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "skills": [
       "Soon™"
@@ -10687,11 +9304,6 @@
       "Soon™"
     ],
     "note": "Tomato-Bot is no longer being updated and these builds are likely out of date. Use at your own risk."
-=======
-    "skills": ["Soon™"],
-    "upgrades": ["Soon™"],
-    "signals": ["Soon™"]
->>>>>>> Stashed changes
 =======
     "skills": ["Soon™"],
     "upgrades": ["Soon™"],
