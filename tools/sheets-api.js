@@ -9,7 +9,8 @@ const SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"];
 // created automatically when the authorization flow completes for the first
 // time.
 const TOKEN_PATH = "token.json";
-// getSheetEntry().then(a => {
+
+// getSheetEntry("skills").then(a => {
 //   console.log(a);
 // });
 
@@ -41,7 +42,7 @@ async function authorize(credentials, callback) {
     oAuth2Client.setCredentials(JSON.parse(token));
     return await callback(oAuth2Client);
   } catch (err) {
-    return getNewToken(oAuth2Client, callback);
+    return await getNewToken(oAuth2Client, callback);
   }
 
   // Check if we have previously stored a token.
@@ -119,7 +120,7 @@ async function getCaptainSkills(auth) {
   const sheets = google.sheets({ version: "v4", auth });
   let res = await sheets.spreadsheets.values.get({
     spreadsheetId: "1gviI0FbwIpUGk1yEKru9sJcycaE45c3AjS4oM4a0gx4",
-    range: "0.10.0 Skills"
+    range: "Captain Skills"
   });
   if (res.err)
     return console.error("The Sheets API returned an error: " + res.err);
